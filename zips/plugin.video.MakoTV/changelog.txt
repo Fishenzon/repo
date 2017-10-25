@@ -1,0 +1,48 @@
+[B]1.2.2[/B]
+- Maintenance.
+[B]1.2.1[/B]
+- Added Live Channels section.
+[B]1.2.0[/B]
+- Improvement in playing videos (at rush hour).
+- Remove option to use Israeli IP header using 'X-FORWARDED-FOR' header. (stopped working)
+[B]1.1.9[/B]
+- Maintenance.
+[B]1.1.8[/B]
+- Maintenance.
+[B]1.1.7[/B]
+- Added an option to enter the paid username and password in addon settings.
+[B]1.1.6[/B]
+- Added News category.
+[B]1.1.5[/B]
+- Added Documentary movies category.
+[B]1.1.4[/B]
+- Maintenance.
+[B]1.1.3[/B]
+- Added User-Agent to playing URL. (some devices needs this).
+[B]1.1.2[/B]
+- Added option to use Israeli IP header using 'X-FORWARDED-FOR' header. (i.e. 192.118.82.223)  
+  default is empty (not use 'X-FORWARDED-FOR')
+[B]1.1.1[/B]
+- Delete 'cookies.dat' file before playing an item.
+[B]1.1.0[/B]
+- Fix for items not playing on kodi 15. (Thanks to BenHT from http://www.hometheater.co.il)
+[B]1.0.9[/B]
+- Added search option.
+- Added sorting method option. (website-order / alphabetic-order)
+- Addon name changed.
+[B]1.0.8[/B]
+- Added more categories.
+[B]1.0.7[/B]
+- Adjust to APIs' changes (again..).
+[B]1.0.6[/B]
+- Fix playing problems for few users.
+[B]1.0.5[/B]
+- Adjust to APIs' changes (again).
+[B]1.0.4[/B]
+- Adjust to APIs' changes.
+[B]1.0.3[/B]
+- Bugfix, the addon will start faster now.
+[B]1.0.1[/B]
+- Fix for XBMC versions.
+[B]1.0.0[/B]
+- Initial release.
