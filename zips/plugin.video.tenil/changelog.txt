@@ -1,3 +1,6 @@
+[B]1.0.6[/B]
+- Added 'Watch Live'.
+- Icon changed.
 [B]1.0.5[/B]
 - Better Fix for shows list.
 - Show Aired date.
