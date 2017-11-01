@@ -1,3 +1,5 @@
+[B]Version 2.2.7[/B]
+-Fix for some shows in nick and nick junior.
 [B]Version 2.2.6[/B]
 -Fix for nick and nick junior.
 -Add nick and nick junior to categories list.
