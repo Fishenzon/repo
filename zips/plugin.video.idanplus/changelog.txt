@@ -1,2 +1,7 @@
 v1.0.0
 - Initial
+
+v1.0.1
+- More live channels
+- You can change the view-mode for episodes and videos.
+- Choose playing lower quality by right click on an item.
