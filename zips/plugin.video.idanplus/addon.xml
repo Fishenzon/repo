@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.0.2" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.0.3" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -15,7 +15,8 @@
 			<news>- More live channels
 - You can change the view-mode for episodes and videos.
 - Choose playing lower quality by right click on an item.
-- i24 live channels</news>
+- Show detailed EPG from contex menu (right click on a channel).
+- Text Colors of EPG can be change from addon settings.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>

@@ -1,5 +1,11 @@
+v1.0.3
+- More live channels.
+- EPG on live channels screen.
+- Show detailed EPG from contex menu (right click on a channel).
+- Text Colors of EPG can be change from addon settings.
+
 v1.0.2
-- i24 live channels
+- i24 live channels.
 
 v1.0.1
 - More live channels
