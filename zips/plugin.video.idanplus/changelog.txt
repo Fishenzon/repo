@@ -1,3 +1,6 @@
+v1.0.4
+- EPG is now faster.
+
 v1.0.3
 - More live channels.
 - EPG on live channels screen.
