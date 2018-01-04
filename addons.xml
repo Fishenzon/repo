@@ -79,7 +79,7 @@
 			</supportedcontent>	
 		</extension>
 	</addon>
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.0.3" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.0.4" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -92,11 +92,10 @@
 			<summary lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">Watch Idan plus channels and VOD from official websites.</description>
 			<description lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</description>
-			<news>- More live channels
-- You can change the view-mode for episodes and videos.
-- Choose playing lower quality by right click on an item.
+			<news>- Choose playing lower quality by right click on an item.
 - Show detailed EPG from contex menu (right click on a channel).
-- Text Colors of EPG can be change from addon settings.</news>
+- The view-mode for episodes and videos can be change from addon-settings.
+- Text Colors of EPG can be change from addon-settings.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
