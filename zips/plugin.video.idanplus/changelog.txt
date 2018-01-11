@@ -1,3 +1,8 @@
+v1.0.5
+- Kan VOD added.
+- Colored items in menus.
+- Colors can be change from addon settings
+
 v1.0.4
 - EPG is now faster.
 
