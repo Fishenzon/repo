@@ -1,3 +1,6 @@
+v1.0.6
+- Channel 20 VOD added.
+
 v1.0.5
 - Kan VOD added.
 - Colored items in menus.
