@@ -1,3 +1,7 @@
+v1.0.7
+- Radio added.
+- Force reload EPG from addon settings.
+
 v1.0.6
 - Channel 20 VOD added.
 
