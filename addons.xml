@@ -57,7 +57,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
-	<addon id="plugin.video.wallaNew.video" name="וואלה" version="2.2.7" provider-name="sbentin, shlomico, nil">
+	<addon id="plugin.video.wallaNew.video" name="וואלה" version="2.2.8" provider-name="sbentin, shlomico, nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -73,12 +73,13 @@
 			<description lang="he">צפה במגוון הסרטים ערוצים וסדרות הניתנים לצפיה דרך אתר video.walla.co.il</description>
 			<disclaimer>This addon parse Walla site, you should check Walla's TOS before you using. It's as is</disclaimer>
 			<supportedcontent>
-				<content>tvshows</content>
-				<content>episodes</content>
-				<content>movies</content>
+			  <content>tvshows</content>
+			  <content>episodes</content>
+			  <content>movies</content>
 			</supportedcontent>	
 		</extension>
 	</addon>
+
 	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.0.7" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
