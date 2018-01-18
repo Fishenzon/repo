@@ -1,3 +1,6 @@
+v1.0.8
+- Fix for Channel 12 live.
+
 v1.0.7
 - Radio added.
 - Force reload EPG from addon settings.
