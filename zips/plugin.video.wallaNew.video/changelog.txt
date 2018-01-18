@@ -1,20 +1,30 @@
 [B]Version 2.2.7[/B]
+-Fix for playing some shows.
+
+[B]Version 2.2.7[/B]
 -Fix for some shows in nick and nick junior.
+
 [B]Version 2.2.6[/B]
 -Fix for nick and nick junior.
 -Add nick and nick junior to categories list.
+
 [B]Version 2.2.5[/B]
 -Paw Patrol Season
+
 [B]Version 2.2.4[/B]
 -Paw Patrol Season 3 
--More episodes For new Shows .
+-More episodes For new Shows.
+
 [B]Version 2.2.3[/B]
 -added description for some episodes.
+
 [B]Version 2.2.2[/B]
 -saved Dora Again !
 -description fixed for wallaVod
+
 [B]Version 2.2.2[/B]
 -Adults is Now optional from settings .
+
 [B]Version 2.2.1[/B]
 -Maintenance
 
