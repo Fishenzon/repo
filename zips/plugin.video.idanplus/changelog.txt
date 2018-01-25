@@ -1,3 +1,6 @@
+v1.0.9
+- Fix for Kan VOD.
+
 v1.0.8
 - Fix for Channel 12 live.
 
