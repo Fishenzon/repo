@@ -1,3 +1,6 @@
+v1.1.1
+- More videos in Reshet VOD.
+
 v1.1.0
 - Add Kan VOD - News.
 
