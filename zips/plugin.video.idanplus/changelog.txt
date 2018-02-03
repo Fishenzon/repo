@@ -1,3 +1,6 @@
+v1.1.4
+-EPG moved to a new site.
+
 v1.1.3
 -More seasons in Reshet VOD.
 -102fm and 103fm added to Radio.
