@@ -1,4 +1,7 @@
-[B]Version 2.2.7[/B]
+[B]Version 2.2.9[/B]
+-Fix for playing some shows.
+
+[B]Version 2.2.8[/B]
 -Fix for playing some shows.
 
 [B]Version 2.2.7[/B]
