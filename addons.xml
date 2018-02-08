@@ -57,7 +57,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
-	<addon id="plugin.video.wallaNew.video" name="וואלה" version="2.2.8" provider-name="sbentin, shlomico, nil">
+	<addon id="plugin.video.wallaNew.video" name="וואלה" version="2.2.9" provider-name="sbentin, shlomico, nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
