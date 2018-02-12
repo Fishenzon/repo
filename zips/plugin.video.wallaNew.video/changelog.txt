@@ -1,3 +1,9 @@
+[B]Version 2.3.0[/B]
+-Fix for not showing playing video name.
+-Fix for not showing subtitles.
+-Show videos publish year.
+-Hide adult videos in all categories.
+
 [B]Version 2.2.9[/B]
 -Fix for playing some shows.
 
