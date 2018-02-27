@@ -12,51 +12,7 @@
 			<platform>all</platform>
 		</extension>
 	</addon>
-	<addon id="plugin.video.tenil" name="ערוץ 10 (web)" version="1.0.7" provider-name="nil">
-		<requires>
-			<import addon="xbmc.python" version="2.1.0"/>
-		</requires>
-		<extension point="xbmc.python.pluginsource" library="default.py">
-			<provides>video</provides>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary lang="en">Watch Channel 10 video contents.</summary>
-			<description lang="en">Watch contents from Channel 10's website.</description>
-			<summary lang="he">צפיה בתוכניות מאתר ערוץ 10</summary>
-			<description lang="he">צפיה במגוון התוכניות והסדרות מאתר ערוץ 10</description>
-			<platform>all</platform>
-		</extension>
-	</addon>
-	<addon id="plugin.video.reshet" name="רשת (web)" version="1.0.5" provider-name="nil">
-		<requires>
-			<import addon="xbmc.python" version="2.1.0"/>
-		</requires>
-		<extension point="xbmc.python.pluginsource" library="default.py">
-			<provides>video</provides>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary lang="en">Watch Reshet video contents.</summary>
-			<description lang="en">Watch contents from Reshet's website.</description>
-			<summary lang="he">צפיה בתוכניות מאתר רשת</summary>
-			<description lang="he">צפיה במגוון התוכניות והסדרות מאתר רשת</description>
-			<platform>all</platform>
-		</extension>
-	</addon>
-	<addon id="plugin.video.MakoTV" name="MakoTV (web)" version="1.2.2" provider-name="nil">
-		<requires>
-			<import addon="xbmc.python" version="2.1.0"/>
-		</requires>
-		<extension point="xbmc.python.pluginsource" library="default.py">
-			<provides>video</provides>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary lang="en">Watch MakoTV Videos</summary>
-			<description lang="en">Watch Mako Video content from MakoTV website.</description>
-			<summary lang="he">צפיה בתכנים מאתר MakoTV</summary>
-			<description lang="he">צפיה בתכנים מאתר MakoTV.</description>
-			<platform>all</platform>
-		</extension>
-	</addon>
+	
 	<addon id="plugin.video.wallaNew.video" name="וואלה" version="2.3.0" provider-name="sbentin, shlomico, nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
@@ -79,7 +35,8 @@
 			</supportedcontent>	
 		</extension>
 	</addon>
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.1.6" provider-name="nil">
+	
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.1.7" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -100,8 +57,7 @@
 - צפיה במדריך שידורים מפורט ע"י קליק ימני על ערוץ.[CR]
 - קביעת מצב תצוגה לפרקים וסדרות בהגדרות ההרחבה.[CR]
 - בחירת צבעים לרשימות בהגדרות ההרחבה.</description>
-			<news>-More sections in Keshet VOD (Kids - WIZ, Food).[CR]
--Some fixes for seasons in Reshet VOD..</news>
+			<news>-Fixes for some series in channel 14 VOD.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
