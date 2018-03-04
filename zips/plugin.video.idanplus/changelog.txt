@@ -1,3 +1,6 @@
+v1.2.0
+-Fix for old Kodi versions running python older than 2.7.9 not playing Reshet Channel.
+
 v1.1.9
 -Fix for old Kodi versions running python older than 2.7 not showing Reshet VOD.
 
