@@ -1,37 +1,40 @@
+v1.2.4
+- Added Kan VOD - Documentary.
+
 v1.2.3
---Added channel 23 live.
+- Added channel 23 live.
 
 v1.2.2
--Fix for Reshet VOD.
+- Fix for Reshet VOD.
 
 v1.2.1
--Some fixes for seasons in Reshet VOD.
+- Some fixes for seasons in Reshet VOD.
 
 v1.2.0
--Fix for old Kodi versions running python older than 2.7.9 not playing Reshet Channel.
+- Fix for old Kodi versions running python older than 2.7.9 not playing Reshet Channel.
 
 v1.1.9
--Fix for old Kodi versions running python older than 2.7 not showing Reshet VOD.
+- Fix for old Kodi versions running python older than 2.7 not showing Reshet VOD.
 
 v1.1.8
--Fix for old Kodi versions running python older than 2.7.
+- Fix for old Kodi versions running python older than 2.7.
 
 v1.1.7
--Fixes for some series in channel 14 VOD.
+- Fixes for some series in channel 14 VOD.
 
 v1.1.6
--More sections in Keshet VOD (Kids - WIZ, Food).
--Some fixes for seasons in Reshet VOD.
+- More sections in Keshet VOD (Kids - WIZ, Food).
+- Some fixes for seasons in Reshet VOD.
 
 v1.1.5
--EPG moved to a new site.
+- EPG moved to a new site.
 
 v1.1.4
--EPG moved to a new site.
+- EPG moved to a new site.
 
 v1.1.3
--More seasons in Reshet VOD.
--102fm and 103fm added to Radio.
+- More seasons in Reshet VOD.
+- 102fm and 103fm added to Radio.
 
 v1.1.2
 - Better Logos quality in Keshet VOD.
@@ -40,7 +43,7 @@ v1.1.1
 - More videos in Reshet VOD.
 
 v1.1.0
-- Add Kan VOD - News.
+- Added Kan VOD - News.
 
 v1.0.9
 - Fix for Kan VOD.
