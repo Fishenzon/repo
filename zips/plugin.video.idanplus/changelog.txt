@@ -1,3 +1,6 @@
+v1.2.5
+- Bugfix for search (contains spaces) in Keshet VOD.
+
 v1.2.4
 - Added Kan VOD - Documentary.
 
