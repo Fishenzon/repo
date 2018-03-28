@@ -1,3 +1,6 @@
+v1.2.6
+- Keshet VOD: Try 'CASTTIME' link if 'AKAMAI' link not playing.
+
 v1.2.5
 - Bugfix for search (contains spaces) in Keshet VOD.
 

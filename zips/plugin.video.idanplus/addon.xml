@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.2.5" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.2.6" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -20,7 +20,7 @@
 - צפיה במדריך שידורים מפורט ע"י קליק ימני על ערוץ.[CR]
 - קביעת מצב תצוגה לפרקים וסדרות בהגדרות ההרחבה.[CR]
 - בחירת צבעים לרשימות בהגדרות ההרחבה.</description>
-			<news>- Bugfix for search (contains spaces) in Keshet VOD.</news>
+			<news>- Keshet VOD: Try 'CASTTIME' link if 'AKAMAI' link not playing.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
