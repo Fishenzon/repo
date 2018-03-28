@@ -1,3 +1,6 @@
+v1.2.7
+- More seasons in Reshet VOD.
+
 v1.2.6
 - Keshet VOD: Try 'CASTTIME' link if 'AKAMAI' link not playing.
 
