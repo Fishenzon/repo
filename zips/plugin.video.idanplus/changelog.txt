@@ -1,3 +1,6 @@
+v1.2.9
+- Some fixes for seasons in Reshet VOD.
+
 v1.2.8
 - Fix for Reshet VOD. (Changes in website)
 
