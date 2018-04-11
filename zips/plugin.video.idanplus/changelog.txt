@@ -1,3 +1,8 @@
+v1.3.1
+- Added Kan VOD - World.
+- Added Kan VOD - Radio programs.
+- Fix Kan Radio stations Makan and Persian.
+
 v1.3.0
 - Added 'Kids - Education' in Keshet VOD.
 
