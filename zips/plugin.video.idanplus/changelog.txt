@@ -1,3 +1,6 @@
+v1.3.2
+- Fixed Radio stations: 102fm, GLZ and GLGLZ.
+
 v1.3.1
 - Added Kan VOD - World.
 - Added Kan VOD - Radio programs.
