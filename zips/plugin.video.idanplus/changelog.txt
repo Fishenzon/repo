@@ -1,3 +1,6 @@
+v1.3.3
+- Shows uncategorized series in Reshet VOD ('Six Fathers' and 'Movies').
+
 v1.3.2
 - Fixed Radio stations: 102fm, GLZ and GLGLZ.
 
