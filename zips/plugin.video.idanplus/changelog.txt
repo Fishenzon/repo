@@ -1,3 +1,9 @@
+v1.3.4
+- Added channel 21 live.
+- Open addon settings from addon.
+- Control show/hide tv channels and radio stations from addon settings.
+- Refresh list (TV and Radio) moved to end of list.
+
 v1.3.3
 - Shows uncategorized series in Reshet VOD ('Six Fathers' and 'Movies').
 
