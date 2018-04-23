@@ -1,3 +1,6 @@
+v1.3.6
+- Added 'The News' channel.
+
 v1.3.5
 - Some fixes for series in Reshet VOD.
 
