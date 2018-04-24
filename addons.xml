@@ -36,7 +36,7 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.3.6" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.3.7" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -57,7 +57,7 @@
 - צפיה במדריך שידורים מפורט ע"י קליק ימני על ערוץ.[CR]
 - קביעת מצב תצוגה לפרקים וסדרות בהגדרות ההרחבה.[CR]
 - בחירת צבעים לרשימות בהגדרות ההרחבה.</description>
-			<news>- Added 'The News' channel.</news>
+			<news>- Resize channel logos to same size.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
