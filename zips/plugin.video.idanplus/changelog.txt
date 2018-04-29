@@ -1,3 +1,6 @@
+v1.3.8
+- Fix for not playing Reshet Live on old Kodi versions.
+
 v1.3.7
 - Resize channel logos to same size.
 
