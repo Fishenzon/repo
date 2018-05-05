@@ -1,3 +1,6 @@
+v1.4.0
+- Added channel Big Brother live.
+
 v1.3.9
 - Fix for empty lists at Keshet VOD - 'The News' (It's moved into Programs section in website).
 
