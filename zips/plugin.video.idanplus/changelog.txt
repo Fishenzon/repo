@@ -1,3 +1,6 @@
+v1.4.3
+- Try playing videos on Reshet VOD wich not playable at website.
+
 v1.4.2
 - Control channels and radio stations order from addon settings.
 
