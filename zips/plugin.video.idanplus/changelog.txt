@@ -1,3 +1,6 @@
+v1.4.5
+- Added Ynet Live channel.
+
 v1.4.4
 - Fix for display some program names in Ten VOD.
 - Remove MeirTV channel. (It's not a live channel)
@@ -13,7 +16,7 @@ v1.4.1
 - Channel Big Brother live (26) moved to rigth place in list.
 
 v1.4.0
-- Added channel Big Brother live.
+- Added Big Brother live channel .
 
 v1.3.9
 - Fix for empty lists at Keshet VOD - 'The News' (It's moved into Programs section in website).
