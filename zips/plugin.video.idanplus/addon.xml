@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.4.5" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.4.6" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -20,7 +20,8 @@
 - צפיה במדריך שידורים מפורט ע"י קליק ימני על ערוץ.[CR]
 - קביעת מצב תצוגה לפרקים וסדרות בהגדרות ההרחבה.[CR]
 - בחירת צבעים לרשימות בהגדרות ההרחבה.</description>
-			<news>- Added Ynet Live channel.</news>
+			<news>- Choose channel name format (Addon settings - General).[CR]
+- Choose program name format (Addon settings - General).</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
