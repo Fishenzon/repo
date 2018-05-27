@@ -1,3 +1,6 @@
+v1.4.7
+- Fix for Music channel Live (24).
+
 v1.4.6
 - Choose channel name format (Addon settings - General).
 - Choose program name format (Addon settings - General).
