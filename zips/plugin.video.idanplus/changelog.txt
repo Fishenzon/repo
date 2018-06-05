@@ -1,3 +1,6 @@
+v1.5.0
+- Fix for Channel 20 (Live & VOD). (Changes in website)
+
 v1.4.9
 - Remove i24 channels. (It's for members only in website)
 
