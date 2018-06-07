@@ -1,3 +1,6 @@
+v1.5.2
+- Set playing quality for TV channel by right click on an item. (Choose Auto reset)
+
 v1.5.1
 - Bugfix.
 
