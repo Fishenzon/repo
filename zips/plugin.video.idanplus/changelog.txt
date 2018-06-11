@@ -1,5 +1,9 @@
+v1.5.3
+- Fix icons in Kan VOD.
+- Set max playing quality for VOD (except for Kan). Set in Addon settings for each site.
+
 v1.5.2
-- Set playing quality for TV channel by right click on an item. (Choose Auto reset)
+- Set max playing quality for TV channel by right click on an item. (Choose Auto reset)
 
 v1.5.1
 - Bugfix.
