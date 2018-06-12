@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.5.3" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.5.4" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -12,7 +12,7 @@
 			<summary lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">Watch Idan plus channels and VOD from official websites.[CR]- Choose playing lower quality from contex menu (right click on an item).[CR]- Show detailed EPG for live channel from contex menu.[CR]- The view-mode for episodes and videos can be change from addon-settings.[CR]- Text Colors of Lists can be change from addon-settings.</description>
 			<description lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]- צפיה באיכות נמוכה יותר ע"י קליק ימני על פריט ברשימה.[CR]- צפיה במדריך שידורים מפורט ע"י קליק ימני על ערוץ.[CR]- קביעת מצב תצוגה לפרקים וסדרות בהגדרות ההרחבה.[CR]- בחירת צבעים לרשימות בהגדרות ההרחבה.</description>
-			<news>- Fix icons in Kan VOD.[CR]- Set max playing quality for VOD (except for Kan). Set in Addon settings for each site.</news>
+			<news>- Fix playing Kan Live channels(11, 33). (Changes in website)</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
