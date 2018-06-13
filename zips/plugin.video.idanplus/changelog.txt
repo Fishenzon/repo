@@ -1,3 +1,6 @@
+v1.5.6
+- Set max playing quality for Kan 4K Live channel by right click. (Choose Auto to reset)
+
 v1.5.5
 - Added Kan 4K Live channel.
 
@@ -9,7 +12,7 @@ v1.5.3
 - Set max playing quality for VOD (except for Kan). Set in Addon settings for each site.
 
 v1.5.2
-- Set max playing quality for TV channel by right click on an item. (Choose Auto reset)
+- Set max playing quality for TV channel by right click on an item. (Choose Auto to reset)
 
 v1.5.1
 - Bugfix.
