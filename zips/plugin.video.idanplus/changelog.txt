@@ -1,3 +1,6 @@
+v1.5.5
+- Added Kan 4K Live channel.
+
 v1.5.4
 - Fix playing Kan Live channels(11, 33). (Changes in website)
 
