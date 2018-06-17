@@ -1,3 +1,6 @@
+v1.5.8
+- Added Worldcup 2018 full games. (Live and Recorded).
+
 v1.5.7
 - Fix set max playing quality for Kan Live channels(11, 33, Kan4K). (Changes in website)
 
