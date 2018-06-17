@@ -1,3 +1,6 @@
+v1.5.7
+- Fix set max playing quality for Kan Live channels(11, 33, Kan4K). (Changes in website)
+
 v1.5.6
 - Set max playing quality for Kan 4K Live channel by right click. (Choose Auto to reset)
 
