@@ -1,3 +1,6 @@
+v1.5.9
+- Fix playing Kan 11 Live channel. (Changes in website)
+
 v1.5.8
 - Added Worldcup 2018 full games. (Live and Recorded).
 
