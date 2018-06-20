@@ -1,3 +1,6 @@
+v1.6.1
+- Fix playing Kan 11 Live channel. (Changes in website)
+
 v1.6.0
 - Fix playing Knesset 99 Live channel. (Changes in website)
 
