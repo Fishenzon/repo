@@ -1,3 +1,6 @@
+v1.6.2
+- Bugfix for 1.6.1 playing Kan 4K Live channel.
+
 v1.6.1
 - Fix playing Kan 11 Live channel. (Changes in website)
 
