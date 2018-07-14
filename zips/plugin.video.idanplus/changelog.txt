@@ -1,3 +1,6 @@
+v1.6.4
+- Fix playing some Ten VOD videos.
+
 v1.6.3
 - Fix playing Kan 33 Live channel. (Changes in website)
 
