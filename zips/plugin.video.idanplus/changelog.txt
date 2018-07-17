@@ -1,3 +1,6 @@
+v1.6.6
+- Fix playing some Ten VOD videos. (bugfix for v1.6.5)
+
 v1.6.5
 - Fix playing some Ten VOD videos.
 - Remove Kan4K channel. (channel is off)
