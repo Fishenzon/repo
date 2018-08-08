@@ -1,3 +1,6 @@
+v1.6.8
+- Fix spacing issue while mixing [COLOR] formatting and none [COLOR] formatting some parts of a label
+
 v1.6.7
 - Added fanart to listitem.
 - The "sort by" item moved outside vod list (reshet, channel 20).
