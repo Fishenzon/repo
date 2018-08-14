@@ -1,3 +1,6 @@
+v1.6.9
+- Change source of channel 23 live (moved to kan site).
+
 v1.6.8
 - Fix spacing issue while mixing [COLOR] formatting and none [COLOR] formatting some parts of a label
 
