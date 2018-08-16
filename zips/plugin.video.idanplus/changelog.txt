@@ -1,3 +1,6 @@
+v1.7.1
+- Added more local radio stations.
+
 v1.7.0
 - EPG moved to a new site.
 
