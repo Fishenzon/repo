@@ -1,3 +1,7 @@
+v1.7.2
+- Added another link to 'The News' channel.
+- Added Walla!News Live channel.
+
 v1.7.1
 - Added more local radio stations.
 
