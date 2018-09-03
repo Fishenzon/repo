@@ -1,3 +1,6 @@
+v1.7.4
+- Bugfix for last version.
+
 v1.7.3
 - Removed Big Brother live channel.
 - Added IPTV files for Live TV in profile folder (Kodi 18+).
