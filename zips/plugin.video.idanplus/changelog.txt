@@ -1,3 +1,7 @@
+v1.7.5
+- Added favorites. (context menu)
+- small bugfixes.
+
 v1.7.4
 - Bugfix for last version.
 
