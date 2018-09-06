@@ -1,3 +1,8 @@
+v1.7.6
+- Added options to move items in favorites. (context menu)
+- Added shortcuts to open the Live TV and Radio. (in Live channels and Radio sections)
+- Added more options to Live TV section in addon settings.
+
 v1.7.5
 - Added favorites. (context menu)
 - small bugfixes.
