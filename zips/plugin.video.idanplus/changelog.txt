@@ -1,3 +1,6 @@
+v1.7.7
+- Bugfix for last version.
+
 v1.7.6
 - Added options to move items in favorites. (context menu)
 - Added shortcuts to open the Live TV and Radio. (in Live channels and Radio sections)
