@@ -36,7 +36,7 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.7.6" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.7.7" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
