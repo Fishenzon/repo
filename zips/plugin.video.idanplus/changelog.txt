@@ -1,3 +1,7 @@
+v1.8.1
+- Set max playing quality for VOD by right click. (Choose Auto to reset)
+- Show/Hide shortcuts in TV/Radio list to open LiveTV's TV/Radio screen (addon settings).
+
 v1.8.0
 - Bugfix.
 
