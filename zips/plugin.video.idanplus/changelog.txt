@@ -1,3 +1,6 @@
+v1.8.3
+- Bugfix for last version.
+
 v1.8.2
 - Added Kan Education 23 VOD.
 - Added Kan Podcasts.
