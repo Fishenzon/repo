@@ -1,3 +1,6 @@
+v1.8.6
+- Fix load Radio programs. (Changes in website)
+
 v1.8.5
 - Fix playing Kan Live channels. (Changes in website)
 
