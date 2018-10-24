@@ -1,3 +1,6 @@
+v1.8.8
+- Fix load Radio programs. (Changes in website)
+
 v1.8.7
 - Fix search programs to be not case-sensitive.
 - Added direct links for live tv channels and radio. (plugin://plugin.video.idanplus/?mode=5&url=ch_11 - list in baseChannels.py) 
