@@ -1,3 +1,6 @@
+v1.9.1
+- Fix playing Kan Live channels. (Changes in website)
+
 v1.9.0
 - Fix Reshet VOD empty lists.
 - Remove some Kan radio stations. (Changes in website)
