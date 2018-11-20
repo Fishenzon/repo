@@ -1,3 +1,7 @@
+v1.9.3
+- Fix showing series and episodes of Kan Education 23 VOD and Kan Radio stations.
+- Added Keshet Live channel with closed captions.
+
 v1.9.2
 - Fix missing series in Reshet VOD.
 - Sorting Mako VOD episodes by aired date.
