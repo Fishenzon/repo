@@ -1,3 +1,7 @@
+v1.9.4
+- Fixed links for Kan (Tv, Radio, Radio programs and Podcasts).
+- Added an option to show/hide short subtitle for mako VODs program names.
+
 v1.9.3
 - Fix showing series and episodes of Kan Education 23 VOD and Kan Radio stations.
 - Added Keshet Live channel with closed captions.
