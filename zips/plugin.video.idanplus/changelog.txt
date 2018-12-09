@@ -1,3 +1,6 @@
+v1.9.5
+- Fixed link to 102fm Eilat radio station.
+
 v1.9.4
 - Fixed links for Kan (Tv, Radio, Radio programs and Podcasts).
 - Added an option to show/hide short subtitle for mako VODs program names.
