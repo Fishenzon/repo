@@ -1,3 +1,7 @@
+v1.9.6
+- Fixed link for Knesset Tv.
+- Added Kol Hayam Hatichon radio station.
+
 v1.9.5
 - Fixed link to 102fm Eilat radio station.
 
