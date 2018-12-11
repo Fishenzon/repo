@@ -1,3 +1,6 @@
+v1.9.7
+- Fix playing Kan Live channels. (Changes in website).
+
 v1.9.6
 - Fixed link for Knesset Tv.
 - Added Kol Hayam Hatichon radio station.
