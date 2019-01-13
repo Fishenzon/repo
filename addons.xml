@@ -36,7 +36,7 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.9.8" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="1.9.9" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -50,7 +50,7 @@
 			<summary lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">Watch Idan plus channels and VOD from official websites.[CR]Custumize options in addon-settings and context menu (right click on an item).</description>
 			<description lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Fix showing Kan Radio programs. (Changes in website).</news>
+			<news>- Added 2025 Live channel.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
