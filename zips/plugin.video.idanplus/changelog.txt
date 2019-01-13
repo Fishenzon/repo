@@ -1,3 +1,6 @@
+v1.9.9
+- Added 2025 Live channel.
+
 v1.9.8
 - Fix showing Kan Radio programs. (Changes in website).
 
