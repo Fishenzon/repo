@@ -1,3 +1,7 @@
+v2.0.0
+- Channel 14 (Ten) removed.
+- Some Bugfixes.
+
 v1.9.9
 - Added 2025 Live channel.
 
