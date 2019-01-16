@@ -1,3 +1,6 @@
+v2.0.1
+- Some Bugfixes.
+
 v2.0.0
 - Channel 14 (Ten) removed.
 - Some Bugfixes.
