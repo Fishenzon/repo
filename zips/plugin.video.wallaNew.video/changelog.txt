@@ -1,3 +1,6 @@
+[B]Version 2.3.2[/B]
+-Fix for not showing icons.
+
 [B]Version 2.3.1[/B]
 -Fix for not showing subtitles.
 
