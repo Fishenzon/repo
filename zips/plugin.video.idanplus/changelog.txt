@@ -1,3 +1,6 @@
+v2.0.3
+- Added some Russian TV channels and Radio stations.
+
 v2.0.2
 - Some Bugfixes.
 
