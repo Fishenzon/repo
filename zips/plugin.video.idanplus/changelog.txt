@@ -1,3 +1,6 @@
+v2.0.4
+- Added VOD to 9TV channel and to 89.1 radio station.
+
 v2.0.3
 - Added some Russian TV channels and Radio stations.
 
