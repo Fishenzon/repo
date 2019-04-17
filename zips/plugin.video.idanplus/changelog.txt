@@ -1,3 +1,7 @@
+v2.0.5
+- Added VOD to 13-News channel.
+- Added Reshet 13 Live channel with closed captions.
+
 v2.0.4
 - Added VOD to 9TV channel and to 89.1 radio station.
 
@@ -36,7 +40,7 @@ v1.9.4
 
 v1.9.3
 - Fix showing series and episodes of Kan Education 23 VOD and Kan Radio stations.
-- Added Keshet Live channel with closed captions.
+- Added Keshet 12 Live channel with closed captions.
 
 v1.9.2
 - Fix missing series in Reshet VOD.
