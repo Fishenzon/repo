@@ -1,9 +1,14 @@
+v2.0.6
+- Fix playing 21 Live channel.
+- Added Sport 5 Studio channel (website) and Radio station.
+- Added VOD for Sport 5 website.
+
 v2.0.5
 - Added VOD to 13-News channel.
 - Added Reshet 13 Live channel with closed captions.
 
 v2.0.4
-- Added VOD to 9TV channel and to 89.1 radio station.
+- Added VOD for 9TV channel and for 89.1 radio station.
 
 v2.0.3
 - Added some Russian TV channels and Radio stations.
