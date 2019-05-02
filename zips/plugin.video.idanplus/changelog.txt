@@ -1,3 +1,6 @@
+v2.0.7
+- Fix showing Kan Radio programs. (Changes in website).
+
 v2.0.6
 - Fix playing 21 Live channel.
 - Added Sport 5 Studio channel (website) and Radio station.
