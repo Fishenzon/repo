@@ -1,3 +1,6 @@
+v2.1.0
+- Added EPG for Sport 5 Radio.
+
 v2.0.9
 - Fix showing Kan Radio programs. (Changes in website).
 
