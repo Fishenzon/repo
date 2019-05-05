@@ -11,9 +11,9 @@
 			<platform>all</platform>
 			<summary lang="en">Watch Idan plus channels and VOD from official websites.</summary>
 			<summary lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
-			<description lang="en">- Fix showing Kan Radio programs. (Changes in website).</description>
+			<description lang="en">Watch Idan plus channels and VOD from official websites.[CR]Custumize options in addon-settings and context menu (right click on an item).</description>
 			<description lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Added search for Channel 9, Sport 5 and 89.1FM programs.</news>
+			<news>- Fix showing Kan Radio programs. (Changes in website).</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
