@@ -1,3 +1,6 @@
+v2.0.9
+- Fix showing Kan Radio programs. (Changes in website).
+
 v2.0.8
 - Added search for Channel 9, Sport 5 and 89.1FM programs.
 
