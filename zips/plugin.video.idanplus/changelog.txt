@@ -1,3 +1,7 @@
+v2.1.2
+- Cache Sport 5 data.
+- New logo for Channel 24.
+
 v2.1.1
 - Added Sport 5 Radio programs / Psdcasts.
 - Added search for Sport 5 Radio programs / Psdcasts.
