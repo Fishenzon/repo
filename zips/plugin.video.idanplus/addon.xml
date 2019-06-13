@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.1.3" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.1.4" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -13,7 +13,7 @@
 			<summary lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">Watch Idan plus channels and VOD from official websites.[CR]Custumize options in addon-settings and context menu (right click on an item).</description>
 			<description lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Added Kan FIFA Female World Cup 2019 channel.[CR]- Added Kan FIFA Youth World Cup 20109 channel.</news>
+			<news>- Added EPG for Kan Female World Cup 2019 channel.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
