@@ -1,3 +1,6 @@
+v2.1.5
+- Fix for Sport 5 VOD. (Changes in website).
+
 v2.1.4
 - Added EPG for Kan Female World Cup 2019 channel.
 
