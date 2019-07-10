@@ -1,3 +1,6 @@
+v2.2.0
+- Added sub-categories and videos in Reshet VOD.
+
 v2.1.9
 - Fix for Reshet 13 channel. (Changes in website).
 
