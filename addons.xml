@@ -36,7 +36,7 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.2.2" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.2.3" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
@@ -50,7 +50,7 @@
 			<summary lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">Watch Idan plus channels and VOD from official websites.[CR]Custumize options in addon-settings and context menu (right click on an item).</description>
 			<description lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Fix ILand channel link.[CR]- Added backup link for Kan 11 live channel (1080p).[CR]- Added backup link for Reshet 13 live channel (720p).</news>
+			<news>- Fix playing some Kan VOD episodes. (Changes in website).[CR]- Added Musayof TV channel.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
