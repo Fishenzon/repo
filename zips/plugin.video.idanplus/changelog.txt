@@ -1,3 +1,7 @@
+v2.2.3
+- Fix playing some Kan VOD episodes. (Changes in website).
+- Added Musayof TV channel.
+
 v2.2.2
 - Fix ILand channel link.
 - Added backup link for Kan 11 live channel (1080p).
