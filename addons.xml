@@ -13,6 +13,20 @@
 		</extension>
 	</addon>
 	
+	<addon id="script.module.myresolver" name="My Resolver" version="1.0.0" provider-name="nil">
+		<requires>
+			<import addon="xbmc.python" version="2.1.0" />
+			<import addon="script.module.requests"/>
+		</requires>
+		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.pluginsource" library="lib/default.py" />
+		<extension point="xbmc.addon.metadata">
+			<platform>all</platform>
+			<summary lang="en"></summary>
+			<description lang="en"></description>    
+		</extension>
+	</addon>
+	
 	<addon id="plugin.video.wallaNew.video" name="וואלה" version="2.3.2" provider-name="sbentin, shlomico, nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
