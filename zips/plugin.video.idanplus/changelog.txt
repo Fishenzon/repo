@@ -1,3 +1,6 @@
+v2.2.9
+- Fix showing Kan VOD series.
+
 v2.2.8
 - Fix for Hidabrut channel. (Changes in website).
 
