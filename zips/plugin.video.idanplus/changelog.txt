@@ -1,3 +1,6 @@
+v2.3.0
+- Added VOD for 24 Music Channel.
+
 v2.2.9
 - Fix showing Kan VOD series.
 
