@@ -1,3 +1,7 @@
+v2.3.5
+- Added check of links qualities before playing a channel.
+- Remove Ten Channel (archive) - website is down.
+
 v2.3.4
 - Fix playing eco99fm Radio Channel.
 
