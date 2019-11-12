@@ -1,3 +1,6 @@
+v2.3.6
+- Fix for 21 Live channel. (Changes in website).
+
 v2.3.5
 - Added check of links qualities before playing a channel.
 - Remove Ten Channel (archive) - website is down.
