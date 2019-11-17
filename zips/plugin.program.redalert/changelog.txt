@@ -1,2 +1,5 @@
+v1.0.1
+- Bugfix: error notification when alerts list from server is empty.
+
 v1.0.0
 - Initial
