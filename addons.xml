@@ -69,7 +69,7 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.3.6" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.3.7" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 			<import addon="script.module.xmltodict"/>
@@ -80,11 +80,9 @@
 		<extension point="xbmc.service" library="resources/lib/service.py" start="[login|startup]"/>
 		<extension point="xbmc.addon.metadata">
 			<platform>all</platform>
-			<summary lang="en">Watch Idan plus channels and VOD from official websites.</summary>
-			<summary lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
-			<description lang="en">Watch Idan plus channels and VOD from official websites.[CR]Custumize options in addon-settings and context menu (right click on an item).</description>
-			<description lang="he">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Fix for 21 Live channel. (Changes in website).</news>
+			<summary lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
+			<description lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
+			<news>- Added channel name to favorite item in favorites list.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
