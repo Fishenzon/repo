@@ -1,3 +1,7 @@
+v2.3.8
+- Fix channel-20 VOD and Live. (Changes in website).
+- Added sort method to favorites list.
+
 v2.3.7
 - Added channel name to favorite item in favorites list.
 
