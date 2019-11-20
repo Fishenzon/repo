@@ -1,3 +1,7 @@
+v2.3.9
+- Fix showing duplicate channel name when adding item from search results to favorites list.
+- Added option to Addon settings to show/hide sort method in favorites list.
+
 v2.3.8
 - Fix channel-20 VOD and Live. (Changes in website).
 - Added sort method to favorites list.
