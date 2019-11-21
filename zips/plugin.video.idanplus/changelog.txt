@@ -1,3 +1,6 @@
+v2.4.0
+- Fix: hide options to move items in favorites list while list is sorted a-z.
+
 v2.3.9
 - Fix showing duplicate channel name when adding item from search results to favorites list.
 - Added option to Addon settings to show/hide sort method in favorites list.
