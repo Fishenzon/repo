@@ -1,3 +1,6 @@
+v2.4.2
+- Added Big Brother live channel. (It is still alive..)
+
 v2.4.1
 - Fix channel-20 VOD and Live. (Changes in website).
 
