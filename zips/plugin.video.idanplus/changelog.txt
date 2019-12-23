@@ -1,3 +1,6 @@
+v2.4.3
+- Fix showing Kan Education 23 series.
+
 v2.4.2
 - Added Big Brother live channel. (It is still alive..)
 
