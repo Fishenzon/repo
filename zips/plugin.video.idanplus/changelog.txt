@@ -1,3 +1,6 @@
+v2.4.5
+- Remove old dead TV channels.
+
 v2.4.4
 - Fix 9TV channel VOD.
 
