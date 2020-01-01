@@ -1,3 +1,8 @@
+v2.4.7
+- Fix Kneset TV link.
+- Fix Radio 101 link.
+- Fix Radio Kol Hayam Hatichon link.
+
 v2.4.6
 - Change Reshet 13 backup link.
 - Remove old Channel 10 code.
