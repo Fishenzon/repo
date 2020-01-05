@@ -1,3 +1,6 @@
+v2.4.8
+- Added Big Brother live backup link. 
+
 v2.4.7
 - Fix Kneset TV link.
 - Fix Radio 101 link.
