@@ -1,3 +1,7 @@
+v2.4.9
+- Fix showing Kan Radio links. 
+- Added Kan Tel Aviv 2019 Radio station. 
+
 v2.4.8
 - Added Big Brother live backup link. 
 
