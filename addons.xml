@@ -69,7 +69,7 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.5.0" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.5.1" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
 			<import addon="script.module.xmltodict"/>
@@ -82,7 +82,7 @@
 			<platform>all</platform>
 			<summary lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Maintenance.</news>
+			<news>- Fix Reshet TV links. (Changes in website).</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
