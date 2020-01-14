@@ -1,3 +1,6 @@
+v2.5.2
+- Fix for some Reshet VOD links. (Changes in website).
+
 v2.5.1
 - Fix Reshet TV links. (Changes in website).
 
