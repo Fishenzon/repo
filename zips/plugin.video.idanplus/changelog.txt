@@ -1,7 +1,11 @@
+v2.5.6
+- Fix playing 20-Channel Live and VOD links. 
+- Fix playing 100fm Live channel. 
+
 v2.5.5
 - Fix playing 20-Channel Live and VOD links. 
 
-vv2.5.4
+v2.5.4
 - Fix playing some Kan VOD links. 
 
 v2.5.3
