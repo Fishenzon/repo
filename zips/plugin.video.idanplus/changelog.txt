@@ -1,3 +1,7 @@
+v2.5.7
+- Support Kodi 19. 
+- Fix playing 102fm radio. 
+
 v2.5.6
 - Fix playing 20-Channel Live and VOD links. 
 - Fix playing 100fm Live channel. 
@@ -118,7 +122,6 @@ v2.2.2
 
 v2.2.1
 - Fix showing Kan VOD series. (Changes in website).
-- Support Kodi 19.
 
 v2.2.0
 - Added sub-categories and videos in Reshet VOD.
