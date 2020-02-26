@@ -69,9 +69,10 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.5.6" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.5.7" provider-name="nil">
 		<requires>
 			<import addon="xbmc.python" version="2.1.0"/>
+			<import addon="script.module.requests"/>
 			<import addon="script.module.xmltodict"/>
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="default.py">
@@ -82,7 +83,7 @@
 			<platform>all</platform>
 			<summary lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Fix playing 20-Channel Live and VOD links.[CR]- Fix playing 100fm Live channel. </news>
+			<news>- Support Kodi 19.[CR]- Fix playing 102fm radio.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
