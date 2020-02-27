@@ -1,3 +1,6 @@
+v2.5.8
+- Default YouTube links player - MyYoutube addon. Can be change from addon settings.
+
 v2.5.7
 - Support Kodi 19. 
 - Fix playing 102fm radio. 
