@@ -1,3 +1,7 @@
+v2.6.0
+- Fix for Reshet 13 News VOD lists. (Changes in website).
+- Fix for updating IPTV Simple Client with Idan+ Plus list. 
+
 v2.5.9
 - Fix playing 20-Channel episodes list.
 
