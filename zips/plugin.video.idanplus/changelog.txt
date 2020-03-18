@@ -1,3 +1,7 @@
+v2.6.1
+- Added N12 News TV channel.
+- Added 91FM Radio station.
+
 v2.6.0
 - Fix for Reshet 13 News VOD lists. (Changes in website).
 - Fix for updating IPTV Simple Client with Idan+ Plus list. 
