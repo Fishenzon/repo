@@ -1,5 +1,8 @@
+v2.6.5
+- Add Sport 5 Studio channel.
+
 v2.6.4
-- Fix playing some Kan VOD links.- Fixed link for Knesset Tv.
+- Fixed link for Knesset Tv.
 - Remove Sport 5 Studio channel.
 
 v2.6.3
