@@ -1,3 +1,6 @@
+v2.6.6
+- Fix for Sport 1 VOD. (Changes in website).
+
 v2.6.5
 - Add Sport 5 Studio channel.
 
