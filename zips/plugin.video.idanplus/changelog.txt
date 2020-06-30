@@ -1,3 +1,6 @@
+v2.6.7
+- More results for Sport 1 VOD.
+
 v2.6.6
 - Fix for Sport 1 VOD. (Changes in website).
 
