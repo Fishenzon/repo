@@ -1,3 +1,7 @@
+v2.6.8
+- Fixed Sport 1 VOD on Kodi 19.
+- New addon logo.
+
 v2.6.7
 - More results for Sport 1 VOD.
 
