@@ -1,3 +1,6 @@
+v2.6.9
+- Fixed Radio GLZ and GLGLZ.
+
 v2.6.8
 - Fixed Sport 1 VOD on Kodi 19.
 - New addon logo.
