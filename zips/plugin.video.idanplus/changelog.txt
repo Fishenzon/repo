@@ -1,3 +1,6 @@
+v2.7.0
+- Fixed some TV and Radio stations links.
+
 v2.6.9
 - Fixed Radio GLZ and GLGLZ.
 
