@@ -1,3 +1,6 @@
+v2.7.1  -  02/09/2020
+- Fix for 20-Channel Live and VOD. (Changes in website).
+
 v2.7.0
 - Fixed some TV and Radio stations links.
 
