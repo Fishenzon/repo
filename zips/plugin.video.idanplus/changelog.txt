@@ -1,5 +1,8 @@
-v2.7.3  -  21/09/2020
+v2.7.3  -  29/09/2020
 - Fix for Keshet VOD episodes list.
+
+v2.7.2  -  21/09/2020
+- Fix for Keshet Live and VOD. (http => https).
 
 v2.7.1  -  02/09/2020
 - Fix for 20-Channel Live and VOD. (Changes in website).
