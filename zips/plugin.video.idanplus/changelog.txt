@@ -1,3 +1,6 @@
+v2.7.5  -  06/19/2020
+- Fix for Kan 11 Live and backup link.
+
 v2.7.4  -  06/19/2020
 - Fix for Reshet Live backup link.
 
