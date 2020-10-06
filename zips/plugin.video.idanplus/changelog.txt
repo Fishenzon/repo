@@ -1,3 +1,6 @@
+v2.7.4  -  06/19/2020
+- Fix for Reshet Live backup link.
+
 v2.7.3  -  29/09/2020
 - Fix for Keshet VOD episodes list.
 
