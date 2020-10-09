@@ -1,3 +1,6 @@
+v2.7.7  -  09/10/2020
+- Fix for Kan 23 VOD.
+
 v2.7.6  -  08/10/2020
 - Fix for Reshet VOD. (Changes in website).
 
