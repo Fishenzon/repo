@@ -91,7 +91,7 @@
 	  </extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.7.6" provider-name="nil">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.7.7" provider-name="nil">
 		<requires>
 			<import addon="script.module.requests"/>
 			<import addon="script.module.xmltodict"/>
@@ -104,7 +104,7 @@
 			<platform>all</platform>
 			<summary lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Fix for Reshet VOD. (Changes in website).</news>
+			<news>- Fix for Kan 23 VOD.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
