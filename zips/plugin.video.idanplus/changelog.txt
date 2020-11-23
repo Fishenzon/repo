@@ -1,3 +1,7 @@
+v2.7.9  -  023/11/2020
+- Added an option to load Kan VOD lists page by page (for slow devices).
+- Fix for 20-Channel VOD lists. (Changes in website).
+
 v2.7.8  -  08/11/2020
 - Added 106.4FM Radio station and VOD.
 
