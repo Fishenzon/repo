@@ -1,4 +1,8 @@
-v2.7.9  -  023/11/2020
+v2.8.0  -  01/12/2020
+- Added Kan 11 live channel with closed captions.
+- Added Kan 11 live channel from dailymotion (1080p) - need to install and configure dailymotion addon.
+
+v2.7.9  -  23/11/2020
 - Added an option to load Kan VOD lists page by page (for slow devices).
 - Fix for 20-Channel VOD lists. (Changes in website).
 
