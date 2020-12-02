@@ -1,3 +1,6 @@
+v2.8.1  -  02/12/2020
+- Fix playing BigBrother Live channel. (Changes in website).
+
 v2.8.0  -  01/12/2020
 - Added Kan 11 live channel with closed captions.
 - Added Kan 11 live channel from dailymotion (1080p) - need to install and configure dailymotion addon.
