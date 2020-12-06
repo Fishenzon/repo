@@ -1,2 +1,5 @@
-[B]Version 1.0.0[/B]
+v1.0.1  -  06/12/2020
+- Fix icon on Kodi 19.
+
+v1.0.0
 - Initial version
