@@ -1,3 +1,6 @@
+v2.8.2  -  06/12/2020
+- Fix icon and fanart on Kodi 19.
+
 v2.8.1  -  02/12/2020
 - Fix playing BigBrother Live channel. (Changes in website).
 
