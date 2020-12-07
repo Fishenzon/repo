@@ -1,3 +1,11 @@
+v2.8.3  -  07/12/2020
+- Fix for Kan 23 VOD. (Changes in website).
+- Removed Kan old radio stations. (Changes in website).
+- Added Kan Kids radio station.
+- Added Kan Kids podcasts.
+- Removed the option to load Kan VOD lists page by page (for slow devices).
+- Added an option to set how many pages to load to lists of Kan VOD. - default is 4 pages
+
 v2.8.2  -  06/12/2020
 - Fix icon and fanart on Kodi 19.
 
