@@ -94,7 +94,7 @@
 	  </extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.8.2" provider-name="Fishenzon">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.8.3" provider-name="Fishenzon">
 		<requires>
 			<import addon="script.module.requests"/>
 			<import addon="script.module.xmltodict"/>
@@ -111,7 +111,7 @@
 			<platform>all</platform>
 			<summary lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Fix icon and fanart on Kodi 19.</news>
+			<news>- Fix for Kan 23 VOD. (Changes in website).[CR]- Removed Kan old radio stations. (Changes in website).[CR]- Added Kan Kids radio station.[CR]- Added Kan Kids podcasts.[CR]- Removed the option to load Kan VOD lists page by page (for slow devices).[CR]- Added an option to set how many pages to load to lists of Kan VOD. - default is 4 pages</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
