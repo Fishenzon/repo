@@ -1,3 +1,6 @@
+v2.8.4  -  03/02/2021
+- Fix for 20-Channel VOD. (Changes in website).
+
 v2.8.3  -  07/12/2020
 - Fix for Kan 23 VOD. (Changes in website).
 - Removed Kan old radio stations. (Changes in website).
