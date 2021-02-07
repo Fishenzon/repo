@@ -1,3 +1,6 @@
+v2.8.5  -  07/02/2021
+- Fix for Reshet-13 VOD. (Changes in website).
+
 v2.8.4  -  03/02/2021
 - Fix for 20-Channel VOD. (Changes in website).
 
