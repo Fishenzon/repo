@@ -1,3 +1,6 @@
+v2.8.6  -  08/02/2021
+- Fix for EPG in Kodi 19.
+
 v2.8.5  -  07/02/2021
 - Fix for Reshet-13 VOD. (Changes in website).
 
