@@ -1,3 +1,6 @@
+v2.8.7  -  16/02/2021
+- Fix Kan Vod.
+
 v2.8.6  -  08/02/2021
 - Fix for EPG in Kodi 19.
 
