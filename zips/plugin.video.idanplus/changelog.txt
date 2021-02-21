@@ -1,3 +1,6 @@
+v2.9.0  -  21/02/2021
+- Fix for Sport 1 VOD. (Changes in website).
+
 v2.8.9  -  18/02/2021
 - Bugfix.
 
