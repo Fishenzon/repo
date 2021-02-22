@@ -1,3 +1,6 @@
+v2.9.1  -  22/02/2021
+- Bugixes for Kodi 19.
+
 v2.9.0  -  21/02/2021
 - Fix for Sport 1 VOD. (Changes in website).
 
