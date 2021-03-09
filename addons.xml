@@ -30,14 +30,17 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.wallaNew.video" name="וואלה" version="2.3.2" provider-name="sbentin, shlomico, nil">
+	<addon id="plugin.video.wallaNew.video" name="וואלה" version="2.3.3" provider-name="sbentin, shlomico, nil">
 		<requires>
-			<import addon="xbmc.python" version="2.1.0"/>
+			<import addon="script.module.future" version="0.0.1"/>
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="walla.py">
 			<provides>video</provides>
 		</extension>
 		<extension point="xbmc.addon.metadata">
+			<assets>
+				<icon>icon.png</icon>
+			</assets>
 			<platform>all</platform>
 			<minversion>31632</minversion>
 			<summary lang="en">Watch Walla video contents.</summary>
@@ -50,25 +53,6 @@
 			  <content>episodes</content>
 			  <content>movies</content>
 			</supportedcontent>	
-		</extension>
-	</addon>
-	
-	<addon id="plugin.program.redalert" name="צבע אדום" version="1.0.1" provider-name="nil">
-		<requires>
-			<import addon="xbmc.python" version="2.1.0"/>
-		</requires>
-		<extension point="xbmc.python.pluginsource" library="default.py">
-			<provides>executable</provides>
-		</extension>
-		<extension point="xbmc.service" library="service.py" start="[login|startup]"/>
-		<extension point="xbmc.addon.metadata">
-			<platform>all</platform>
-			<summary lang="en">הצגת התראות צבע אדום.</summary>
-			<description lang="en">הצגת התראות צבע אדום.[CR]based on https://redalert.me/</description>
-			<news>- Bugfix: error notification when alerts list from server is empty.</news>
-			<supportedcontent>
-				<content>tvshows</content>
-			</supportedcontent>
 		</extension>
 	</addon>
 	
