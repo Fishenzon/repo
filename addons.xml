@@ -16,17 +16,19 @@
 		</extension>
 	</addon>
 	
-	<addon id="script.module.myresolver" name="My Resolver" version="1.0.0" provider-name="nil">
+	<addon id="script.module.myresolver" name="My Resolver" version="1.0.1" provider-name="nil">
 		<requires>
-			<import addon="xbmc.python" version="2.1.0" />
 			<import addon="script.module.requests"/>
 		</requires>
 		<extension point="xbmc.python.module" library="lib" />
 		<extension point="xbmc.python.pluginsource" library="lib/default.py" />
 		<extension point="xbmc.addon.metadata">
+			<assets>
+				<icon>icon.png</icon>
+			</assets>
 			<platform>all</platform>
 			<summary lang="en"></summary>
-			<description lang="en"></description>    
+			<description lang="en"></description>
 		</extension>
 	</addon>
 	
