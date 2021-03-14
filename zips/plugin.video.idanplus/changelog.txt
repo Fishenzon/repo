@@ -1,3 +1,6 @@
+v2.9.5  -  14/03/2021
+- Fix for Kan 23 Live (Changes in website).
+
 v2.9.4  -  07/03/2021
 - Added some radio stations.
 - Remove MyYoutube addon links (addon not maintenance).
