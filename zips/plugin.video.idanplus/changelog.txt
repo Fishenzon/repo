@@ -1,3 +1,9 @@
+v2.9.6  -  04/05/2021
+- Fix for 21 Live channel. (Changes in website).
+- Fix for 20-Channel VOD. (Changes in website).
+- Added Kan 23 live channel backup link.
+- Added Kan 23 live channel from dailymotion (1080p) - need to install and configure dailymotion addon.
+
 v2.9.5  -  14/03/2021
 - Fix for Kan 23 Live (Changes in website).
 
