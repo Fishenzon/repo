@@ -16,19 +16,21 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.program.redalert" name="צבע אדום" version="1.0.1" provider-name="nil">
+	<addon id="plugin.program.redalert" name="צבע אדום" version="1.0.2" provider-name="nil">
 		<requires>
-			<import addon="xbmc.python" version="2.1.0"/>
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="default.py">
 			<provides>executable</provides>
 		</extension>
 		<extension point="xbmc.service" library="service.py" start="[login|startup]"/>
 		<extension point="xbmc.addon.metadata">
+			<assets>
+				<icon>icon.png</icon>
+			</assets>
 			<platform>all</platform>
 			<summary lang="en">הצגת התראות צבע אדום.</summary>
 			<description lang="en">הצגת התראות צבע אדום.[CR]based on https://redalert.me/</description>
-			<news>- Bugfix: error notification when alerts list from server is empty.</news>
+			<news>- Support Kodi 19.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
