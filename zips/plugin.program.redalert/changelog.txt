@@ -1,3 +1,6 @@
+v1.0.2  -  12/05/2021
+- Support Kodi 19. 
+
 v1.0.1
 - Bugfix: error notification when alerts list from server is empty.
 
