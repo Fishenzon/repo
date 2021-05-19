@@ -1,3 +1,6 @@
+v1.0.3  -  19/05/2021
+- Added options to filter cities that get alerts.
+
 v1.0.2  -  12/05/2021
 - Support Kodi 19. 
 
