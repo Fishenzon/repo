@@ -16,8 +16,10 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.program.redalert" name="צבע אדום" version="1.0.2" provider-name="nil">
+	<addon id="plugin.program.redalert" name="צבע אדום" version="1.0.3" provider-name="nil">
 		<requires>
+			<import addon="script.module.six" />
+			<import addon="script.module.kodi-six" />
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="default.py">
 			<provides>executable</provides>
@@ -30,7 +32,7 @@
 			<platform>all</platform>
 			<summary lang="en">הצגת התראות צבע אדום.</summary>
 			<description lang="en">הצגת התראות צבע אדום.[CR]based on https://redalert.me/</description>
-			<news>- Support Kodi 19.</news>
+			<news>- Added options to filter cities that get alerts.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
