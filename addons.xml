@@ -81,7 +81,7 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.9.6" provider-name="Fishenzon">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="2.9.7" provider-name="Fishenzon">
 		<requires>
 			<import addon="script.module.requests"/>
 			<import addon="script.module.xmltodict"/>
@@ -98,7 +98,7 @@
 			<platform>all</platform>
 			<summary lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Fix for 21 Live channel. (Changes in website)[CR]- Fix for 20-Channel VOD. (Changes in website).[CR]- Added Kan 23 live channel backup link.[CR]- Added Kan 23 live channel from dailymotion (1080p) - need to install and configure dailymotion addon.</news>
+			<news>- Fix for Reshet VOD. (Changes in website).[CR]- Fix for 9TV channel VOD. (Changes in website).</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
