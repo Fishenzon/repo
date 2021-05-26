@@ -1,3 +1,6 @@
+v2.9.7.1  -  26/05/2021
+- Fix for ver 2.9.7 on Kodi 19.
+
 v2.9.7  -  26/05/2021
 - Fix for Reshet VOD. (Changes in website).
 - Fix for 9TV channel VOD. (Changes in website).
