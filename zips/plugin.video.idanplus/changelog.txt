@@ -1,3 +1,6 @@
+v2.9.8  -  03/06/2021
+- Fix Kan VOD for some episodes.
+
 v2.9.7.1  -  26/05/2021
 - Fix for ver 2.9.7 on Kodi 19.
 
