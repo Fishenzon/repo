@@ -1,3 +1,6 @@
+v2.9.9  -  07/06/2021
+- Added Kan archive.
+
 v2.9.8  -  03/06/2021
 - Fix Kan VOD for some episodes.
 
