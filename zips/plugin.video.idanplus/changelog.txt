@@ -1,3 +1,8 @@
+v3.0.0  -  06/07/2021
+- Added Kan 33 live channel backup link.
+- Added Kan 33 live channel from dailymotion (1080p) - need to install and configure dailymotion addon.
+- Fix for some Reshet VOD.
+
 v2.9.9  -  07/06/2021
 - Added Kan archive.
 
