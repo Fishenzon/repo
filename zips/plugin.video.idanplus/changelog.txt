@@ -1,3 +1,6 @@
+v3.0.2  -  29/08/2021
+- Fixed link for Knesset Tv.
+
 v3.0.1  -  16/08/2021
 - Remove Sport 5 Studio channel.
 - Remove refresh item from tv and radio lists.
