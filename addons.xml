@@ -39,7 +39,7 @@
 		</extension>
 	</addon>
 	
-	<<addon id="script.module.myresolver" name="My Resolver" version="1.0.2" provider-name="nil">
+	<addon id="script.module.myresolver" name="My Resolver" version="1.0.2" provider-name="nil">
 		<requires>
 			<import addon="script.module.requests"/>
 		</requires>
