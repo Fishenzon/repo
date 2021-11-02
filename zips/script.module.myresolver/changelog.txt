@@ -3,3 +3,6 @@ Initial release.
 
 1.0.1
 Support Kodi 19.
+
+1.0.2
+Support unverify requests.
