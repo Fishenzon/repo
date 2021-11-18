@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.0.6" provider-name="Fishenzon">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.0.7" provider-name="Fishenzon">
 		<requires>
 			<import addon="script.module.requests"/>
 			<import addon="script.module.xmltodict"/>
@@ -16,7 +16,7 @@
 			<platform>all</platform>
 			<summary lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Play dailymotions' links directly.</news>
+			<news>- Fix for Reshet VODs' list on Kodi 19.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>

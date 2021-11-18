@@ -1,3 +1,6 @@
+v3.0.7  -  18/11/2021
+- Fix for Reshet VODs' list on Kodi 19.
+
 v3.0.6  -  02/11/2021
 - Play dailymotions' links directly.
 
