@@ -1,3 +1,6 @@
+v3.0.8  -  29/11/2021
+- Rename ch 20 as ch 14.
+
 v3.0.7  -  18/11/2021
 - Fix for Reshet VODs' list on Kodi 19.
 
