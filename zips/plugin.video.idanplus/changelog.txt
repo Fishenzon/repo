@@ -1,3 +1,6 @@
+v3.1.3  -  27/03/2022
+- Fix for configure IPTV Simple Client from addon settings.
+
 v3.1.2  -  22/03/2022
 - Fix for Reshet 13 VOD. (Changes in website).
 - Fix for ch 14 VOD. (Changes in website).
