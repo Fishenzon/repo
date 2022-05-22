@@ -1,3 +1,6 @@
+v1.0.2  -  22/05/2022
+- Compability to Kodi 20.
+
 v1.0.1  -  06/12/2020
 - Fix icon on Kodi 19.
 
