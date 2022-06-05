@@ -1,4 +1,7 @@
-v3.1.6  -  02/03/2022
+v3.1.8  -  05/06/2022
+- Fix for Keshet live.
+
+v3.1.7  -  02/06/2022
 - Fix for 14 VOD. (Changes in website).
 
 v3.1.6  -  29/05/2022
