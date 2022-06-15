@@ -1,3 +1,6 @@
+v3.1.9  -  15/06/2022
+- Fix for Sport 5 VOD.
+
 v3.1.8  -  05/06/2022
 - Fix for Keshet live.
 
