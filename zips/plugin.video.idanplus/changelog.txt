@@ -1,4 +1,7 @@
-v3.2.3  -  11/07/2022
+v3.2.1  -  14/07/2022
+- Fix for 13 VOD.
+
+v3.2.0  -  11/07/2022
 - Fix for ch. 14 VOD.
 - Fix for 13 news VOD.
 
