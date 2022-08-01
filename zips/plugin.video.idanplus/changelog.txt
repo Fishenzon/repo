@@ -1,3 +1,6 @@
+v3.2.3  -  01/08/2022
+- Fix Kan live backup links.
+
 v3.2.2  -  24/07/2022
 - Fix for 13 VOD series lists.
 
