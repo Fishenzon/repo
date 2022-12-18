@@ -1,3 +1,6 @@
+v3.2.6  -  18/12/2022
+- Fix for ch. 14 VOD.
+
 v3.2.5  -  07/11/2022
 - Fix Kan live links.
 
