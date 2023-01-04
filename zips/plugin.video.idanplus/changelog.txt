@@ -1,3 +1,6 @@
+v3.2.9  -  04/01/2023
+- Fix for Keshet live.
+
 v3.2.8  -  01/01/2023
 - Fix for Kan VOD.
 
