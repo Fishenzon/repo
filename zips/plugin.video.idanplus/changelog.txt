@@ -1,3 +1,6 @@
+v3.3.3  -  01/02/2023
+- Fix for Hidbroot channel.
+
 v3.3.2  -  30/01/2023
 - Fix for Reshet VODs.
 
