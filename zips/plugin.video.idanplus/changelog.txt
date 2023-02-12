@@ -1,3 +1,6 @@
+v3.3.5  -  12/02/2023
+- Fix for 14tv VODs.
+
 v3.3.4  -  04/02/2023
 - Fix for Reshet VODs on kodi 18.
 
