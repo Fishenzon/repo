@@ -1,3 +1,7 @@
+v3.3.6  -  20/02/2023
+- Fix for updating IPTVSimple client on Kodi 20.
+- Added timeshift support to m3u file.
+
 v3.3.5  -  12/02/2023
 - Fix for 14tv VODs.
 
