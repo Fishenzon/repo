@@ -38,10 +38,9 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.3.6" provider-name="Fishenzon">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.3.7" provider-name="Fishenzon">
 		<requires>
 			<import addon="script.module.requests"/>
-			<import addon="script.module.xmltodict"/>
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="default.py">
 			<provides>video</provides>
@@ -58,7 +57,7 @@
 			<platform>all</platform>
 			<summary lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Fix for updating IPTVSimple client on Kodi 20.[CR]- Added timeshift support to m3u file.</news>
+			<news>- Fix for Keshet VODs for some episodes.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
