@@ -1,3 +1,6 @@
+v3.3.7  -  26/02/2023
+- Fix for Keshet VODs for some episodes.
+
 v3.3.6  -  20/02/2023
 - Fix for updating IPTVSimple client on Kodi 20.
 - Added timeshift support to m3u file.
