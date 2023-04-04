@@ -1,3 +1,6 @@
+v3.3.8  -  04/04/2023
+- Fix for Keshet VODs ctegories.
+
 v3.3.7  -  26/02/2023
 - Fix for Keshet VODs for some episodes.
 
