@@ -38,7 +38,7 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.3.9" provider-name="Fishenzon">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.4.0" provider-name="Fishenzon">
 		<requires>
 			<import addon="script.module.requests"/>
 		</requires>
@@ -57,7 +57,7 @@
 			<platform>all</platform>
 			<summary lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Fix (partly) for Kan VODs.[CR]- Fix for Kan tv channels a radio stations.[CR]- Fix for 14tv VODs.</news>
+			<news>- Fix for Kan VODs.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
