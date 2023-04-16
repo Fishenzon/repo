@@ -1,3 +1,6 @@
+v3.4.0 -  17/04/2023
+- Fix for Kan VODs.
+
 v3.3.9  -  16/04/2023
 - Fix (partly) for Kan VODs.
 - Fix for Kan tv channels a radio stations.
