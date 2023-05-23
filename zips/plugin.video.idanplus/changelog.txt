@@ -1,3 +1,6 @@
+v3.4.4 -  23/05/2023
+- Fix for Kan23 old site VODs.
+
 v3.4.3 -  23/05/2023
 - Fix for Kan VODs.
 
