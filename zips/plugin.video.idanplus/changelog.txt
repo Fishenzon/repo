@@ -1,3 +1,6 @@
+v3.4.5 -  28/05/2023
+- Fix for some Kan VODs program names.
+
 v3.4.4 -  23/05/2023
 - Fix for Kan23 old site VODs.
 
