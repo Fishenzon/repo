@@ -1,3 +1,8 @@
+v3.4.6 -  29/05/2023
+- Fix for duplicates in Kan podcasts.
+- Fix for some Sport 5 VOD podcasts.
+- Added Sport 5 Studio channel.
+
 v3.4.5 -  28/05/2023
 - Fix for some Kan VODs program names.
 
