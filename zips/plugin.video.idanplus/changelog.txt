@@ -1,3 +1,7 @@
+v3.4.7 -  21/06/2023
+- Fix for Kan-news VODs.
+- Added Walla+ TV channel.
+
 v3.4.6 -  29/05/2023
 - Fix for duplicates in Kan podcasts.
 - Fix for some Sport 5 VOD podcasts.
