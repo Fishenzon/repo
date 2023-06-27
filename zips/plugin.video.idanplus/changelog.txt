@@ -1,3 +1,6 @@
+v3.4.8 -  27/06/2023
+- Fix for Kan-news VODs.
+
 v3.4.7 -  21/06/2023
 - Fix for Kan-news VODs.
 - Added Walla+ TV channel.
