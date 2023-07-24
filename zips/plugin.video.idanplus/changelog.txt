@@ -1,3 +1,7 @@
+v3.4.9 -  24/07/2023
+- Fix for Kan-Kids VODs.
+- Fix for Hidabroot channel.
+
 v3.4.8 -  27/06/2023
 - Fix for Kan-news VODs.
 
