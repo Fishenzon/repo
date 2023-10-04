@@ -1,4 +1,10 @@
-v3.4.9 -  26/07/2023
+v3.5.2 -  05/10/2023
+- Fix for 14tv live.
+
+v3.5.1 -  05/10/2023
+- Fix for some Kan VODs.
+
+v3.5.0 -  26/07/2023
 - Fix for some Kan VODs.
 
 v3.4.9 -  24/07/2023
