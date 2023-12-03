@@ -1,3 +1,6 @@
+v3.5.3 - 03/12/2023
+- Updated requests toolbelt to a recent version due to breaking changes with appengine
+
 v3.5.2 -  05/10/2023
 - Fix for 14tv live.
 
