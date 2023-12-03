@@ -1,3 +1,6 @@
+v3.5.3 -  03/12/2023
+- Fix: update requests_toolbelt.
+
 v3.5.2 -  05/10/2023
 - Fix for 14tv live.
 
