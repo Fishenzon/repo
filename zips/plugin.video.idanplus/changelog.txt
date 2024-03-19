@@ -1,4 +1,7 @@
-v3.5.4 -  25/02/2024
+v3.5.6 -  18/03/2024
+- Some fixes for Kan-VOD.
+
+v3.5.5 -  25/02/2024
 - Some fixes for Kan-VOD.
 
 v3.5.4 -  12/02/2024
