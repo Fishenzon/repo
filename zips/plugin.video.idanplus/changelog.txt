@@ -1,3 +1,8 @@
+v3.5.8 -  12/05/2024
+- Fix for Kan icons.
+- Fix for Keshet.
+- Added cache.
+
 v3.5.7 -  20/03/2024
 - Fix for Sport 5 VOD.
 
