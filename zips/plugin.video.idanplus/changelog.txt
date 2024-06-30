@@ -1,3 +1,6 @@
+v3.6.0 -  30/06/2024
+- Added i24News channel.
+
 v3.5.9 -  05/06/2024
 - Addon loads faster.
 - Fix for Reshet old site VODs.
