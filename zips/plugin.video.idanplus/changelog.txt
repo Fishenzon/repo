@@ -1,3 +1,6 @@
+v3.6.2 -  14/08/2024
+- Fix for openning Reshet-13 series from favorites.
+
 v3.6.1 -  31/07/2024
 - Fixes for some TV channels and Radio stations.
 
