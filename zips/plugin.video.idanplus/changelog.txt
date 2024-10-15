@@ -1,3 +1,7 @@
+v3.6.3 -  15/10/2024
+- Fix for some Kan VODs.
+- Added another source for Keshet12 live channel.
+
 v3.6.2 -  14/08/2024
 - Fix for openning Reshet-13 series from favorites.
 
