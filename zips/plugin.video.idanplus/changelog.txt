@@ -1,3 +1,7 @@
+v3.6.4 -  04/11/2024
+- Added an option to save Kan VODs' icons locally and an option to delete them.
+- Added reshet-13 channels: Nofesh, Reality, Comedy.
+
 v3.6.3 -  15/10/2024
 - Fix for some Kan VODs.
 - Added another source for Keshet12 live channel.
