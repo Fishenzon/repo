@@ -35,7 +35,7 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.6.3" provider-name="Fishenzon">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.6.4" provider-name="Fishenzon">
 		<requires>
 			<import addon="script.module.requests"/>
 			<import addon="script.module.xmltodict"/>
@@ -55,7 +55,7 @@
 			<platform>all</platform>
 			<summary lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.</summary>
 			<description lang="en">צפיה בערוצי עידן פלוס ובתכניות מהאתרים הרשמיים.[CR]אפשרויות שונות בהגדרות ההרחבה ובקליק ימני על פריט ברשימה.</description>
-			<news>- Fix for some Kan VODs.[CR]- Added another source for Keshet12 live channel.</news>
+			<news>- Added an option to save Kan VODs' icons locally and an option to delete them.[CR]- Added reshet-13 channels: Nofesh, Reality, Comedy.</news>
 			<supportedcontent>
 				<content>tvshows</content>
 			</supportedcontent>
