@@ -1,6 +1,9 @@
+v3.6.7 -  10/11/2024
+- Fix link to Kan podcasts.
+
 v3.6.6 -  10/11/2024
 - Some fixes for Kan-VOD's lists.
-- No need to save icins locally.
+- No need to save icons locally.
 
 v3.6.5 -  06/11/2024
 - Some fixes for Kan-VOD's lists.
