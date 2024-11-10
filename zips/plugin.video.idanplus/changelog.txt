@@ -1,3 +1,7 @@
+v3.6.6 -  10/11/2024
+- Some fixes for Kan-VOD's lists.
+- No need to save icins locally.
+
 v3.6.5 -  06/11/2024
 - Some fixes for Kan-VOD's lists.
 
