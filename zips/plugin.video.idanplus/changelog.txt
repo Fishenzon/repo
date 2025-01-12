@@ -1,3 +1,8 @@
+v3.6.8 -  12/01/2025
+- Fix Reshet 13 channel.
+- Removed 21tv channel (Shopings channel).
+- Added 10tv channel (Economy channel).
+
 v3.6.7 -  10/11/2024
 - Fix link to Kan podcasts.
 
