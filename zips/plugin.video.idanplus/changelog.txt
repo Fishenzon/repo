@@ -1,3 +1,7 @@
+v3.6.9 -  10/02/2025
+- Fix channel 14 VOD.
+- Added an option to autoplay channel on Kodi start.
+
 v3.6.8 -  12/01/2025
 - Fix Reshet 13 channel.
 - Removed 21tv channel (Shopings channel).
