@@ -1,3 +1,7 @@
+v3.7.1 -  13/02/2025
+- Fix knesset 99 channel.
+- Add knesset 99 cc channel.
+
 v3.7.0 -  10/02/2025
 - Bugfix in add-on settings.
 
