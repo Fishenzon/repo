@@ -1,3 +1,6 @@
+v3.7.2 -  19/02/2025
+- Add or remove autoplay channel on Kodi start from context menu.
+
 v3.7.1 -  13/02/2025
 - Fix knesset 99 channel.
 - Add knesset 99 cc channel.
