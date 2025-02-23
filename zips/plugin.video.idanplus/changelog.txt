@@ -1,3 +1,6 @@
+v3.7.4 -  23/02/2025
+- Fix i24News Hebrew channel.
+
 v3.7.3 -  23/02/2025
 - Added i24News channels in English, French and Arabic.
 
