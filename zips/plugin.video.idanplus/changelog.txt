@@ -1,6 +1,9 @@
+v3.7.6 -  26/02/2025
+- Added an option to refresh remote channels links immediately.
+
 v3.7.5 -  25/02/2025
 - Fix 102Eilat radio station.
-- Added remote channels list.
+- Added remote channels links.
 
 v3.7.4 -  23/02/2025
 - Fix i24News Hebrew channel.
