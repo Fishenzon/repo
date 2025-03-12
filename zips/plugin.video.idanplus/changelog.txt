@@ -1,3 +1,6 @@
+v3.7.7 -  12/03/2025
+- Fix Keshet-VOD episode lists.
+
 v3.7.6 -  26/02/2025
 - Added an option to refresh remote channels links immediately.
 
