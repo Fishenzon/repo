@@ -1,3 +1,6 @@
+v3.7.8 -  01/04/2025
+- Fix autoplay channel on Kodi start after disable it.
+
 v3.7.7 -  12/03/2025
 - Fix Keshet-VOD episode lists.
 
