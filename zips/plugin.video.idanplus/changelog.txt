@@ -1,3 +1,6 @@
+v3.8.0 -  18/05/2025
+- Fix Ch14 vod. (Changes in website).
+
 v3.7.9 -  14/04/2025
 - Fix Keshet-VOD episode lists.
 
