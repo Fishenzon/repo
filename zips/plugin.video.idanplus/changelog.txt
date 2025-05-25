@@ -1,3 +1,6 @@
+v3.8.1 -  25/05/2025
+- Fix autoplay channel on Kodi start after disable it.
+
 v3.8.0 -  18/05/2025
 - Fix Ch14 vod. (Changes in website).
 
