@@ -1,3 +1,8 @@
+v3.8.2 -  03/06/2025
+- Added 14tv channel backups.
+- Added "noshmim miztahit" radio station.
+- Added "shirei dikaon" radio station.
+
 v3.8.1 -  25/05/2025
 - Fix autoplay channel on Kodi start after disable it.
 
