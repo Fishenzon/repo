@@ -1,3 +1,6 @@
+v3.8.4 -  19/06/2025
+- Fix 14tv channel backups empty labels.
+
 v3.8.3 -  19/06/2025
 - Added 14tv channel backups.
 
