@@ -1,3 +1,6 @@
+v3.8.5 -  08/07/2025
+- Fix reshet-13 news VOD and reshet-13 archive VOD.
+
 v3.8.4 -  19/06/2025
 - Fix 14tv channel backups empty labels.
 
