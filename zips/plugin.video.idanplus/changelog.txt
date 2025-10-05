@@ -1,3 +1,6 @@
+v3.8.6 -  05/10/2025
+- Fix keshet-12 VOD.
+
 v3.8.5 -  08/07/2025
 - Fix reshet-13 news VOD and reshet-13 archive VOD.
 
