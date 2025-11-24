@@ -3,6 +3,7 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=4681600,AVERAGE-BANDWIDTH=4505600,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000
 
-https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/hdntl=exp=1764049712~acl=%2f*~data=hdntl~hmac=aaca84719778019de5541b8df1e97848b1170fa53dc0ae55b79a241625840500/index_4000.m3u8|User-Agent=SmartOs Tv
+https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/hdntl=exp=1764049712~acl=%2f*~data=hdntl~hmac=aaca84719778019de5541b8df1e97848b1170fa53dc0ae55b79a241625840500/index_4000.m3u8
+
 
 
