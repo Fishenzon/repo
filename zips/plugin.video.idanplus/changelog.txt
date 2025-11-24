@@ -1,3 +1,8 @@
+v3.8.9 -  24/11/2025
+- Fix Keshet-12 Live choosing quality.
+- Added mako loop channels.
+- Added i24News VODs - thanks 0fir
+
 v3.8.8 -  03/11/2025
 - Fix Keshet-12 Live.
 
