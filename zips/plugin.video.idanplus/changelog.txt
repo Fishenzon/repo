@@ -1,3 +1,8 @@
+v3.9.0 -  26/11/2025
+- Fix Channel-14 Live 720p quality.
+- Fix Channel Walla Live.
+- Fix Channel Kabala Live.
+
 v3.8.9 -  24/11/2025
 - Fix Keshet-12 Live choosing quality.
 - Added mako loop channels.
