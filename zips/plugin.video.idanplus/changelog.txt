@@ -1,3 +1,7 @@
+v3.9.1 -  30/11/2025
+- Fix Kan Live backup channels 0p quality.
+- Use remote lists urls from github.
+
 v3.9.0 -  26/11/2025
 - Fix Channel-14 Live 720p quality.
 - Fix Channel Walla Live.
