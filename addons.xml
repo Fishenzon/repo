@@ -35,7 +35,7 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.9.0" provider-name="Fishenzon">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.9.1" provider-name="Fishenzon">
 		<requires>
 			<import addon="script.module.requests"/>
 			<import addon="script.module.xmltodict"/>
@@ -61,5 +61,3 @@
 		</extension>
 	</addon>
 </addons>
-
-
