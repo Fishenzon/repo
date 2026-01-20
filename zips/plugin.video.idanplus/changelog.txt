@@ -1,5 +1,8 @@
+v3.9.2 -  20/01/2026
+- Fix i24News live channels.
+
 v3.9.1 -  30/11/2025
-- Fix Kan Live backup channels 0p quality.
+- Fix Kan Live backup channels 1080p quality.
 - Use remote lists urls from github.
 
 v3.9.0 -  26/11/2025
