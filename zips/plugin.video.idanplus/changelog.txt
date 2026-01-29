@@ -1,3 +1,6 @@
+v3.9.3 -  29/01/2026
+- Fix Kan11-VODs.
+
 v3.9.2 -  20/01/2026
 - Fix i24News live channels.
 
