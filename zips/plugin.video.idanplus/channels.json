@@ -1,0 +1,314 @@
+{
+	"tv": {
+		"kan": {
+			"11": {
+				"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8"
+			},
+			"11c": {
+				"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8"
+			},
+			"23": {
+				"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8"
+			},
+			"33": {
+				"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
+			}
+		},
+		"keshet": {
+			"12": "/direct/hls/live/2033791/k12/index.m3u8?as=1", 
+			"12b": "/stream/hls/live/2033791/k12n12wad/index.m3u8?b-in-range=0-700",
+			"12b2": "/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-2700",
+			"12b3": "/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100",
+			"12c": "/direct/hls/live/2035325/k12cc/index.m3u8?as=1",
+			"24": "/direct/hls/live/2035340/ch24live/index.m3u8?as=1",
+			"erets": "/free/hls/live/2111419/erets/index.m3u8?b-in-range=0-1800",
+			"savri": "/free/hls/live/2111419/savri/index.m3u8?b-in-range=0-1800",
+			"hatuna": "/free/hls/live/2111419/hatuna/index.m3u8?b-in-range=0-1800",
+			"kohav": "/free/hls/live/2111419/kohav/index.m3u8?b-in-range=0-1800",
+			"ninja": "/free/hls/live/2111419/ninja/index.m3u8?b-in-range=0-1800"
+		},
+		"reshet": {
+			"13": {
+				"referer": "https://13tv.co.il/live/",
+				"link": "https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8"
+			},
+			"13b": {
+				"referer": "https://13tv.co.il/live/",
+				"link": "https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8"
+			},
+			"13b2": {
+				"klt": "1_pjrmtdaf",
+				"link": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+				"referer": "https://13tv.co.il/allshows/2010263/"
+			},
+			"13c": {
+				"referer": "https://13tv.co.il/live/",
+				"link": "https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManifest.m3u8"
+			},
+			"bb": {
+				"brv": "videoId",
+				"cst": "26",
+				"klt": "1_6fr5xbw2",
+				"referer": "https://13tv.co.il/home/bb-livestream/",
+				"link": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8"
+			},
+			"13comedy": {
+				"klt": "adsadadas",
+				"link": "https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8",
+				"referer": "https://13tv.co.il/allshows/2605018/"
+			},
+			"13nofesh": {
+				"klt": "1_g7lqf2yg",
+				"link": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8",
+				"referer": "https://13tv.co.il/allshows/2395628/"
+			},
+			"13reality": {
+				"klt": "1_khfzmmtx",
+				"link": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8",
+				"referer": "https://13tv.co.il/allshows/2395629/"
+			}
+		},
+		"14tv": {
+			"ch": "https://insight-api-channel14.univtec.com/cms/interface/channels/play?relations=true&filter=guid||$eq||b676b906-5625-48af-a331-11a5d22e151b",
+			"link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
+		},
+		"hidabroot": "https://www.hidabroot.org/live",
+		"sport5": {
+			"5studio": {
+				"ch": "studioUrl",
+				"link": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8"
+			}
+		},
+		"i24news": {
+			"he": {
+				"ch": "he",
+				"link": "https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8",
+				"manifest_type": "hls"
+			},
+			"en": {
+				"ch": "en",
+				"link": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/playlist-hls.m3u8",
+				"manifest_type": "hls"
+			},
+			"fr": {
+				"ch": "fr",
+				"link": "https://fastly.live.brightcove.com/6386790513112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA1MTMxMTIifQ.Szahkl5VVsEWGdM4mgrmlDPVkWPTRgBMwwGg4D5hGFU/playlist-hls.m3u8",
+				"manifest_type": "hls"
+			},
+			"ar": {
+				"ch": "ar",
+				"link": "https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTI1NzIxMTIifQ.vsA8IfCHFqoqo2BHxx4w0PqBgTESPMYgFGL771vzKoA/playlist-hls.m3u8",
+				"manifest_type": "hls"
+			}
+		},
+		"tv": {
+			"891fm": {
+				"link": "https://www.oles.tv/891fm/player/",
+				"regex": "streamSource\\s*=\\s*'(.*?)'"
+			},
+			"100fm": {
+				"link": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8"
+			},
+			"11b": {
+				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan11/live.livx",
+				"final": true,
+				"manifest_type": "mpd"
+			},
+			"23b": {
+				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan_edu/live.livx",
+				"final": true,
+				"manifest_type": "mpd"
+			},
+			"33b": {
+				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/makan/live.livx",
+				"final": true,
+				"manifest_type": "mpd"
+			},
+			"bbb": {
+				"link": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8",
+				"referer": "https://13tv.co.il/home/bb-livestream/",
+				"final": true
+			},
+			"musayof": {
+				"link": "http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8",
+				"referer": "http://media-line.co.il/Media-Line-Player/musayof/livePlayer.aspx"
+			},
+			"ynet": {
+				"link": "https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8",
+				"final": true
+			},
+			"10": {
+				"link": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8"
+			},
+			"14b": {
+				"link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
+			},
+			"14b2": {
+				"link": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+			},
+			"kabbalah_heb": {
+				"link": "https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8"
+			},
+			"kabbalah_rus": {
+				"link": "https://edge2.il.kab.tv/live/tv66-rus-high/playlist.m3u8"
+			},
+			"99": {
+				"link": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8"
+			},
+			"99c": {
+				"link": "https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8"
+			},
+			"9": {
+				"link": "https://contact.gostreaming.tv/Con-11/index.m3u8"
+			}
+		}
+	},
+	"radio": {
+		"glz": {
+			"glz": {
+				"rootId": "1051",
+				"live": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+			},
+			"glglz": {
+				"rootId": "1920",
+				"live": "http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
+			}
+		},
+		"kan": {
+			"bet": {
+				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx",
+				"manifest_type": "mpd"
+			},
+			"gimel": {
+				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_gimel/live.livx",
+				"manifest_type": "mpd"
+			},
+			"culture": {
+				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_tarbut/live.livx",
+				"manifest_type": "mpd"
+			},
+			"88": {
+				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_88/live.livx",
+				"manifest_type": "mpd"
+			},
+			"moreshet": {
+				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_moreshet/live.livx",
+				"manifest_type": "mpd"
+			},
+			"music": {
+				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx",
+				"manifest_type": "mpd"
+			},
+			"kankids": {
+				"link": "https://kankids.media.kan.org.il/hls/live/2024820/2024820/playlist.m3u8",
+				"manifest_type": "mpd"
+			},
+			"reka": {
+				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reka/live.livx",
+				"manifest_type": "mpd"
+			},
+			"makan": {
+				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_makan/live.livx",
+				"manifest_type": "mpd"
+			}
+		},
+		"99fm": "http://eco-live.mediacast.co.il/99fm_aac",
+		"100fm": {
+			"ch": "http://digital.100fm.co.il/app/",
+			"link": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
+		},
+		"101fm": {
+			"ch": "http://live1.co.il/jrs101fm/",
+			"link": "http://101.cdnwz.net/101fm",
+			"tunein": "http://opml.tunein.com/Tune.ashx?render=json&id={0}"
+		},
+		"sport5": {
+			"5live": {
+				"ch": "liveurl",
+				"link": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8"
+			}
+		},
+		"1064fm": {
+			"ch": "https://radio1064.co.il",
+			"link": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8"
+		},
+		"radio": {
+			"90fm": {
+				"link": "http://live1.co.il/90fm/",
+				"regex": "mp3:\\s*\"(.*?)\""
+			},
+			"91fm": {
+				"link": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+				"final": true
+			},
+			"97fm": {
+				"link": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+				"final": true
+			},
+			"891fm": {
+				"link": "http://www.891fm.co.il/",
+				"regex": "data-mp3=\"(.*?)\""
+			},
+			"1015fm": {
+				"link": "http://radio.2net.co.il/hatahana",
+				"regex": "width=\"100%\" src=\"(.*?)\""
+			},
+			"102fm": {
+				"link": "https://102fm.co.il/",
+				"regex": "src:\\s*'(.*?)'"
+			},
+			"102fmEilat": {
+				"link": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
+				"final": true
+			},
+			"103fm": {
+				"link": "http://103fm.maariv.co.il/include/OnLineView.aspx",
+				"regex": "data-file=\"(.*?)\""
+			},
+			"1045fm": {
+				"link": "https://1045fm.maariv.co.il/include/OnLineView.aspx",
+				"regex": "data-file=\"(.*?)\""
+			},
+			"1075fm": {
+				"link": "https://1075.livecdn.biz/radiohaifa",
+				"final": true
+			},
+			"kolhay": {
+				"link": "https://media2.93fm.co.il/live-new",
+				"final": true
+			},
+			"kolhaymusic": {
+				"link": "https://media2.93fm.co.il/livemusic",
+				"final": true
+			},
+			"kolbarama": {
+				"link": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+				"final": true
+			},
+			"kolplay": {
+				"link": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+				"final": true
+			},
+			"gly": {
+				"link": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+				"final": true
+			},
+			"mizrahit": {
+				"link": "https://mzr.mediacast.co.il/mzradio",
+				"final": true
+			},
+			"fm995": {
+				"link": "https://995.livecdn.biz/995fm",
+				"final": true
+			},
+			"noshmim_mizrahit": {
+				"link": "https://rs.mizrahit.fm:7777",
+				"final": true
+			},
+			"diki": {
+				"link": "https://diki.mediacast.co.il/diki",
+				"final": true
+			}
+		}
+	}
+}
