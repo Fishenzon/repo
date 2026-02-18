@@ -1,10 +1,9 @@
 {
 	"tv": [
 		{
-			"ch": "ch_11",
+			"channelID": "ch_11",
 			"index": 1,
 			"name": "כאן 11",
-			"channelID": "11",
 			"mode": 10,
 			"image": "kan.jpg",
 			"module": "kan",
@@ -16,10 +15,9 @@
 			}
 		},
 		{
-			"ch": "ch_11b",
+			"channelID": "ch_11b",
 			"index": 1,
 			"name": "כאן 11 - גיבוי",
-			"channelID": "11b",
 			"mode": 10,
 			"image": "kan.jpg",
 			"module": "tv",
@@ -33,10 +31,9 @@
 			}
 		},
 		{
-			"ch": "ch_11c",
+			"channelID": "ch_11c",
 			"index": 1,
 			"name": "כאן 11 - לקויי שמיעה",
-			"channelID": "11c",
 			"mode": 10,
 			"image": "kan.jpg",
 			"module": "kan",
@@ -48,10 +45,9 @@
 			}
 		},
 		{
-			"ch": "ch_12",
+			"channelID": "ch_12",
 			"index": 2,
 			"name": "קשת 12",
-			"channelID": "12",
 			"mode": 10,
 			"image": "keshet.jpg",
 			"module": "keshet",
@@ -63,10 +59,9 @@
 			}
 		},
 		{
-			"ch": "ch_12b",
+			"channelID": "ch_12b",
 			"index": 2,
 			"name": "קשת 12 - גיבוי",
-			"channelID": "12b",
 			"mode": 10,
 			"image": "keshet.jpg",
 			"module": "keshet",
@@ -78,10 +73,9 @@
 			}
 		},
 		{
-			"ch": "ch_12b2",
+			"channelID": "ch_12b2",
 			"index": 2,
 			"name": "קשת 12 - גיבוי 2",
-			"channelID": "12b2",
 			"mode": 10,
 			"image": "keshet.jpg",
 			"module": "keshet",
@@ -93,10 +87,9 @@
 			}
 		},
 		{
-			"ch": "ch_12b3",
+			"channelID": "ch_12b3",
 			"index": 2,
 			"name": "קשת 12 - גיבוי 3",
-			"channelID": "12b3",
 			"mode": 10,
 			"image": "keshet.jpg",
 			"module": "keshet",
@@ -108,10 +101,9 @@
 			}
 		},
 		{
-			"ch": "ch_12c",
+			"channelID": "ch_12c",
 			"index": 2,
 			"name": "קשת 12 - לקויי שמיעה",
-			"channelID": "12c",
 			"mode": 10,
 			"image": "keshet.jpg",
 			"module": "keshet",
@@ -123,10 +115,9 @@
 			}
 		},
 		{
-			"ch": "ch_13",
+			"channelID": "ch_13",
 			"index": 3,
 			"name": "רשת 13",
-			"channelID": "13",
 			"mode": 4,
 			"image": "13.jpg",
 			"module": "reshet",
@@ -139,10 +130,9 @@
 			}
 		},
 		{
-			"ch": "ch_13b",
+			"channelID": "ch_13b",
 			"index": 3,
 			"name": "רשת 13 - גיבוי",
-			"channelID": "13b",
 			"mode": 4,
 			"image": "13.jpg",
 			"module": "reshet",
@@ -155,10 +145,9 @@
 			}
 		},
 		{
-			"ch": "ch_13b2",
+			"channelID": "ch_13b2",
 			"index": 3,
 			"name": "רשת 13 - גיבוי 2",
-			"channelID": "13b2",
 			"mode": 4,
 			"image": "13.jpg",
 			"module": "reshet",
@@ -171,10 +160,9 @@
 			}
 		},
 		{
-			"ch": "ch_13c",
+			"channelID": "ch_13c",
 			"index": 3,
 			"name": "רשת 13 - לקויי שמיעה",
-			"channelID": "13c",
 			"mode": 4,
 			"image": "13.jpg",
 			"module": "reshet",
@@ -187,10 +175,9 @@
 			}
 		},
 		{
-			"ch": "ch_14",
+			"channelID": "ch_14",
 			"index": 4,
 			"name": "עכשיו 14",
-			"channelID": "14",
 			"mode": 10,
 			"image": "14tv.png",
 			"module": "14tv",
@@ -198,15 +185,14 @@
 			"tvgID": "14",
 			"type": "tv",
 			"linkDetails": {
-				"ch": "https://insight-api-channel14.univtec.com/cms/interface/channels/play?relations=true&filter=guid||$eq||b676b906-5625-48af-a331-11a5d22e151b",
+				"channelID": "https://insight-api-channel14.univtec.com/cms/interface/channels/play?relations=true&filter=guid||$eq||b676b906-5625-48af-a331-11a5d22e151b",
 				"link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
 			}
 		},
 		{
-			"ch": "ch_14b",
+			"channelID": "ch_14b",
 			"index": 4,
 			"name": "עכשיו 14 - גיבוי",
-			"channelID": "14b",
 			"mode": 10,
 			"image": "14tv.png",
 			"module": "tv",
@@ -218,10 +204,9 @@
 			}
 		},
 		{
-			"ch": "ch_14b2",
+			"channelID": "ch_14b2",
 			"index": 4,
 			"name": "עכשיו 14 - גיבוי 2",
-			"channelID": "14b2",
 			"mode": 10,
 			"image": "14tv.png",
 			"module": "tv",
@@ -233,10 +218,9 @@
 			}
 		},
 		{
-			"ch": "ch_10",
+			"channelID": "ch_10",
 			"index": 5,
 			"name": "כלכלה 10",
-			"channelID": "10",
 			"mode": 10,
 			"image": "10tv.png",
 			"module": "tv",
@@ -248,10 +232,9 @@
 			}
 		},
 		{
-			"ch": "ch_23",
+			"channelID": "ch_23",
 			"index": 6,
 			"name": "כאן חינוכית 23",
-			"channelID": "23",
 			"mode": 10,
 			"image": "23tv.jpg",
 			"module": "kan",
@@ -263,10 +246,9 @@
 			}
 		},
 		{
-			"ch": "ch_23b",
+			"channelID": "ch_23b",
 			"index": 6,
 			"name": "כאן חינוכית 23 - גיבוי",
-			"channelID": "23b",
 			"mode": 10,
 			"image": "23tv.jpg",
 			"module": "tv",
@@ -280,10 +262,9 @@
 			}
 		},
 		{
-			"ch": "ch_24",
+			"channelID": "ch_24",
 			"index": 7,
 			"name": "ערוץ 24 החדש",
-			"channelID": "24",
 			"mode": 10,
 			"image": "24telad.png",
 			"module": "keshet",
@@ -295,10 +276,9 @@
 			}
 		},
 		{
-			"ch": "ch_bb",
+			"channelID": "ch_bb",
 			"index": 8,
 			"name": "האח הגדול 26",
-			"channelID": "bb",
 			"mode": 4,
 			"image": "bb.jpg",
 			"module": "reshet",
@@ -311,10 +291,9 @@
 			}
 		},
 		{
-			"ch": "ch_bbb",
+			"channelID": "ch_bbb",
 			"index": 8,
 			"name": "האח הגדול 26 - גיבוי",
-			"channelID": "bbb",
 			"mode": 10,
 			"image": "bb.jpg",
 			"module": "tv",
@@ -328,10 +307,9 @@
 			}
 		},
 		{
-			"ch": "ch_33",
+			"channelID": "ch_33",
 			"index": 9,
 			"name": "מכאן 33",
-			"channelID": "33",
 			"mode": 10,
 			"image": "makan.png",
 			"module": "kan",
@@ -343,10 +321,9 @@
 			}
 		},
 		{
-			"ch": "ch_33b",
+			"channelID": "ch_33b",
 			"index": 9,
 			"name": "מכאן 33 - גיבוי",
-			"channelID": "33b",
 			"mode": 10,
 			"image": "makan.png",
 			"module": "tv",
@@ -360,10 +337,9 @@
 			}
 		},
 		{
-			"ch": "ch_66",
+			"channelID": "ch_66",
 			"index": 10,
 			"name": "קבלה 66",
-			"channelID": "kabbalah_heb",
 			"mode": 10,
 			"image": "kabbalah.jpg",
 			"module": "tv",
@@ -375,10 +351,9 @@
 			}
 		},
 		{
-			"ch": "ch_97",
+			"channelID": "ch_97",
 			"index": 11,
 			"name": "הידברות 97",
-			"channelID": "97",
 			"mode": 10,
 			"image": "hidabroot.jpg",
 			"module": "hidabroot",
@@ -390,10 +365,9 @@
 			}
 		},
 		{
-			"ch": "ch_99",
+			"channelID": "ch_99",
 			"index": 12,
 			"name": "כנסת 99",
-			"channelID": "99",
 			"mode": 10,
 			"image": "knesset.png",
 			"module": "tv",
@@ -405,10 +379,9 @@
 			}
 		},
 		{
-			"ch": "ch_99c",
+			"channelID": "ch_99c",
 			"index": 12,
 			"name": "כנסת 99 - לקויי שמיעה",
-			"channelID": "99c",
 			"mode": 10,
 			"image": "knesset.png",
 			"module": "tv",
@@ -420,10 +393,9 @@
 			}
 		},
 		{
-			"ch": "ch_ynet",
+			"channelID": "ch_ynet",
 			"index": 13,
 			"name": "Ynet Live",
-			"channelID": "ynet",
 			"mode": 10,
 			"image": "ynet.jpg",
 			"module": "tv",
@@ -436,10 +408,9 @@
 			}
 		},
 		{
-			"ch": "ch_sport5",
+			"channelID": "ch_sport5",
 			"index": 15,
 			"name": "ספורט 5 אתר",
-			"channelID": "5studio",
 			"mode": 10,
 			"image": "Sport5.png",
 			"module": "sport5",
@@ -447,15 +418,14 @@
 			"tvgID": "5radio",
 			"type": "tv",
 			"linkDetails": {
-				"ch": "studioUrl",
+				"channelID": "studioUrl",
 				"link": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8"
 			}
 		},
 		{
-			"ch": "ch_100",
+			"channelID": "ch_100",
 			"index": 16,
 			"name": "100FM רדיוס",
-			"channelID": "100fm",
 			"mode": 10,
 			"image": "100fm.jpg",
 			"module": "tv",
@@ -467,10 +437,9 @@
 			}
 		},
 		{
-			"ch": "ch_9",
+			"channelID": "ch_9",
 			"index": 17,
 			"name": "ערוץ 9",
-			"channelID": "9",
 			"mode": 10,
 			"image": "9tv.png",
 			"module": "tv",
@@ -482,10 +451,9 @@
 			}
 		},
 		{
-			"ch": "ch_891",
+			"channelID": "ch_891",
 			"index": 17,
 			"name": "Первое Радио 89.1FM",
-			"channelID": "891fm",
 			"mode": 10,
 			"image": "891fm.png",
 			"module": "tv",
@@ -498,10 +466,9 @@
 			}
 		},
 		{
-			"ch": "ch_kabru",
+			"channelID": "ch_kabru",
 			"index": 18,
 			"name": "קבלה - רוסית",
-			"channelID": "kabbalah_rus",
 			"mode": 10,
 			"image": "kabbalah.jpg",
 			"module": "tv",
@@ -513,10 +480,9 @@
 			}
 		},
 		{
-			"ch": "ch_musayof",
+			"channelID": "ch_musayof",
 			"index": 19,
 			"name": "מוסיוף",
-			"channelID": "musayof",
 			"mode": 10,
 			"image": "musayof.jpg",
 			"module": "tv",
@@ -529,10 +495,9 @@
 			}
 		},
 		{
-			"ch": "ch_i24news",
+			"channelID": "ch_i24news",
 			"index": 20,
 			"name": "i24news",
-			"channelID": "action=live&id=he",
 			"mode": 10,
 			"image": "i24news.png",
 			"module": "i24news",
@@ -540,16 +505,15 @@
 			"tvgID": "i24news",
 			"type": "tv",
 			"linkDetails": {
-				"ch": "he",
+				"channelID": "he",
 				"link": "https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8",
 				"manifest_type": "hls"
 			}
 		},
 		{
-			"ch": "ch_i24newsen",
+			"channelID": "ch_i24newsen",
 			"index": 21,
 			"name": "i24news en",
-			"channelID": "action=live&id=en",
 			"mode": 10,
 			"image": "i24news.png",
 			"module": "i24news",
@@ -557,16 +521,15 @@
 			"tvgID": "i24news",
 			"type": "tv",
 			"linkDetails": {
-				"ch": "en",
+				"channelID": "en",
 				"link": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/playlist-hls.m3u8",
 				"manifest_type": "hls"
 			}
 		},
 		{
-			"ch": "ch_i24newsfr",
+			"channelID": "ch_i24newsfr",
 			"index": 22,
 			"name": "i24news fr",
-			"channelID": "action=live&id=fr",
 			"mode": 10,
 			"image": "i24news.png",
 			"module": "i24news",
@@ -574,16 +537,15 @@
 			"tvgID": "i24news",
 			"type": "tv",
 			"linkDetails": {
-				"ch": "fr",
+				"channelID": "fr",
 				"link": "https://fastly.live.brightcove.com/6386790513112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA1MTMxMTIifQ.Szahkl5VVsEWGdM4mgrmlDPVkWPTRgBMwwGg4D5hGFU/playlist-hls.m3u8",
 				"manifest_type": "hls"
 			}
 		},
 		{
-			"ch": "ch_i24newsar",
+			"channelID": "ch_i24newsar",
 			"index": 23,
 			"name": "i24news ar",
-			"channelID": "action=live&id=ar",
 			"mode": 10,
 			"image": "i24news.png",
 			"module": "i24news",
@@ -591,16 +553,15 @@
 			"tvgID": "i24news",
 			"type": "tv",
 			"linkDetails": {
-				"ch": "ar",
+				"channelID": "ar",
 				"link": "https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTI1NzIxMTIifQ.vsA8IfCHFqoqo2BHxx4w0PqBgTESPMYgFGL771vzKoA/playlist-hls.m3u8",
 				"manifest_type": "hls"
 			}
 		},
 		{
-			"ch": "ch_13comedy",
+			"channelID": "ch_13comedy",
 			"index": 24,
 			"name": "13 ערוץ הקומדיות",
-			"channelID": "13comedy",
 			"mode": 4,
 			"image": "13comedy.jpg",
 			"module": "reshet",
@@ -613,10 +574,9 @@
 			}
 		},
 		{
-			"ch": "ch_13nofesh",
+			"channelID": "ch_13nofesh",
 			"index": 25,
 			"name": "ערוץ הנופש",
-			"channelID": "13nofesh",
 			"mode": 4,
 			"image": "13nofesh.jpg",
 			"module": "reshet",
@@ -629,10 +589,9 @@
 			}
 		},
 		{
-			"ch": "ch_13reality",
+			"channelID": "ch_13reality",
 			"index": 26,
 			"name": "ערוץ הריאליטי",
-			"channelID": "13reality",
 			"mode": 4,
 			"image": "13reality.jpg",
 			"module": "reshet",
@@ -645,10 +604,9 @@
 			}
 		},
 		{
-			"ch": "ch_erets",
+			"channelID": "ch_erets",
 			"index": 27,
 			"name": "ערוץ ארץ נהדרת",
-			"channelID": "erets",
 			"mode": 10,
 			"image": "erets.jpg",
 			"module": "keshet",
@@ -660,10 +618,9 @@
 			}
 		},
 		{
-			"ch": "ch_savri",
+			"channelID": "ch_savri",
 			"index": 28,
 			"name": "ערוץ סברי מרנן",
-			"channelID": "savri",
 			"mode": 10,
 			"image": "savri.jpg",
 			"module": "keshet",
@@ -675,10 +632,9 @@
 			}
 		},
 		{
-			"ch": "ch_hatuna",
+			"channelID": "ch_hatuna",
 			"index": 29,
 			"name": "ערוץ חתונמי",
-			"channelID": "hatuna",
 			"mode": 10,
 			"image": "hatuna.jpg",
 			"module": "keshet",
@@ -690,10 +646,9 @@
 			}
 		},
 		{
-			"ch": "ch_kohav",
+			"channelID": "ch_kohav",
 			"index": 30,
 			"name": "ערוץ הכוכב הבא",
-			"channelID": "kohav",
 			"mode": 10,
 			"image": "kohav.jpg",
 			"module": "keshet",
@@ -705,10 +660,9 @@
 			}
 		},
 		{
-			"ch": "ch_ninja",
+			"channelID": "ch_ninja",
 			"index": 31,
 			"name": "ערוץ נינג'ה ישראל",
-			"channelID": "ninja",
 			"mode": 10,
 			"image": "ninja.jpg",
 			"module": "keshet",
@@ -722,10 +676,9 @@
 	],
 	"radio": [
 		{
-			"ch": "rd_glglz",
+			"channelID": "rd_glglz",
 			"index": 1,
 			"name": "גלגל\"צ",
-			"channelID": "glglz",
 			"mode": 11,
 			"image": "glglz.jpg",
 			"module": "glz",
@@ -737,10 +690,9 @@
 			}
 		},
 		{
-			"ch": "rd_88",
+			"channelID": "rd_88",
 			"index": 2,
 			"name": "כאן 88",
-			"channelID": "88",
 			"mode": 11,
 			"image": "88.png",
 			"module": "kan",
@@ -752,10 +704,9 @@
 			}
 		},
 		{
-			"ch": "rd_90",
+			"channelID": "rd_90",
 			"index": 3,
 			"name": "90FM רדיו תשעים",
-			"channelID": "90fm",
 			"mode": 11,
 			"image": "90fm.jpg",
 			"module": "radio",
@@ -767,10 +718,9 @@
 			}
 		},
 		{
-			"ch": "rd_91",
+			"channelID": "rd_91",
 			"index": 4,
 			"name": "91FM רדיו לב המדינה",
-			"channelID": "91fm",
 			"mode": 11,
 			"image": "91fm.jpg",
 			"module": "radio",
@@ -782,10 +732,9 @@
 			}
 		},
 		{
-			"ch": "rd_97",
+			"channelID": "rd_97",
 			"index": 5,
 			"name": "97FM רדיו דרום",
-			"channelID": "97fm",
 			"mode": 11,
 			"image": "97fm.jpg",
 			"module": "radio",
@@ -797,10 +746,9 @@
 			}
 		},
 		{
-			"ch": "rd_99",
+			"channelID": "rd_99",
 			"index": 6,
 			"name": "ECO 99FM",
-			"channelID": "99fm",
 			"mode": 11,
 			"image": "99fm.png",
 			"module": "99fm",
@@ -811,25 +759,23 @@
 			}
 		},
 		{
-			"ch": "rd_100",
+			"channelID": "rd_100",
 			"index": 7,
 			"name": "100FM רדיוס",
-			"channelID": "100fm",
 			"mode": 11,
 			"image": "100fm.jpg",
 			"module": "100fm",
 			"tvgID": "100fm",
 			"type": "radio",
 			"linkDetails": {
-				"ch": "http://digital.100fm.co.il/app/",
+				"channelID": "http://digital.100fm.co.il/app/",
 				"link": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
 			}
 		},
 		{
-			"ch": "rd_101",
+			"channelID": "rd_101",
 			"index": 8,
 			"name": "101FM רדיו ירושלים",
-			"channelID": "101fm",
 			"mode": 11,
 			"image": "101fm.png",
 			"module": "radio",
@@ -841,10 +787,9 @@
 			}
 		},
 		{
-			"ch": "rd_1015",
+			"channelID": "rd_1015",
 			"index": 9,
 			"name": "101.5FM רדיו דרום",
-			"channelID": "1015fm",
 			"mode": 11,
 			"image": "1015fm.jpg",
 			"module": "radio",
@@ -856,10 +801,9 @@
 			}
 		},
 		{
-			"ch": "rd_102",
+			"channelID": "rd_102",
 			"index": 10,
 			"name": "102FM רדיו תל אביב",
-			"channelID": "102fm",
 			"mode": 11,
 			"image": "102fm.jpg",
 			"module": "radio",
@@ -871,10 +815,9 @@
 			}
 		},
 		{
-			"ch": "rd_102Eilat",
+			"channelID": "rd_102Eilat",
 			"index": 11,
 			"name": "102FM רדיו קול הים האדום",
-			"channelID": "102fmEilat",
 			"mode": 11,
 			"image": "102fmEilat.jpg",
 			"module": "radio",
@@ -886,10 +829,9 @@
 			}
 		},
 		{
-			"ch": "rd_103",
+			"channelID": "rd_103",
 			"index": 12,
 			"name": "103FM רדיו ללא הפסקה",
-			"channelID": "103fm",
 			"mode": 11,
 			"image": "103fm.png",
 			"module": "radio",
@@ -901,10 +843,9 @@
 			}
 		},
 		{
-			"ch": "rd_1045",
+			"channelID": "rd_1045",
 			"index": 13,
 			"name": "104.5FM רדיו צפון",
-			"channelID": "1045fm",
 			"mode": 11,
 			"image": "1045fm.jpg",
 			"module": "radio",
@@ -916,10 +857,9 @@
 			}
 		},
 		{
-			"ch": "rd_1075",
+			"channelID": "rd_1075",
 			"index": 14,
 			"name": "107.5FM רדיו חיפה",
-			"channelID": "1075fm",
 			"mode": 11,
 			"image": "1075fm.jpg",
 			"module": "radio",
@@ -931,10 +871,9 @@
 			}
 		},
 		{
-			"ch": "rd_glz",
+			"channelID": "rd_glz",
 			"index": 15,
 			"name": "גלי צה\"ל",
-			"channelID": "glz",
 			"mode": 11,
 			"image": "glz.jpg",
 			"module": "glz",
@@ -946,10 +885,9 @@
 			}
 		},
 		{
-			"ch": "rd_bet",
+			"channelID": "rd_bet",
 			"index": 16,
 			"name": "כאן ב",
-			"channelID": "bet",
 			"mode": 11,
 			"image": "bet.png",
 			"module": "kan",
@@ -961,10 +899,9 @@
 			}
 		},
 		{
-			"ch": "rd_gimel",
+			"channelID": "rd_gimel",
 			"index": 17,
 			"name": "כאן גימל",
-			"channelID": "gimel",
 			"mode": 11,
 			"image": "gimel.png",
 			"module": "kan",
@@ -976,10 +913,9 @@
 			}
 		},
 		{
-			"ch": "rd_culture",
+			"channelID": "rd_culture",
 			"index": 18,
 			"name": "כאן תרבות",
-			"channelID": "culture",
 			"mode": 11,
 			"image": "culture.png",
 			"module": "kan",
@@ -991,10 +927,9 @@
 			}
 		},
 		{
-			"ch": "rd_music",
+			"channelID": "rd_music",
 			"index": 19,
 			"name": "כאן קול המוסיקה",
-			"channelID": "music",
 			"mode": 11,
 			"image": "music.png",
 			"module": "kan",
@@ -1006,10 +941,9 @@
 			}
 		},
 		{
-			"ch": "rd_moreshet",
+			"channelID": "rd_moreshet",
 			"index": 20,
 			"name": "כאן מורשת",
-			"channelID": "moreshet",
 			"mode": 11,
 			"image": "moreshet.png",
 			"module": "kan",
@@ -1021,10 +955,9 @@
 			}
 		},
 		{
-			"ch": "rd_kankids",
+			"channelID": "rd_kankids",
 			"index": 21,
 			"name": "כאן ילדים",
-			"channelID": "kankids",
 			"mode": 11,
 			"image": "23tv.jpg",
 			"module": "kan",
@@ -1035,25 +968,23 @@
 			}
 		},
 		{
-			"ch": "rd_sport5",
+			"channelID": "rd_sport5",
 			"index": 22,
 			"name": "ספורט 5 אתר",
-			"channelID": "5live",
 			"mode": 10,
 			"image": "Sport5.png",
 			"module": "sport5",
 			"tvgID": "5radio",
 			"type": "radio",
 			"linkDetails": {
-				"ch": "liveurl",
+				"channelID": "liveurl",
 				"link": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8"
 			}
 		},
 		{
-			"ch": "rd_reka",
+			"channelID": "rd_reka",
 			"index": 23,
 			"name": "כאן Reka",
-			"channelID": "reka",
 			"mode": 11,
 			"image": "reka.png",
 			"module": "kan",
@@ -1065,10 +996,9 @@
 			}
 		},
 		{
-			"ch": "rd_891",
+			"channelID": "rd_891",
 			"index": 24,
 			"name": "Первое Радио 89.1FM",
-			"channelID": "891fm",
 			"mode": 11,
 			"image": "891fm.png",
 			"module": "radio",
@@ -1080,25 +1010,23 @@
 			}
 		},
 		{
-			"ch": "rd_1064",
+			"channelID": "rd_1064",
 			"index": 25,
 			"name": "Лучшее Радио 106.4FM",
-			"channelID": "1064fm",
 			"mode": 11,
 			"image": "1064fm.jpg",
 			"module": "1064fm",
 			"tvgID": "",
 			"type": "radio",
 			"linkDetails": {
-				"ch": "https://radio1064.co.il",
+				"channelID": "https://radio1064.co.il",
 				"link": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8"
 			}
 		},
 		{
-			"ch": "rd_makan",
+			"channelID": "rd_makan",
 			"index": 26,
 			"name": "כאן مكان",
-			"channelID": "makan",
 			"mode": 11,
 			"image": "makan.png",
 			"module": "kan",
@@ -1110,10 +1038,9 @@
 			}
 		},
 		{
-			"ch": "rd_mizrahit",
+			"channelID": "rd_mizrahit",
 			"index": 27,
 			"name": "קול הים התיכון",
-			"channelID": "mizrahit",
 			"mode": 11,
 			"image": "mizrahit.png",
 			"module": "radio",
@@ -1125,10 +1052,9 @@
 			}
 		},
 		{
-			"ch": "rd_kolhay",
+			"channelID": "rd_kolhay",
 			"index": 28,
 			"name": "93FM קול חי",
-			"channelID": "kolhay",
 			"mode": 11,
 			"image": "kolhay.jpg",
 			"module": "radio",
@@ -1140,10 +1066,9 @@
 			}
 		},
 		{
-			"ch": "rd_kolhaymusic",
+			"channelID": "rd_kolhaymusic",
 			"index": 29,
 			"name": "קול חי מיוזיק",
-			"channelID": "kolhaymusic",
 			"mode": 11,
 			"image": "kolhaymusic.jpg",
 			"module": "radio",
@@ -1155,10 +1080,9 @@
 			}
 		},
 		{
-			"ch": "rd_kolbarama",
+			"channelID": "rd_kolbarama",
 			"index": 30,
 			"name": "קול ברמה",
-			"channelID": "kolbarama",
 			"mode": 11,
 			"image": "kolbarama.jpg",
 			"module": "radio",
@@ -1170,10 +1094,9 @@
 			}
 		},
 		{
-			"ch": "rd_kolplay",
+			"channelID": "rd_kolplay",
 			"index": 31,
 			"name": "קול Play",
-			"channelID": "kolplay",
 			"mode": 11,
 			"image": "kolplay.png",
 			"module": "radio",
@@ -1185,10 +1108,9 @@
 			}
 		},
 		{
-			"ch": "rd_gly",
+			"channelID": "rd_gly",
 			"index": 32,
 			"name": "גלי ישראל",
-			"channelID": "gly",
 			"mode": 11,
 			"image": "gly.jpg",
 			"module": "radio",
@@ -1200,10 +1122,9 @@
 			}
 		},
 		{
-			"ch": "rd_fm995",
+			"channelID": "rd_fm995",
 			"index": 33,
 			"name": "95.5FM רדיו",
-			"channelID": "fm995",
 			"mode": 11,
 			"image": "fm95.5.png",
 			"module": "radio",
@@ -1215,10 +1136,9 @@
 			}
 		},
 		{
-			"ch": "rd_noshmim_mizrahit",
+			"channelID": "rd_noshmim_mizrahit",
 			"index": 34,
 			"name": "רדיו נושמים מזרחית",
-			"channelID": "noshmim_mizrahit",
 			"mode": 11,
 			"image": "noshmim.jpg",
 			"module": "radio",
@@ -1230,10 +1150,9 @@
 			}
 		},
 		{
-			"ch": "rd_diki",
+			"channelID": "rd_diki",
 			"index": 35,
 			"name": "רדיו שירי דיכאון",
-			"channelID": "diki",
 			"mode": 11,
 			"image": "diki.jpg",
 			"module": "radio",
