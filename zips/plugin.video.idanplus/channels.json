@@ -185,7 +185,7 @@
 			"tvgID": "14",
 			"type": "tv",
 			"linkDetails": {
-				"channelID": "https://insight-api-channel14.univtec.com/cms/interface/channels/play?relations=true&filter=guid||$eq||b676b906-5625-48af-a331-11a5d22e151b",
+				"ch": "https://insight-api-channel14.univtec.com/cms/interface/channels/play?relations=true&filter=guid||$eq||b676b906-5625-48af-a331-11a5d22e151b",
 				"link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
 			}
 		},
@@ -418,7 +418,7 @@
 			"tvgID": "5radio",
 			"type": "tv",
 			"linkDetails": {
-				"channelID": "studioUrl",
+				"ch": "studioUrl",
 				"link": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8"
 			}
 		},
@@ -505,7 +505,7 @@
 			"tvgID": "i24news",
 			"type": "tv",
 			"linkDetails": {
-				"channelID": "he",
+				"ch": "he",
 				"link": "https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8",
 				"manifest_type": "hls"
 			}
@@ -521,7 +521,7 @@
 			"tvgID": "i24news",
 			"type": "tv",
 			"linkDetails": {
-				"channelID": "en",
+				"ch": "en",
 				"link": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/playlist-hls.m3u8",
 				"manifest_type": "hls"
 			}
@@ -537,7 +537,7 @@
 			"tvgID": "i24news",
 			"type": "tv",
 			"linkDetails": {
-				"channelID": "fr",
+				"ch": "fr",
 				"link": "https://fastly.live.brightcove.com/6386790513112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA1MTMxMTIifQ.Szahkl5VVsEWGdM4mgrmlDPVkWPTRgBMwwGg4D5hGFU/playlist-hls.m3u8",
 				"manifest_type": "hls"
 			}
@@ -553,7 +553,7 @@
 			"tvgID": "i24news",
 			"type": "tv",
 			"linkDetails": {
-				"channelID": "ar",
+				"ch": "ar",
 				"link": "https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTI1NzIxMTIifQ.vsA8IfCHFqoqo2BHxx4w0PqBgTESPMYgFGL771vzKoA/playlist-hls.m3u8",
 				"manifest_type": "hls"
 			}
@@ -768,7 +768,7 @@
 			"tvgID": "100fm",
 			"type": "radio",
 			"linkDetails": {
-				"channelID": "http://digital.100fm.co.il/app/",
+				"ch": "http://digital.100fm.co.il/app/",
 				"link": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
 			}
 		},
@@ -977,7 +977,7 @@
 			"tvgID": "5radio",
 			"type": "radio",
 			"linkDetails": {
-				"channelID": "liveurl",
+				"ch": "liveurl",
 				"link": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8"
 			}
 		},
@@ -1019,7 +1019,7 @@
 			"tvgID": "",
 			"type": "radio",
 			"linkDetails": {
-				"channelID": "https://radio1064.co.il",
+				"ch": "https://radio1064.co.il",
 				"link": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8"
 			}
 		},
