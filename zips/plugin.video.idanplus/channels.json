@@ -1,6 +1,5 @@
-[
-	{
-		"channelID": "ch_11",
+{
+	"ch_11": {
 		"index": 1,
 		"name": "כאן 11",
 		"mode": 10,
@@ -13,8 +12,7 @@
 			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_11b",
+	"ch_11b": {
 		"index": 1,
 		"name": "כאן 11 - גיבוי",
 		"mode": 10,
@@ -29,8 +27,7 @@
 			"manifest_type": "mpd"
 		}
 	},
-	{
-		"channelID": "ch_11c",
+	"ch_11c": {
 		"index": 1,
 		"name": "כאן 11 - לקויי שמיעה",
 		"mode": 10,
@@ -43,8 +40,7 @@
 			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_12",
+	"ch_12": {
 		"index": 2,
 		"name": "קשת 12",
 		"mode": 10,
@@ -57,8 +53,7 @@
 			"link": "/direct/hls/live/2033791/k12/index.m3u8?as=1"
 		}
 	},
-	{
-		"channelID": "ch_12b",
+	"ch_12b": {
 		"index": 2,
 		"name": "קשת 12 - גיבוי",
 		"mode": 10,
@@ -71,8 +66,7 @@
 			"link": "/stream/hls/live/2033791/k12n12wad/index.m3u8?b-in-range=0-700"
 		}
 	},
-	{
-		"channelID": "ch_12b2",
+	"ch_12b2": {
 		"index": 2,
 		"name": "קשת 12 - גיבוי 2",
 		"mode": 10,
@@ -85,8 +79,7 @@
 			"link": "/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-2700"
 		}
 	},
-	{
-		"channelID": "ch_12b3",
+	"ch_12b3": {
 		"index": 2,
 		"name": "קשת 12 - גיבוי 3",
 		"mode": 10,
@@ -99,8 +92,7 @@
 			"link": "/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100"
 		}
 	},
-	{
-		"channelID": "ch_12c",
+	"ch_12c": {
 		"index": 2,
 		"name": "קשת 12 - לקויי שמיעה",
 		"mode": 10,
@@ -113,8 +105,7 @@
 			"link": "/direct/hls/live/2035325/k12cc/index.m3u8?as=1"
 		}
 	},
-	{
-		"channelID": "ch_13",
+	"ch_13": {
 		"index": 3,
 		"name": "רשת 13",
 		"mode": 4,
@@ -128,8 +119,7 @@
 			"link": "https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_13b",
+	"ch_13b": {
 		"index": 3,
 		"name": "רשת 13 - גיבוי",
 		"mode": 4,
@@ -143,8 +133,7 @@
 			"link": "https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_13b2",
+	"ch_13b2": {
 		"index": 3,
 		"name": "רשת 13 - גיבוי 2",
 		"mode": 4,
@@ -158,8 +147,7 @@
 			"referer": "https://13tv.co.il/allshows/2010263/"
 		}
 	},
-	{
-		"channelID": "ch_13c",
+	"ch_13c": {
 		"index": 3,
 		"name": "רשת 13 - לקויי שמיעה",
 		"mode": 4,
@@ -173,8 +161,7 @@
 			"link": "https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManifest.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_14",
+	"ch_14": {
 		"index": 4,
 		"name": "עכשיו 14",
 		"mode": 10,
@@ -188,8 +175,7 @@
 			"link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_14b",
+	"ch_14b": {
 		"index": 4,
 		"name": "עכשיו 14 - גיבוי",
 		"mode": 10,
@@ -202,8 +188,7 @@
 			"link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_14b2",
+	"ch_14b2": {
 		"index": 4,
 		"name": "עכשיו 14 - גיבוי 2",
 		"mode": 10,
@@ -216,8 +201,7 @@
 			"link": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_10",
+	"ch_10": {
 		"index": 5,
 		"name": "כלכלה 10",
 		"mode": 10,
@@ -230,8 +214,7 @@
 			"link": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_23",
+	"ch_23": {
 		"index": 6,
 		"name": "כאן חינוכית 23",
 		"mode": 10,
@@ -244,8 +227,7 @@
 			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_23b",
+	"ch_23b": {
 		"index": 6,
 		"name": "כאן חינוכית 23 - גיבוי",
 		"mode": 10,
@@ -260,8 +242,7 @@
 			"manifest_type": "mpd"
 		}
 	},
-	{
-		"channelID": "ch_24",
+	"ch_24": {
 		"index": 7,
 		"name": "ערוץ 24 החדש",
 		"mode": 10,
@@ -274,8 +255,7 @@
 			"link": "/direct/hls/live/2035340/ch24live/index.m3u8?as=1"
 		}
 	},
-	{
-		"channelID": "ch_bb",
+	"ch_bb": {
 		"index": 8,
 		"name": "האח הגדול 26",
 		"mode": 4,
@@ -289,8 +269,7 @@
 			"link": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_bbb",
+	"ch_bbb": {
 		"index": 8,
 		"name": "האח הגדול 26 - גיבוי",
 		"mode": 10,
@@ -305,8 +284,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "ch_33",
+	"ch_33": {
 		"index": 9,
 		"name": "מכאן 33",
 		"mode": 10,
@@ -319,8 +297,7 @@
 			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_33b",
+	"ch_33b": {
 		"index": 9,
 		"name": "מכאן 33 - גיבוי",
 		"mode": 10,
@@ -335,8 +312,7 @@
 			"manifest_type": "mpd"
 		}
 	},
-	{
-		"channelID": "ch_66",
+	"ch_66": {
 		"index": 10,
 		"name": "קבלה 66",
 		"mode": 10,
@@ -349,8 +325,7 @@
 			"link": "https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_97",
+	"ch_97": {
 		"index": 11,
 		"name": "הידברות 97",
 		"mode": 10,
@@ -363,8 +338,7 @@
 			"link": "https://www.hidabroot.org/live"
 		}
 	},
-	{
-		"channelID": "ch_99",
+	"ch_99": {
 		"index": 12,
 		"name": "כנסת 99",
 		"mode": 10,
@@ -377,8 +351,7 @@
 			"link": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_99c",
+	"ch_99c": {
 		"index": 12,
 		"name": "כנסת 99 - לקויי שמיעה",
 		"mode": 10,
@@ -391,8 +364,7 @@
 			"link": "https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_ynet",
+	"ch_ynet": {
 		"index": 13,
 		"name": "Ynet Live",
 		"mode": 10,
@@ -406,8 +378,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "ch_sport5",
+	"ch_sport5": {
 		"index": 15,
 		"name": "ספורט 5 אתר",
 		"mode": 10,
@@ -421,8 +392,7 @@
 			"link": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_100",
+	"ch_100": {
 		"index": 16,
 		"name": "100FM רדיוס",
 		"mode": 10,
@@ -435,8 +405,7 @@
 			"link": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_9",
+	"ch_9": {
 		"index": 17,
 		"name": "ערוץ 9",
 		"mode": 10,
@@ -449,8 +418,7 @@
 			"link": "https://contact.gostreaming.tv/Con-11/index.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_891",
+	"ch_891": {
 		"index": 17,
 		"name": "Первое Радио 89.1FM",
 		"mode": 10,
@@ -464,8 +432,7 @@
 			"regex": "streamSource\\s*=\\s*'(.*?)'"
 		}
 	},
-	{
-		"channelID": "ch_kabru",
+	"ch_kabru": {
 		"index": 18,
 		"name": "קבלה - רוסית",
 		"mode": 10,
@@ -478,8 +445,7 @@
 			"link": "https://edge2.il.kab.tv/live/tv66-rus-high/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "ch_musayof",
+	"ch_musayof": {
 		"index": 19,
 		"name": "מוסיוף",
 		"mode": 10,
@@ -493,8 +459,7 @@
 			"referer": "http://media-line.co.il/Media-Line-Player/musayof/livePlayer.aspx"
 		}
 	},
-	{
-		"channelID": "ch_i24news",
+	"ch_i24news": {
 		"index": 20,
 		"name": "i24news",
 		"mode": 10,
@@ -509,8 +474,7 @@
 			"manifest_type": "hls"
 		}
 	},
-	{
-		"channelID": "ch_i24newsen",
+	"ch_i24newsen": {
 		"index": 21,
 		"name": "i24news en",
 		"mode": 10,
@@ -525,8 +489,7 @@
 			"manifest_type": "hls"
 		}
 	},
-	{
-		"channelID": "ch_i24newsfr",
+	"ch_i24newsfr": {
 		"index": 22,
 		"name": "i24news fr",
 		"mode": 10,
@@ -541,8 +504,7 @@
 			"manifest_type": "hls"
 		}
 	},
-	{
-		"channelID": "ch_i24newsar",
+	"ch_i24newsar": {
 		"index": 23,
 		"name": "i24news ar",
 		"mode": 10,
@@ -557,8 +519,7 @@
 			"manifest_type": "hls"
 		}
 	},
-	{
-		"channelID": "ch_13comedy",
+	"ch_13comedy": {
 		"index": 24,
 		"name": "13 ערוץ הקומדיות",
 		"mode": 4,
@@ -572,8 +533,7 @@
 			"referer": "https://13tv.co.il/allshows/2605018/"
 		}
 	},
-	{
-		"channelID": "ch_13nofesh",
+	"ch_13nofesh": {
 		"index": 25,
 		"name": "ערוץ הנופש",
 		"mode": 4,
@@ -587,8 +547,7 @@
 			"referer": "https://13tv.co.il/allshows/2395628/"
 		}
 	},
-	{
-		"channelID": "ch_13reality",
+	"ch_13reality": {
 		"index": 26,
 		"name": "ערוץ הריאליטי",
 		"mode": 4,
@@ -602,8 +561,7 @@
 			"referer": "https://13tv.co.il/allshows/2395629/"
 		}
 	},
-	{
-		"channelID": "ch_erets",
+	"ch_erets": {
 		"index": 27,
 		"name": "ערוץ ארץ נהדרת",
 		"mode": 10,
@@ -616,8 +574,7 @@
 			"link": "/free/hls/live/2111419/erets/index.m3u8?b-in-range=0-1800"
 		}
 	},
-	{
-		"channelID": "ch_savri",
+	"ch_savri": {
 		"index": 28,
 		"name": "ערוץ סברי מרנן",
 		"mode": 10,
@@ -630,8 +587,7 @@
 			"link": "/free/hls/live/2111419/savri/index.m3u8?b-in-range=0-1800"
 		}
 	},
-	{
-		"channelID": "ch_hatuna",
+	"ch_hatuna": {
 		"index": 29,
 		"name": "ערוץ חתונמי",
 		"mode": 10,
@@ -644,8 +600,7 @@
 			"link": "/free/hls/live/2111419/hatuna/index.m3u8?b-in-range=0-1800"
 		}
 	},
-	{
-		"channelID": "ch_kohav",
+	"ch_kohav": {
 		"index": 30,
 		"name": "ערוץ הכוכב הבא",
 		"mode": 10,
@@ -658,8 +613,7 @@
 			"link": "/free/hls/live/2111419/kohav/index.m3u8?b-in-range=0-1800"
 		}
 	},
-	{
-		"channelID": "ch_ninja",
+	"ch_ninja": {
 		"index": 31,
 		"name": "ערוץ נינג'ה ישראל",
 		"mode": 10,
@@ -672,8 +626,7 @@
 			"link": "/free/hls/live/2111419/ninja/index.m3u8?b-in-range=0-1800"
 		}
 	},
-	{
-		"channelID": "rd_glglz",
+	"rd_glglz": {
 		"index": 1,
 		"name": "גלגל\"צ",
 		"mode": 11,
@@ -686,8 +639,7 @@
 			"live": "http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
 		}
 	},
-	{
-		"channelID": "rd_88",
+	"rd_88": {
 		"index": 2,
 		"name": "כאן 88",
 		"mode": 11,
@@ -700,8 +652,7 @@
 			"manifest_type": "mpd"
 		}
 	},
-	{
-		"channelID": "rd_90",
+	"rd_90": {
 		"index": 3,
 		"name": "90FM רדיו תשעים",
 		"mode": 11,
@@ -714,8 +665,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_91",
+	"rd_91": {
 		"index": 4,
 		"name": "91FM רדיו לב המדינה",
 		"mode": 11,
@@ -728,8 +678,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_97",
+	"rd_97": {
 		"index": 5,
 		"name": "97FM רדיו דרום",
 		"mode": 11,
@@ -742,8 +691,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_99",
+	"rd_99": {
 		"index": 6,
 		"name": "ECO 99FM",
 		"mode": 11,
@@ -755,8 +703,7 @@
 			"link": "http://eco-live.mediacast.co.il/99fm_aac"
 		}
 	},
-	{
-		"channelID": "rd_100",
+	"rd_100": {
 		"index": 7,
 		"name": "100FM רדיוס",
 		"mode": 11,
@@ -769,8 +716,7 @@
 			"link": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
 		}
 	},
-	{
-		"channelID": "rd_101",
+	"rd_101": {
 		"index": 8,
 		"name": "101FM רדיו ירושלים",
 		"mode": 11,
@@ -783,8 +729,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_1015",
+	"rd_1015": {
 		"index": 9,
 		"name": "101.5FM רדיו דרום",
 		"mode": 11,
@@ -797,8 +742,7 @@
 			"regex": "width=\"100%\" src=\"(.*?)\""
 		}
 	},
-	{
-		"channelID": "rd_102",
+	"rd_102": {
 		"index": 10,
 		"name": "102FM רדיו תל אביב",
 		"mode": 11,
@@ -811,8 +755,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_102Eilat",
+	"rd_102Eilat": {
 		"index": 11,
 		"name": "102FM רדיו קול הים האדום",
 		"mode": 11,
@@ -825,8 +768,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_103",
+	"rd_103": {
 		"index": 12,
 		"name": "103FM רדיו ללא הפסקה",
 		"mode": 11,
@@ -839,8 +781,7 @@
 			"regex": "data-file=\"(.*?)\""
 		}
 	},
-	{
-		"channelID": "rd_1045",
+	"rd_1045": {
 		"index": 13,
 		"name": "104.5FM רדיו צפון",
 		"mode": 11,
@@ -853,8 +794,7 @@
 			"regex": "data-file=\"(.*?)\""
 		}
 	},
-	{
-		"channelID": "rd_1075",
+	"rd_1075": {
 		"index": 14,
 		"name": "107.5FM רדיו חיפה",
 		"mode": 11,
@@ -867,8 +807,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_glz",
+	"rd_glz": {
 		"index": 15,
 		"name": "גלי צה\"ל",
 		"mode": 11,
@@ -881,8 +820,7 @@
 			"live": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
 		}
 	},
-	{
-		"channelID": "rd_bet",
+	"rd_bet": {
 		"index": 16,
 		"name": "כאן ב",
 		"mode": 11,
@@ -895,8 +833,7 @@
 			"manifest_type": "mpd"
 		}
 	},
-	{
-		"channelID": "rd_gimel",
+	"rd_gimel": {
 		"index": 17,
 		"name": "כאן גימל",
 		"mode": 11,
@@ -909,8 +846,7 @@
 			"manifest_type": "mpd"
 		}
 	},
-	{
-		"channelID": "rd_culture",
+	"rd_culture": {
 		"index": 18,
 		"name": "כאן תרבות",
 		"mode": 11,
@@ -923,8 +859,7 @@
 			"manifest_type": "mpd"
 		}
 	},
-	{
-		"channelID": "rd_music",
+	"rd_music": {
 		"index": 19,
 		"name": "כאן קול המוסיקה",
 		"mode": 11,
@@ -937,8 +872,7 @@
 			"manifest_type": "mpd"
 		}
 	},
-	{
-		"channelID": "rd_moreshet",
+	"rd_moreshet": {
 		"index": 20,
 		"name": "כאן מורשת",
 		"mode": 11,
@@ -951,8 +885,7 @@
 			"manifest_type": "mpd"
 		}
 	},
-	{
-		"channelID": "rd_kankids",
+	"rd_kankids": {
 		"index": 21,
 		"name": "כאן ילדים",
 		"mode": 11,
@@ -964,8 +897,7 @@
 			"link": "https://kankids.media.kan.org.il/hls/live/2024820/2024820/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "rd_sport5",
+	"rd_sport5": {
 		"index": 22,
 		"name": "ספורט 5 אתר",
 		"mode": 10,
@@ -978,8 +910,7 @@
 			"link": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "rd_reka",
+	"rd_reka": {
 		"index": 23,
 		"name": "כאן Reka",
 		"mode": 11,
@@ -992,8 +923,7 @@
 			"manifest_type": "mpd"
 		}
 	},
-	{
-		"channelID": "rd_891",
+	"rd_891": {
 		"index": 24,
 		"name": "Первое Радио 89.1FM",
 		"mode": 11,
@@ -1006,8 +936,7 @@
 			"regex": "data-mp3=\"(.*?)\""
 		}
 	},
-	{
-		"channelID": "rd_1064",
+	"rd_1064": {
 		"index": 25,
 		"name": "Лучшее Радио 106.4FM",
 		"mode": 11,
@@ -1020,8 +949,7 @@
 			"link": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8"
 		}
 	},
-	{
-		"channelID": "rd_makan",
+	"rd_makan": {
 		"index": 26,
 		"name": "כאן مكان",
 		"mode": 11,
@@ -1034,8 +962,7 @@
 			"manifest_type": "mpd"
 		}
 	},
-	{
-		"channelID": "rd_mizrahit",
+	"rd_mizrahit": {
 		"index": 27,
 		"name": "קול הים התיכון",
 		"mode": 11,
@@ -1048,8 +975,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_kolhay",
+	"rd_kolhay": {
 		"index": 28,
 		"name": "93FM קול חי",
 		"mode": 11,
@@ -1062,8 +988,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_kolhaymusic",
+	"rd_kolhaymusic": {
 		"index": 29,
 		"name": "קול חי מיוזיק",
 		"mode": 11,
@@ -1076,8 +1001,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_kolbarama",
+	"rd_kolbarama": {
 		"index": 30,
 		"name": "קול ברמה",
 		"mode": 11,
@@ -1090,8 +1014,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_kolplay",
+	"rd_kolplay": {
 		"index": 31,
 		"name": "קול Play",
 		"mode": 11,
@@ -1104,8 +1027,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_gly",
+	"rd_gly": {
 		"index": 32,
 		"name": "גלי ישראל",
 		"mode": 11,
@@ -1118,8 +1040,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_fm995",
+	"rd_fm995": {
 		"index": 33,
 		"name": "95.5FM רדיו",
 		"mode": 11,
@@ -1132,8 +1053,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_noshmim_mizrahit",
+	"rd_noshmim_mizrahit": {
 		"index": 34,
 		"name": "רדיו נושמים מזרחית",
 		"mode": 11,
@@ -1146,8 +1066,7 @@
 			"final": true
 		}
 	},
-	{
-		"channelID": "rd_diki",
+	"rd_diki": {
 		"index": 35,
 		"name": "רדיו שירי דיכאון",
 		"mode": 11,
@@ -1160,4 +1079,4 @@
 			"final": true
 		}
 	}
-]
+}
