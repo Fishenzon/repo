@@ -1,1167 +1,1163 @@
-{
-	"tv": [
-		{
-			"channelID": "ch_11",
-			"index": 1,
-			"name": "כאן 11",
-			"mode": 10,
-			"image": "kan.jpg",
-			"module": "kan",
-			"resKey": "ch_11_res",
-			"tvgID": "11",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_11b",
-			"index": 1,
-			"name": "כאן 11 - גיבוי",
-			"mode": 10,
-			"image": "kan.jpg",
-			"module": "tv",
-			"resKey": "",
-			"tvgID": "11",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan11/live.livx",
-				"final": true,
-				"manifest_type": "mpd"
-			}
-		},
-		{
-			"channelID": "ch_11c",
-			"index": 1,
-			"name": "כאן 11 - לקויי שמיעה",
-			"mode": 10,
-			"image": "kan.jpg",
-			"module": "kan",
-			"resKey": "ch_11c_res",
-			"tvgID": "11",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_12",
-			"index": 2,
-			"name": "קשת 12",
-			"mode": 10,
-			"image": "keshet.jpg",
-			"module": "keshet",
-			"resKey": "ch_12_res",
-			"tvgID": "12",
-			"type": "tv",
-			"linkDetails": {
-				"link": "/direct/hls/live/2033791/k12/index.m3u8?as=1"
-			}
-		},
-		{
-			"channelID": "ch_12b",
-			"index": 2,
-			"name": "קשת 12 - גיבוי",
-			"mode": 10,
-			"image": "keshet.jpg",
-			"module": "keshet",
-			"resKey": "ch_12b_res",
-			"tvgID": "12",
-			"type": "tv",
-			"linkDetails": {
-				"link": "/stream/hls/live/2033791/k12n12wad/index.m3u8?b-in-range=0-700"
-			}
-		},
-		{
-			"channelID": "ch_12b2",
-			"index": 2,
-			"name": "קשת 12 - גיבוי 2",
-			"mode": 10,
-			"image": "keshet.jpg",
-			"module": "keshet",
-			"resKey": "ch_12b2_res",
-			"tvgID": "12",
-			"type": "tv",
-			"linkDetails": {
-				"link": "/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-2700"
-			}
-		},
-		{
-			"channelID": "ch_12b3",
-			"index": 2,
-			"name": "קשת 12 - גיבוי 3",
-			"mode": 10,
-			"image": "keshet.jpg",
-			"module": "keshet",
-			"resKey": "ch_12b3_res",
-			"tvgID": "12",
-			"type": "tv",
-			"linkDetails": {
-				"link": "/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100"
-			}
-		},
-		{
-			"channelID": "ch_12c",
-			"index": 2,
-			"name": "קשת 12 - לקויי שמיעה",
-			"mode": 10,
-			"image": "keshet.jpg",
-			"module": "keshet",
-			"resKey": "ch_12c_res",
-			"tvgID": "12",
-			"type": "tv",
-			"linkDetails": {
-				"link": "/direct/hls/live/2035325/k12cc/index.m3u8?as=1"
-			}
-		},
-		{
-			"channelID": "ch_13",
-			"index": 3,
-			"name": "רשת 13",
-			"mode": 4,
-			"image": "13.jpg",
-			"module": "reshet",
-			"resKey": "ch_13_res",
-			"tvgID": "13",
-			"type": "tv",
-			"linkDetails": {
-				"referer": "https://13tv.co.il/live/",
-				"link": "https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_13b",
-			"index": 3,
-			"name": "רשת 13 - גיבוי",
-			"mode": 4,
-			"image": "13.jpg",
-			"module": "reshet",
-			"resKey": "ch_13b_res",
-			"tvgID": "13",
-			"type": "tv",
-			"linkDetails": {
-				"referer": "https://13tv.co.il/live/",
-				"link": "https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_13b2",
-			"index": 3,
-			"name": "רשת 13 - גיבוי 2",
-			"mode": 4,
-			"image": "13.jpg",
-			"module": "reshet",
-			"resKey": "ch_13b2_res",
-			"tvgID": "13",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
-				"referer": "https://13tv.co.il/allshows/2010263/"
-			}
-		},
-		{
-			"channelID": "ch_13c",
-			"index": 3,
-			"name": "רשת 13 - לקויי שמיעה",
-			"mode": 4,
-			"image": "13.jpg",
-			"module": "reshet",
-			"resKey": "ch_13c_res",
-			"tvgID": "13",
-			"type": "tv",
-			"linkDetails": {
-				"referer": "https://13tv.co.il/live/",
-				"link": "https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManifest.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_14",
-			"index": 4,
-			"name": "עכשיו 14",
-			"mode": 10,
-			"image": "14tv.png",
-			"module": "14tv",
-			"resKey": "ch_14_res",
-			"tvgID": "14",
-			"type": "tv",
-			"linkDetails": {
-				"ch": "https://insight-api-channel14.univtec.com/cms/interface/channels/play?relations=true&filter=guid||$eq||b676b906-5625-48af-a331-11a5d22e151b",
-				"link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_14b",
-			"index": 4,
-			"name": "עכשיו 14 - גיבוי",
-			"mode": 10,
-			"image": "14tv.png",
-			"module": "tv",
-			"resKey": "ch_14b_res",
-			"tvgID": "14",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_14b2",
-			"index": 4,
-			"name": "עכשיו 14 - גיבוי 2",
-			"mode": 10,
-			"image": "14tv.png",
-			"module": "tv",
-			"resKey": "ch_14b2_res",
-			"tvgID": "14",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_10",
-			"index": 5,
-			"name": "כלכלה 10",
-			"mode": 10,
-			"image": "10tv.png",
-			"module": "tv",
-			"resKey": "ch_10_res",
-			"tvgID": "10",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_23",
-			"index": 6,
-			"name": "כאן חינוכית 23",
-			"mode": 10,
-			"image": "23tv.jpg",
-			"module": "kan",
-			"resKey": "ch_23_res",
-			"tvgID": "23",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_23b",
-			"index": 6,
-			"name": "כאן חינוכית 23 - גיבוי",
-			"mode": 10,
-			"image": "23tv.jpg",
-			"module": "tv",
-			"resKey": "",
-			"tvgID": "23",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan_edu/live.livx",
-				"final": true,
-				"manifest_type": "mpd"
-			}
-		},
-		{
-			"channelID": "ch_24",
-			"index": 7,
-			"name": "ערוץ 24 החדש",
-			"mode": 10,
-			"image": "24telad.png",
-			"module": "keshet",
-			"resKey": "ch_24_res",
-			"tvgID": "24",
-			"type": "tv",
-			"linkDetails": {
-				"link": "/direct/hls/live/2035340/ch24live/index.m3u8?as=1"
-			}
-		},
-		{
-			"channelID": "ch_bb",
-			"index": 8,
-			"name": "האח הגדול 26",
-			"mode": 4,
-			"image": "bb.jpg",
-			"module": "reshet",
-			"resKey": "ch_bb_res",
-			"tvgID": "",
-			"type": "tv",
-			"linkDetails": {
-				"referer": "https://13tv.co.il/home/bb-livestream/",
-				"link": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_bbb",
-			"index": 8,
-			"name": "האח הגדול 26 - גיבוי",
-			"mode": 10,
-			"image": "bb.jpg",
-			"module": "tv",
-			"resKey": "",
-			"tvgID": "",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8",
-				"referer": "https://13tv.co.il/home/bb-livestream/",
-				"final": true
-			}
-		},
-		{
-			"channelID": "ch_33",
-			"index": 9,
-			"name": "מכאן 33",
-			"mode": 10,
-			"image": "makan.png",
-			"module": "kan",
-			"resKey": "ch_33_res",
-			"tvgID": "33",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_33b",
-			"index": 9,
-			"name": "מכאן 33 - גיבוי",
-			"mode": 10,
-			"image": "makan.png",
-			"module": "tv",
-			"resKey": "",
-			"tvgID": "33",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/makan/live.livx",
-				"final": true,
-				"manifest_type": "mpd"
-			}
-		},
-		{
-			"channelID": "ch_66",
-			"index": 10,
-			"name": "קבלה 66",
-			"mode": 10,
-			"image": "kabbalah.jpg",
-			"module": "tv",
-			"resKey": "ch_66_res",
-			"tvgID": "66",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_97",
-			"index": 11,
-			"name": "הידברות 97",
-			"mode": 10,
-			"image": "hidabroot.jpg",
-			"module": "hidabroot",
-			"resKey": "ch_97_res",
-			"tvgID": "97",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://www.hidabroot.org/live"
-			}
-		},
-		{
-			"channelID": "ch_99",
-			"index": 12,
-			"name": "כנסת 99",
-			"mode": 10,
-			"image": "knesset.png",
-			"module": "tv",
-			"resKey": "ch_99_res",
-			"tvgID": "99",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_99c",
-			"index": 12,
-			"name": "כנסת 99 - לקויי שמיעה",
-			"mode": 10,
-			"image": "knesset.png",
-			"module": "tv",
-			"resKey": "ch_99c_res",
-			"tvgID": "99",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_ynet",
-			"index": 13,
-			"name": "Ynet Live",
-			"mode": 10,
-			"image": "ynet.jpg",
-			"module": "tv",
-			"resKey": "ch_ynet_res",
-			"tvgID": "",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8",
-				"final": true
-			}
-		},
-		{
-			"channelID": "ch_sport5",
-			"index": 15,
-			"name": "ספורט 5 אתר",
-			"mode": 10,
-			"image": "Sport5.png",
-			"module": "sport5",
-			"resKey": "",
-			"tvgID": "5radio",
-			"type": "tv",
-			"linkDetails": {
-				"ch": "studioUrl",
-				"link": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_100",
-			"index": 16,
-			"name": "100FM רדיוס",
-			"mode": 10,
-			"image": "100fm.jpg",
-			"module": "tv",
-			"resKey": "",
-			"tvgID": "100fm",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_9",
-			"index": 17,
-			"name": "ערוץ 9",
-			"mode": 10,
-			"image": "9tv.png",
-			"module": "tv",
-			"resKey": "",
-			"tvgID": "9tv",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://contact.gostreaming.tv/Con-11/index.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_891",
-			"index": 17,
-			"name": "Первое Радио 89.1FM",
-			"mode": 10,
-			"image": "891fm.png",
-			"module": "tv",
-			"resKey": "",
-			"tvgID": "891fm",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://www.oles.tv/891fm/player/",
-				"regex": "streamSource\\s*=\\s*'(.*?)'"
-			}
-		},
-		{
-			"channelID": "ch_kabru",
-			"index": 18,
-			"name": "קבלה - רוסית",
-			"mode": 10,
-			"image": "kabbalah.jpg",
-			"module": "tv",
-			"resKey": "ch_kabru_res",
-			"tvgID": "",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://edge2.il.kab.tv/live/tv66-rus-high/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "ch_musayof",
-			"index": 19,
-			"name": "מוסיוף",
-			"mode": 10,
-			"image": "musayof.jpg",
-			"module": "tv",
-			"resKey": "ch_musayof_res",
-			"tvgID": "",
-			"type": "tv",
-			"linkDetails": {
-				"link": "http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8",
-				"referer": "http://media-line.co.il/Media-Line-Player/musayof/livePlayer.aspx"
-			}
-		},
-		{
-			"channelID": "ch_i24news",
-			"index": 20,
-			"name": "i24news",
-			"mode": 10,
-			"image": "i24news.png",
-			"module": "i24news",
-			"resKey": "ch_i24news_res",
-			"tvgID": "i24news",
-			"type": "tv",
-			"linkDetails": {
-				"ch": "he",
-				"link": "https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8",
-				"manifest_type": "hls"
-			}
-		},
-		{
-			"channelID": "ch_i24newsen",
-			"index": 21,
-			"name": "i24news en",
-			"mode": 10,
-			"image": "i24news.png",
-			"module": "i24news",
-			"resKey": "ch_i24newsen_res",
-			"tvgID": "i24news",
-			"type": "tv",
-			"linkDetails": {
-				"ch": "en",
-				"link": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/playlist-hls.m3u8",
-				"manifest_type": "hls"
-			}
-		},
-		{
-			"channelID": "ch_i24newsfr",
-			"index": 22,
-			"name": "i24news fr",
-			"mode": 10,
-			"image": "i24news.png",
-			"module": "i24news",
-			"resKey": "ch_i24newsfr_res",
-			"tvgID": "i24news",
-			"type": "tv",
-			"linkDetails": {
-				"ch": "fr",
-				"link": "https://fastly.live.brightcove.com/6386790513112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA1MTMxMTIifQ.Szahkl5VVsEWGdM4mgrmlDPVkWPTRgBMwwGg4D5hGFU/playlist-hls.m3u8",
-				"manifest_type": "hls"
-			}
-		},
-		{
-			"channelID": "ch_i24newsar",
-			"index": 23,
-			"name": "i24news ar",
-			"mode": 10,
-			"image": "i24news.png",
-			"module": "i24news",
-			"resKey": "ch_i24newsar_res",
-			"tvgID": "i24news",
-			"type": "tv",
-			"linkDetails": {
-				"ch": "ar",
-				"link": "https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTI1NzIxMTIifQ.vsA8IfCHFqoqo2BHxx4w0PqBgTESPMYgFGL771vzKoA/playlist-hls.m3u8",
-				"manifest_type": "hls"
-			}
-		},
-		{
-			"channelID": "ch_13comedy",
-			"index": 24,
-			"name": "13 ערוץ הקומדיות",
-			"mode": 4,
-			"image": "13comedy.jpg",
-			"module": "reshet",
-			"resKey": "ch_13comedy_res",
-			"tvgID": "13comedy",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8",
-				"referer": "https://13tv.co.il/allshows/2605018/"
-			}
-		},
-		{
-			"channelID": "ch_13nofesh",
-			"index": 25,
-			"name": "ערוץ הנופש",
-			"mode": 4,
-			"image": "13nofesh.jpg",
-			"module": "reshet",
-			"resKey": "ch_13nofesh_res",
-			"tvgID": "13nofesh",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8",
-				"referer": "https://13tv.co.il/allshows/2395628/"
-			}
-		},
-		{
-			"channelID": "ch_13reality",
-			"index": 26,
-			"name": "ערוץ הריאליטי",
-			"mode": 4,
-			"image": "13reality.jpg",
-			"module": "reshet",
-			"resKey": "ch_13reality_res",
-			"tvgID": "13reality",
-			"type": "tv",
-			"linkDetails": {
-				"link": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8",
-				"referer": "https://13tv.co.il/allshows/2395629/"
-			}
-		},
-		{
-			"channelID": "ch_erets",
-			"index": 27,
-			"name": "ערוץ ארץ נהדרת",
-			"mode": 10,
-			"image": "erets.jpg",
-			"module": "keshet",
-			"resKey": "ch_erets_res",
-			"tvgID": "",
-			"type": "tv",
-			"linkDetails": {
-				"link": "/free/hls/live/2111419/erets/index.m3u8?b-in-range=0-1800"
-			}
-		},
-		{
-			"channelID": "ch_savri",
-			"index": 28,
-			"name": "ערוץ סברי מרנן",
-			"mode": 10,
-			"image": "savri.jpg",
-			"module": "keshet",
-			"resKey": "ch_savri_res",
-			"tvgID": "",
-			"type": "tv",
-			"linkDetails": {
-				"link": "/free/hls/live/2111419/savri/index.m3u8?b-in-range=0-1800"
-			}
-		},
-		{
-			"channelID": "ch_hatuna",
-			"index": 29,
-			"name": "ערוץ חתונמי",
-			"mode": 10,
-			"image": "hatuna.jpg",
-			"module": "keshet",
-			"resKey": "ch_hatuna_res",
-			"tvgID": "",
-			"type": "tv",
-			"linkDetails": {
-				"link": "/free/hls/live/2111419/hatuna/index.m3u8?b-in-range=0-1800"
-			}
-		},
-		{
-			"channelID": "ch_kohav",
-			"index": 30,
-			"name": "ערוץ הכוכב הבא",
-			"mode": 10,
-			"image": "kohav.jpg",
-			"module": "keshet",
-			"resKey": "ch_kohav_res",
-			"tvgID": "",
-			"type": "tv",
-			"linkDetails": {
-				"link": "/free/hls/live/2111419/kohav/index.m3u8?b-in-range=0-1800"
-			}
-		},
-		{
-			"channelID": "ch_ninja",
-			"index": 31,
-			"name": "ערוץ נינג'ה ישראל",
-			"mode": 10,
-			"image": "ninja.jpg",
-			"module": "keshet",
-			"resKey": "ch_ninja_res",
-			"tvgID": "",
-			"type": "tv",
-			"linkDetails": {
-				"link": "/free/hls/live/2111419/ninja/index.m3u8?b-in-range=0-1800"
-			}
+[
+	{
+		"channelID": "ch_11",
+		"index": 1,
+		"name": "כאן 11",
+		"mode": 10,
+		"image": "kan.jpg",
+		"module": "kan",
+		"resKey": "ch_11_res",
+		"tvgID": "11",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8"
 		}
-	],
-	"radio": [
-		{
-			"channelID": "rd_glglz",
-			"index": 1,
-			"name": "גלגל\"צ",
-			"mode": 11,
-			"image": "glglz.jpg",
-			"module": "glz",
-			"tvgID": "glglz",
-			"type": "radio",
-			"linkDetails": {
-				"rootId": "1920",
-				"live": "http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
-			}
-		},
-		{
-			"channelID": "rd_88",
-			"index": 2,
-			"name": "כאן 88",
-			"mode": 11,
-			"image": "88.png",
-			"module": "kan",
-			"tvgID": "88",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_88/live.livx",
-				"manifest_type": "mpd"
-			}
-		},
-		{
-			"channelID": "rd_90",
-			"index": 3,
-			"name": "90FM רדיו תשעים",
-			"mode": 11,
-			"image": "90fm.jpg",
-			"module": "radio",
-			"tvgID": "90fm",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_91",
-			"index": 4,
-			"name": "91FM רדיו לב המדינה",
-			"mode": 11,
-			"image": "91fm.jpg",
-			"module": "radio",
-			"tvgID": "91fm",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_97",
-			"index": 5,
-			"name": "97FM רדיו דרום",
-			"mode": 11,
-			"image": "97fm.jpg",
-			"module": "radio",
-			"tvgID": "97fm",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_99",
-			"index": 6,
-			"name": "ECO 99FM",
-			"mode": 11,
-			"image": "99fm.png",
-			"module": "99fm",
-			"tvgID": "99fm",
-			"type": "radio",
-			"linkDetails": {
-				"link": "http://eco-live.mediacast.co.il/99fm_aac"
-			}
-		},
-		{
-			"channelID": "rd_100",
-			"index": 7,
-			"name": "100FM רדיוס",
-			"mode": 11,
-			"image": "100fm.jpg",
-			"module": "100fm",
-			"tvgID": "100fm",
-			"type": "radio",
-			"linkDetails": {
-				"ch": "http://digital.100fm.co.il/app/",
-				"link": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
-			}
-		},
-		{
-			"channelID": "rd_101",
-			"index": 8,
-			"name": "101FM רדיו ירושלים",
-			"mode": 11,
-			"image": "101fm.png",
-			"module": "radio",
-			"tvgID": "101fm",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://radio.streamgates.net/stream/101fm",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_1015",
-			"index": 9,
-			"name": "101.5FM רדיו דרום",
-			"mode": 11,
-			"image": "1015fm.jpg",
-			"module": "radio",
-			"tvgID": "1015fm",
-			"type": "radio",
-			"linkDetails": {
-				"link": "http://radio.2net.co.il/hatahana",
-				"regex": "width=\"100%\" src=\"(.*?)\""
-			}
-		},
-		{
-			"channelID": "rd_102",
-			"index": 10,
-			"name": "102FM רדיו תל אביב",
-			"mode": 11,
-			"image": "102fm.jpg",
-			"module": "radio",
-			"tvgID": "102fm",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://cdn88.mediacast.co.il/102fm-tlv/102fm_aac/icecast.audio",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_102Eilat",
-			"index": 11,
-			"name": "102FM רדיו קול הים האדום",
-			"mode": 11,
-			"image": "102fmEilat.jpg",
-			"module": "radio",
-			"tvgID": "102fmEilat",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_103",
-			"index": 12,
-			"name": "103FM רדיו ללא הפסקה",
-			"mode": 11,
-			"image": "103fm.png",
-			"module": "radio",
-			"tvgID": "103fm",
-			"type": "radio",
-			"linkDetails": {
-				"link": "http://103fm.maariv.co.il/include/OnLineView.aspx",
-				"regex": "data-file=\"(.*?)\""
-			}
-		},
-		{
-			"channelID": "rd_1045",
-			"index": 13,
-			"name": "104.5FM רדיו צפון",
-			"mode": 11,
-			"image": "1045fm.jpg",
-			"module": "radio",
-			"tvgID": "1045fm",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://1045fm.maariv.co.il/include/OnLineView.aspx",
-				"regex": "data-file=\"(.*?)\""
-			}
-		},
-		{
-			"channelID": "rd_1075",
-			"index": 14,
-			"name": "107.5FM רדיו חיפה",
-			"mode": 11,
-			"image": "1075fm.jpg",
-			"module": "radio",
-			"tvgID": "1075fm",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://1075.livecdn.biz/radiohaifa",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_glz",
-			"index": 15,
-			"name": "גלי צה\"ל",
-			"mode": 11,
-			"image": "glz.jpg",
-			"module": "glz",
-			"tvgID": "glz",
-			"type": "radio",
-			"linkDetails": {
-				"rootId": "1051",
-				"live": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
-			}
-		},
-		{
-			"channelID": "rd_bet",
-			"index": 16,
-			"name": "כאן ב",
-			"mode": 11,
-			"image": "bet.png",
-			"module": "kan",
-			"tvgID": "bet",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx",
-				"manifest_type": "mpd"
-			}
-		},
-		{
-			"channelID": "rd_gimel",
-			"index": 17,
-			"name": "כאן גימל",
-			"mode": 11,
-			"image": "gimel.png",
-			"module": "kan",
-			"tvgID": "gimel",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_gimel/live.livx",
-				"manifest_type": "mpd"
-			}
-		},
-		{
-			"channelID": "rd_culture",
-			"index": 18,
-			"name": "כאן תרבות",
-			"mode": 11,
-			"image": "culture.png",
-			"module": "kan",
-			"tvgID": "culture",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_tarbut/live.livx",
-				"manifest_type": "mpd"
-			}
-		},
-		{
-			"channelID": "rd_music",
-			"index": 19,
-			"name": "כאן קול המוסיקה",
-			"mode": 11,
-			"image": "music.png",
-			"module": "kan",
-			"tvgID": "music",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx",
-				"manifest_type": "mpd"
-			}
-		},
-		{
-			"channelID": "rd_moreshet",
-			"index": 20,
-			"name": "כאן מורשת",
-			"mode": 11,
-			"image": "moreshet.png",
-			"module": "kan",
-			"tvgID": "moreshet",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_moreshet/live.livx",
-				"manifest_type": "mpd"
-			}
-		},
-		{
-			"channelID": "rd_kankids",
-			"index": 21,
-			"name": "כאן ילדים",
-			"mode": 11,
-			"image": "23tv.jpg",
-			"module": "kan",
-			"tvgID": "",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://kankids.media.kan.org.il/hls/live/2024820/2024820/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "rd_sport5",
-			"index": 22,
-			"name": "ספורט 5 אתר",
-			"mode": 10,
-			"image": "Sport5.png",
-			"module": "sport5",
-			"tvgID": "5radio",
-			"type": "radio",
-			"linkDetails": {
-				"ch": "liveurl",
-				"link": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "rd_reka",
-			"index": 23,
-			"name": "כאן Reka",
-			"mode": 11,
-			"image": "reka.png",
-			"module": "kan",
-			"tvgID": "reka",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reka/live.livx",
-				"manifest_type": "mpd"
-			}
-		},
-		{
-			"channelID": "rd_891",
-			"index": 24,
-			"name": "Первое Радио 89.1FM",
-			"mode": 11,
-			"image": "891fm.png",
-			"module": "radio",
-			"tvgID": "891fm",
-			"type": "radio",
-			"linkDetails": {
-				"link": "http://www.891fm.co.il/",
-				"regex": "data-mp3=\"(.*?)\""
-			}
-		},
-		{
-			"channelID": "rd_1064",
-			"index": 25,
-			"name": "Лучшее Радио 106.4FM",
-			"mode": 11,
-			"image": "1064fm.jpg",
-			"module": "1064fm",
-			"tvgID": "",
-			"type": "radio",
-			"linkDetails": {
-				"ch": "https://radio1064.co.il",
-				"link": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8"
-			}
-		},
-		{
-			"channelID": "rd_makan",
-			"index": 26,
-			"name": "כאן مكان",
-			"mode": 11,
-			"image": "makan.png",
-			"module": "kan",
-			"tvgID": "makan",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_makan/live.livx",
-				"manifest_type": "mpd"
-			}
-		},
-		{
-			"channelID": "rd_mizrahit",
-			"index": 27,
-			"name": "קול הים התיכון",
-			"mode": 11,
-			"image": "mizrahit.png",
-			"module": "radio",
-			"tvgID": "",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://mzr.mediacast.co.il/mzradio",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_kolhay",
-			"index": 28,
-			"name": "93FM קול חי",
-			"mode": 11,
-			"image": "kolhay.jpg",
-			"module": "radio",
-			"tvgID": "kolhay",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://media2.93fm.co.il/live-new",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_kolhaymusic",
-			"index": 29,
-			"name": "קול חי מיוזיק",
-			"mode": 11,
-			"image": "kolhaymusic.jpg",
-			"module": "radio",
-			"tvgID": "",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://media2.93fm.co.il/livemusic",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_kolbarama",
-			"index": 30,
-			"name": "קול ברמה",
-			"mode": 11,
-			"image": "kolbarama.jpg",
-			"module": "radio",
-			"tvgID": "kolbarama",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_kolplay",
-			"index": 31,
-			"name": "קול Play",
-			"mode": 11,
-			"image": "kolplay.png",
-			"module": "radio",
-			"tvgID": "",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_gly",
-			"index": 32,
-			"name": "גלי ישראל",
-			"mode": 11,
-			"image": "gly.jpg",
-			"module": "radio",
-			"tvgID": "gly",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_fm995",
-			"index": 33,
-			"name": "95.5FM רדיו",
-			"mode": 11,
-			"image": "fm95.5.png",
-			"module": "radio",
-			"tvgID": "",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://995.livecdn.biz/995fm",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_noshmim_mizrahit",
-			"index": 34,
-			"name": "רדיו נושמים מזרחית",
-			"mode": 11,
-			"image": "noshmim.jpg",
-			"module": "radio",
-			"tvgID": "",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://rs.mizrahit.fm:7777",
-				"final": true
-			}
-		},
-		{
-			"channelID": "rd_diki",
-			"index": 35,
-			"name": "רדיו שירי דיכאון",
-			"mode": 11,
-			"image": "diki.jpg",
-			"module": "radio",
-			"tvgID": "",
-			"type": "radio",
-			"linkDetails": {
-				"link": "https://diki.mediacast.co.il/diki",
-				"final": true
-			}
+	},
+	{
+		"channelID": "ch_11b",
+		"index": 1,
+		"name": "כאן 11 - גיבוי",
+		"mode": 10,
+		"image": "kan.jpg",
+		"module": "tv",
+		"resKey": "",
+		"tvgID": "11",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan11/live.livx",
+			"final": true,
+			"manifest_type": "mpd"
 		}
-	]
-}
+	},
+	{
+		"channelID": "ch_11c",
+		"index": 1,
+		"name": "כאן 11 - לקויי שמיעה",
+		"mode": 10,
+		"image": "kan.jpg",
+		"module": "kan",
+		"resKey": "ch_11c_res",
+		"tvgID": "11",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_12",
+		"index": 2,
+		"name": "קשת 12",
+		"mode": 10,
+		"image": "keshet.jpg",
+		"module": "keshet",
+		"resKey": "ch_12_res",
+		"tvgID": "12",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/direct/hls/live/2033791/k12/index.m3u8?as=1"
+		}
+	},
+	{
+		"channelID": "ch_12b",
+		"index": 2,
+		"name": "קשת 12 - גיבוי",
+		"mode": 10,
+		"image": "keshet.jpg",
+		"module": "keshet",
+		"resKey": "ch_12b_res",
+		"tvgID": "12",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/stream/hls/live/2033791/k12n12wad/index.m3u8?b-in-range=0-700"
+		}
+	},
+	{
+		"channelID": "ch_12b2",
+		"index": 2,
+		"name": "קשת 12 - גיבוי 2",
+		"mode": 10,
+		"image": "keshet.jpg",
+		"module": "keshet",
+		"resKey": "ch_12b2_res",
+		"tvgID": "12",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-2700"
+		}
+	},
+	{
+		"channelID": "ch_12b3",
+		"index": 2,
+		"name": "קשת 12 - גיבוי 3",
+		"mode": 10,
+		"image": "keshet.jpg",
+		"module": "keshet",
+		"resKey": "ch_12b3_res",
+		"tvgID": "12",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100"
+		}
+	},
+	{
+		"channelID": "ch_12c",
+		"index": 2,
+		"name": "קשת 12 - לקויי שמיעה",
+		"mode": 10,
+		"image": "keshet.jpg",
+		"module": "keshet",
+		"resKey": "ch_12c_res",
+		"tvgID": "12",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/direct/hls/live/2035325/k12cc/index.m3u8?as=1"
+		}
+	},
+	{
+		"channelID": "ch_13",
+		"index": 3,
+		"name": "רשת 13",
+		"mode": 4,
+		"image": "13.jpg",
+		"module": "reshet",
+		"resKey": "ch_13_res",
+		"tvgID": "13",
+		"type": "tv",
+		"linkDetails": {
+			"referer": "https://13tv.co.il/live/",
+			"link": "https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_13b",
+		"index": 3,
+		"name": "רשת 13 - גיבוי",
+		"mode": 4,
+		"image": "13.jpg",
+		"module": "reshet",
+		"resKey": "ch_13b_res",
+		"tvgID": "13",
+		"type": "tv",
+		"linkDetails": {
+			"referer": "https://13tv.co.il/live/",
+			"link": "https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_13b2",
+		"index": 3,
+		"name": "רשת 13 - גיבוי 2",
+		"mode": 4,
+		"image": "13.jpg",
+		"module": "reshet",
+		"resKey": "ch_13b2_res",
+		"tvgID": "13",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+			"referer": "https://13tv.co.il/allshows/2010263/"
+		}
+	},
+	{
+		"channelID": "ch_13c",
+		"index": 3,
+		"name": "רשת 13 - לקויי שמיעה",
+		"mode": 4,
+		"image": "13.jpg",
+		"module": "reshet",
+		"resKey": "ch_13c_res",
+		"tvgID": "13",
+		"type": "tv",
+		"linkDetails": {
+			"referer": "https://13tv.co.il/live/",
+			"link": "https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManifest.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_14",
+		"index": 4,
+		"name": "עכשיו 14",
+		"mode": 10,
+		"image": "14tv.png",
+		"module": "14tv",
+		"resKey": "ch_14_res",
+		"tvgID": "14",
+		"type": "tv",
+		"linkDetails": {
+			"ch": "https://insight-api-channel14.univtec.com/cms/interface/channels/play?relations=true&filter=guid||$eq||b676b906-5625-48af-a331-11a5d22e151b",
+			"link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_14b",
+		"index": 4,
+		"name": "עכשיו 14 - גיבוי",
+		"mode": 10,
+		"image": "14tv.png",
+		"module": "tv",
+		"resKey": "ch_14b_res",
+		"tvgID": "14",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_14b2",
+		"index": 4,
+		"name": "עכשיו 14 - גיבוי 2",
+		"mode": 10,
+		"image": "14tv.png",
+		"module": "tv",
+		"resKey": "ch_14b2_res",
+		"tvgID": "14",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_10",
+		"index": 5,
+		"name": "כלכלה 10",
+		"mode": 10,
+		"image": "10tv.png",
+		"module": "tv",
+		"resKey": "ch_10_res",
+		"tvgID": "10",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_23",
+		"index": 6,
+		"name": "כאן חינוכית 23",
+		"mode": 10,
+		"image": "23tv.jpg",
+		"module": "kan",
+		"resKey": "ch_23_res",
+		"tvgID": "23",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_23b",
+		"index": 6,
+		"name": "כאן חינוכית 23 - גיבוי",
+		"mode": 10,
+		"image": "23tv.jpg",
+		"module": "tv",
+		"resKey": "",
+		"tvgID": "23",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan_edu/live.livx",
+			"final": true,
+			"manifest_type": "mpd"
+		}
+	},
+	{
+		"channelID": "ch_24",
+		"index": 7,
+		"name": "ערוץ 24 החדש",
+		"mode": 10,
+		"image": "24telad.png",
+		"module": "keshet",
+		"resKey": "ch_24_res",
+		"tvgID": "24",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/direct/hls/live/2035340/ch24live/index.m3u8?as=1"
+		}
+	},
+	{
+		"channelID": "ch_bb",
+		"index": 8,
+		"name": "האח הגדול 26",
+		"mode": 4,
+		"image": "bb.jpg",
+		"module": "reshet",
+		"resKey": "ch_bb_res",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"referer": "https://13tv.co.il/home/bb-livestream/",
+			"link": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_bbb",
+		"index": 8,
+		"name": "האח הגדול 26 - גיבוי",
+		"mode": 10,
+		"image": "bb.jpg",
+		"module": "tv",
+		"resKey": "",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8",
+			"referer": "https://13tv.co.il/home/bb-livestream/",
+			"final": true
+		}
+	},
+	{
+		"channelID": "ch_33",
+		"index": 9,
+		"name": "מכאן 33",
+		"mode": 10,
+		"image": "makan.png",
+		"module": "kan",
+		"resKey": "ch_33_res",
+		"tvgID": "33",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_33b",
+		"index": 9,
+		"name": "מכאן 33 - גיבוי",
+		"mode": 10,
+		"image": "makan.png",
+		"module": "tv",
+		"resKey": "",
+		"tvgID": "33",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/makan/live.livx",
+			"final": true,
+			"manifest_type": "mpd"
+		}
+	},
+	{
+		"channelID": "ch_66",
+		"index": 10,
+		"name": "קבלה 66",
+		"mode": 10,
+		"image": "kabbalah.jpg",
+		"module": "tv",
+		"resKey": "ch_66_res",
+		"tvgID": "66",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_97",
+		"index": 11,
+		"name": "הידברות 97",
+		"mode": 10,
+		"image": "hidabroot.jpg",
+		"module": "hidabroot",
+		"resKey": "ch_97_res",
+		"tvgID": "97",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://www.hidabroot.org/live"
+		}
+	},
+	{
+		"channelID": "ch_99",
+		"index": 12,
+		"name": "כנסת 99",
+		"mode": 10,
+		"image": "knesset.png",
+		"module": "tv",
+		"resKey": "ch_99_res",
+		"tvgID": "99",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_99c",
+		"index": 12,
+		"name": "כנסת 99 - לקויי שמיעה",
+		"mode": 10,
+		"image": "knesset.png",
+		"module": "tv",
+		"resKey": "ch_99c_res",
+		"tvgID": "99",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_ynet",
+		"index": 13,
+		"name": "Ynet Live",
+		"mode": 10,
+		"image": "ynet.jpg",
+		"module": "tv",
+		"resKey": "ch_ynet_res",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8",
+			"final": true
+		}
+	},
+	{
+		"channelID": "ch_sport5",
+		"index": 15,
+		"name": "ספורט 5 אתר",
+		"mode": 10,
+		"image": "Sport5.png",
+		"module": "sport5",
+		"resKey": "",
+		"tvgID": "5radio",
+		"type": "tv",
+		"linkDetails": {
+			"ch": "studioUrl",
+			"link": "https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_100",
+		"index": 16,
+		"name": "100FM רדיוס",
+		"mode": 10,
+		"image": "100fm.jpg",
+		"module": "tv",
+		"resKey": "",
+		"tvgID": "100fm",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_9",
+		"index": 17,
+		"name": "ערוץ 9",
+		"mode": 10,
+		"image": "9tv.png",
+		"module": "tv",
+		"resKey": "",
+		"tvgID": "9tv",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://contact.gostreaming.tv/Con-11/index.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_891",
+		"index": 17,
+		"name": "Первое Радио 89.1FM",
+		"mode": 10,
+		"image": "891fm.png",
+		"module": "tv",
+		"resKey": "",
+		"tvgID": "891fm",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://www.oles.tv/891fm/player/",
+			"regex": "streamSource\\s*=\\s*'(.*?)'"
+		}
+	},
+	{
+		"channelID": "ch_kabru",
+		"index": 18,
+		"name": "קבלה - רוסית",
+		"mode": 10,
+		"image": "kabbalah.jpg",
+		"module": "tv",
+		"resKey": "ch_kabru_res",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://edge2.il.kab.tv/live/tv66-rus-high/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "ch_musayof",
+		"index": 19,
+		"name": "מוסיוף",
+		"mode": 10,
+		"image": "musayof.jpg",
+		"module": "tv",
+		"resKey": "ch_musayof_res",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8",
+			"referer": "http://media-line.co.il/Media-Line-Player/musayof/livePlayer.aspx"
+		}
+	},
+	{
+		"channelID": "ch_i24news",
+		"index": 20,
+		"name": "i24news",
+		"mode": 10,
+		"image": "i24news.png",
+		"module": "i24news",
+		"resKey": "ch_i24news_res",
+		"tvgID": "i24news",
+		"type": "tv",
+		"linkDetails": {
+			"ch": "he",
+			"link": "https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8",
+			"manifest_type": "hls"
+		}
+	},
+	{
+		"channelID": "ch_i24newsen",
+		"index": 21,
+		"name": "i24news en",
+		"mode": 10,
+		"image": "i24news.png",
+		"module": "i24news",
+		"resKey": "ch_i24newsen_res",
+		"tvgID": "i24news",
+		"type": "tv",
+		"linkDetails": {
+			"ch": "en",
+			"link": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/playlist-hls.m3u8",
+			"manifest_type": "hls"
+		}
+	},
+	{
+		"channelID": "ch_i24newsfr",
+		"index": 22,
+		"name": "i24news fr",
+		"mode": 10,
+		"image": "i24news.png",
+		"module": "i24news",
+		"resKey": "ch_i24newsfr_res",
+		"tvgID": "i24news",
+		"type": "tv",
+		"linkDetails": {
+			"ch": "fr",
+			"link": "https://fastly.live.brightcove.com/6386790513112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA1MTMxMTIifQ.Szahkl5VVsEWGdM4mgrmlDPVkWPTRgBMwwGg4D5hGFU/playlist-hls.m3u8",
+			"manifest_type": "hls"
+		}
+	},
+	{
+		"channelID": "ch_i24newsar",
+		"index": 23,
+		"name": "i24news ar",
+		"mode": 10,
+		"image": "i24news.png",
+		"module": "i24news",
+		"resKey": "ch_i24newsar_res",
+		"tvgID": "i24news",
+		"type": "tv",
+		"linkDetails": {
+			"ch": "ar",
+			"link": "https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTI1NzIxMTIifQ.vsA8IfCHFqoqo2BHxx4w0PqBgTESPMYgFGL771vzKoA/playlist-hls.m3u8",
+			"manifest_type": "hls"
+		}
+	},
+	{
+		"channelID": "ch_13comedy",
+		"index": 24,
+		"name": "13 ערוץ הקומדיות",
+		"mode": 4,
+		"image": "13comedy.jpg",
+		"module": "reshet",
+		"resKey": "ch_13comedy_res",
+		"tvgID": "13comedy",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8",
+			"referer": "https://13tv.co.il/allshows/2605018/"
+		}
+	},
+	{
+		"channelID": "ch_13nofesh",
+		"index": 25,
+		"name": "ערוץ הנופש",
+		"mode": 4,
+		"image": "13nofesh.jpg",
+		"module": "reshet",
+		"resKey": "ch_13nofesh_res",
+		"tvgID": "13nofesh",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8",
+			"referer": "https://13tv.co.il/allshows/2395628/"
+		}
+	},
+	{
+		"channelID": "ch_13reality",
+		"index": 26,
+		"name": "ערוץ הריאליטי",
+		"mode": 4,
+		"image": "13reality.jpg",
+		"module": "reshet",
+		"resKey": "ch_13reality_res",
+		"tvgID": "13reality",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8",
+			"referer": "https://13tv.co.il/allshows/2395629/"
+		}
+	},
+	{
+		"channelID": "ch_erets",
+		"index": 27,
+		"name": "ערוץ ארץ נהדרת",
+		"mode": 10,
+		"image": "erets.jpg",
+		"module": "keshet",
+		"resKey": "ch_erets_res",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/free/hls/live/2111419/erets/index.m3u8?b-in-range=0-1800"
+		}
+	},
+	{
+		"channelID": "ch_savri",
+		"index": 28,
+		"name": "ערוץ סברי מרנן",
+		"mode": 10,
+		"image": "savri.jpg",
+		"module": "keshet",
+		"resKey": "ch_savri_res",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/free/hls/live/2111419/savri/index.m3u8?b-in-range=0-1800"
+		}
+	},
+	{
+		"channelID": "ch_hatuna",
+		"index": 29,
+		"name": "ערוץ חתונמי",
+		"mode": 10,
+		"image": "hatuna.jpg",
+		"module": "keshet",
+		"resKey": "ch_hatuna_res",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/free/hls/live/2111419/hatuna/index.m3u8?b-in-range=0-1800"
+		}
+	},
+	{
+		"channelID": "ch_kohav",
+		"index": 30,
+		"name": "ערוץ הכוכב הבא",
+		"mode": 10,
+		"image": "kohav.jpg",
+		"module": "keshet",
+		"resKey": "ch_kohav_res",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/free/hls/live/2111419/kohav/index.m3u8?b-in-range=0-1800"
+		}
+	},
+	{
+		"channelID": "ch_ninja",
+		"index": 31,
+		"name": "ערוץ נינג'ה ישראל",
+		"mode": 10,
+		"image": "ninja.jpg",
+		"module": "keshet",
+		"resKey": "ch_ninja_res",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/free/hls/live/2111419/ninja/index.m3u8?b-in-range=0-1800"
+		}
+	},
+	{
+		"channelID": "rd_glglz",
+		"index": 1,
+		"name": "גלגל\"צ",
+		"mode": 11,
+		"image": "glglz.jpg",
+		"module": "glz",
+		"tvgID": "glglz",
+		"type": "radio",
+		"linkDetails": {
+			"rootId": "1920",
+			"live": "http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
+		}
+	},
+	{
+		"channelID": "rd_88",
+		"index": 2,
+		"name": "כאן 88",
+		"mode": 11,
+		"image": "88.png",
+		"module": "kan",
+		"tvgID": "88",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_88/live.livx",
+			"manifest_type": "mpd"
+		}
+	},
+	{
+		"channelID": "rd_90",
+		"index": 3,
+		"name": "90FM רדיו תשעים",
+		"mode": 11,
+		"image": "90fm.jpg",
+		"module": "radio",
+		"tvgID": "90fm",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_91",
+		"index": 4,
+		"name": "91FM רדיו לב המדינה",
+		"mode": 11,
+		"image": "91fm.jpg",
+		"module": "radio",
+		"tvgID": "91fm",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_97",
+		"index": 5,
+		"name": "97FM רדיו דרום",
+		"mode": 11,
+		"image": "97fm.jpg",
+		"module": "radio",
+		"tvgID": "97fm",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_99",
+		"index": 6,
+		"name": "ECO 99FM",
+		"mode": 11,
+		"image": "99fm.png",
+		"module": "99fm",
+		"tvgID": "99fm",
+		"type": "radio",
+		"linkDetails": {
+			"link": "http://eco-live.mediacast.co.il/99fm_aac"
+		}
+	},
+	{
+		"channelID": "rd_100",
+		"index": 7,
+		"name": "100FM רדיוס",
+		"mode": 11,
+		"image": "100fm.jpg",
+		"module": "100fm",
+		"tvgID": "100fm",
+		"type": "radio",
+		"linkDetails": {
+			"ch": "http://digital.100fm.co.il/app/",
+			"link": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
+		}
+	},
+	{
+		"channelID": "rd_101",
+		"index": 8,
+		"name": "101FM רדיו ירושלים",
+		"mode": 11,
+		"image": "101fm.png",
+		"module": "radio",
+		"tvgID": "101fm",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://radio.streamgates.net/stream/101fm",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_1015",
+		"index": 9,
+		"name": "101.5FM רדיו דרום",
+		"mode": 11,
+		"image": "1015fm.jpg",
+		"module": "radio",
+		"tvgID": "1015fm",
+		"type": "radio",
+		"linkDetails": {
+			"link": "http://radio.2net.co.il/hatahana",
+			"regex": "width=\"100%\" src=\"(.*?)\""
+		}
+	},
+	{
+		"channelID": "rd_102",
+		"index": 10,
+		"name": "102FM רדיו תל אביב",
+		"mode": 11,
+		"image": "102fm.jpg",
+		"module": "radio",
+		"tvgID": "102fm",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://cdn88.mediacast.co.il/102fm-tlv/102fm_aac/icecast.audio",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_102Eilat",
+		"index": 11,
+		"name": "102FM רדיו קול הים האדום",
+		"mode": 11,
+		"image": "102fmEilat.jpg",
+		"module": "radio",
+		"tvgID": "102fmEilat",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_103",
+		"index": 12,
+		"name": "103FM רדיו ללא הפסקה",
+		"mode": 11,
+		"image": "103fm.png",
+		"module": "radio",
+		"tvgID": "103fm",
+		"type": "radio",
+		"linkDetails": {
+			"link": "http://103fm.maariv.co.il/include/OnLineView.aspx",
+			"regex": "data-file=\"(.*?)\""
+		}
+	},
+	{
+		"channelID": "rd_1045",
+		"index": 13,
+		"name": "104.5FM רדיו צפון",
+		"mode": 11,
+		"image": "1045fm.jpg",
+		"module": "radio",
+		"tvgID": "1045fm",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://1045fm.maariv.co.il/include/OnLineView.aspx",
+			"regex": "data-file=\"(.*?)\""
+		}
+	},
+	{
+		"channelID": "rd_1075",
+		"index": 14,
+		"name": "107.5FM רדיו חיפה",
+		"mode": 11,
+		"image": "1075fm.jpg",
+		"module": "radio",
+		"tvgID": "1075fm",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://1075.livecdn.biz/radiohaifa",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_glz",
+		"index": 15,
+		"name": "גלי צה\"ל",
+		"mode": 11,
+		"image": "glz.jpg",
+		"module": "glz",
+		"tvgID": "glz",
+		"type": "radio",
+		"linkDetails": {
+			"rootId": "1051",
+			"live": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+		}
+	},
+	{
+		"channelID": "rd_bet",
+		"index": 16,
+		"name": "כאן ב",
+		"mode": 11,
+		"image": "bet.png",
+		"module": "kan",
+		"tvgID": "bet",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx",
+			"manifest_type": "mpd"
+		}
+	},
+	{
+		"channelID": "rd_gimel",
+		"index": 17,
+		"name": "כאן גימל",
+		"mode": 11,
+		"image": "gimel.png",
+		"module": "kan",
+		"tvgID": "gimel",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_gimel/live.livx",
+			"manifest_type": "mpd"
+		}
+	},
+	{
+		"channelID": "rd_culture",
+		"index": 18,
+		"name": "כאן תרבות",
+		"mode": 11,
+		"image": "culture.png",
+		"module": "kan",
+		"tvgID": "culture",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_tarbut/live.livx",
+			"manifest_type": "mpd"
+		}
+	},
+	{
+		"channelID": "rd_music",
+		"index": 19,
+		"name": "כאן קול המוסיקה",
+		"mode": 11,
+		"image": "music.png",
+		"module": "kan",
+		"tvgID": "music",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx",
+			"manifest_type": "mpd"
+		}
+	},
+	{
+		"channelID": "rd_moreshet",
+		"index": 20,
+		"name": "כאן מורשת",
+		"mode": 11,
+		"image": "moreshet.png",
+		"module": "kan",
+		"tvgID": "moreshet",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_moreshet/live.livx",
+			"manifest_type": "mpd"
+		}
+	},
+	{
+		"channelID": "rd_kankids",
+		"index": 21,
+		"name": "כאן ילדים",
+		"mode": 11,
+		"image": "23tv.jpg",
+		"module": "kan",
+		"tvgID": "",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://kankids.media.kan.org.il/hls/live/2024820/2024820/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "rd_sport5",
+		"index": 22,
+		"name": "ספורט 5 אתר",
+		"mode": 10,
+		"image": "Sport5.png",
+		"module": "sport5",
+		"tvgID": "5radio",
+		"type": "radio",
+		"linkDetails": {
+			"ch": "liveurl",
+			"link": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "rd_reka",
+		"index": 23,
+		"name": "כאן Reka",
+		"mode": 11,
+		"image": "reka.png",
+		"module": "kan",
+		"tvgID": "reka",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reka/live.livx",
+			"manifest_type": "mpd"
+		}
+	},
+	{
+		"channelID": "rd_891",
+		"index": 24,
+		"name": "Первое Радио 89.1FM",
+		"mode": 11,
+		"image": "891fm.png",
+		"module": "radio",
+		"tvgID": "891fm",
+		"type": "radio",
+		"linkDetails": {
+			"link": "http://www.891fm.co.il/",
+			"regex": "data-mp3=\"(.*?)\""
+		}
+	},
+	{
+		"channelID": "rd_1064",
+		"index": 25,
+		"name": "Лучшее Радио 106.4FM",
+		"mode": 11,
+		"image": "1064fm.jpg",
+		"module": "1064fm",
+		"tvgID": "",
+		"type": "radio",
+		"linkDetails": {
+			"ch": "https://radio1064.co.il",
+			"link": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8"
+		}
+	},
+	{
+		"channelID": "rd_makan",
+		"index": 26,
+		"name": "כאן مكان",
+		"mode": 11,
+		"image": "makan.png",
+		"module": "kan",
+		"tvgID": "makan",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_makan/live.livx",
+			"manifest_type": "mpd"
+		}
+	},
+	{
+		"channelID": "rd_mizrahit",
+		"index": 27,
+		"name": "קול הים התיכון",
+		"mode": 11,
+		"image": "mizrahit.png",
+		"module": "radio",
+		"tvgID": "",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://mzr.mediacast.co.il/mzradio",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_kolhay",
+		"index": 28,
+		"name": "93FM קול חי",
+		"mode": 11,
+		"image": "kolhay.jpg",
+		"module": "radio",
+		"tvgID": "kolhay",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://media2.93fm.co.il/live-new",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_kolhaymusic",
+		"index": 29,
+		"name": "קול חי מיוזיק",
+		"mode": 11,
+		"image": "kolhaymusic.jpg",
+		"module": "radio",
+		"tvgID": "",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://media2.93fm.co.il/livemusic",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_kolbarama",
+		"index": 30,
+		"name": "קול ברמה",
+		"mode": 11,
+		"image": "kolbarama.jpg",
+		"module": "radio",
+		"tvgID": "kolbarama",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_kolplay",
+		"index": 31,
+		"name": "קול Play",
+		"mode": 11,
+		"image": "kolplay.png",
+		"module": "radio",
+		"tvgID": "",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_gly",
+		"index": 32,
+		"name": "גלי ישראל",
+		"mode": 11,
+		"image": "gly.jpg",
+		"module": "radio",
+		"tvgID": "gly",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_fm995",
+		"index": 33,
+		"name": "95.5FM רדיו",
+		"mode": 11,
+		"image": "fm95.5.png",
+		"module": "radio",
+		"tvgID": "",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://995.livecdn.biz/995fm",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_noshmim_mizrahit",
+		"index": 34,
+		"name": "רדיו נושמים מזרחית",
+		"mode": 11,
+		"image": "noshmim.jpg",
+		"module": "radio",
+		"tvgID": "",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://rs.mizrahit.fm:7777",
+			"final": true
+		}
+	},
+	{
+		"channelID": "rd_diki",
+		"index": 35,
+		"name": "רדיו שירי דיכאון",
+		"mode": 11,
+		"image": "diki.jpg",
+		"module": "radio",
+		"tvgID": "",
+		"type": "radio",
+		"linkDetails": {
+			"link": "https://diki.mediacast.co.il/diki",
+			"final": true
+		}
+	}
+]
