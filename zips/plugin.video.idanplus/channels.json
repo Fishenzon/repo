@@ -5,7 +5,6 @@
 		"mode": 10,
 		"image": "kan.jpg",
 		"module": "kan",
-		"resKey": "ch_11_res",
 		"tvgID": "11",
 		"type": "tv",
 		"linkDetails": {
@@ -18,7 +17,6 @@
 		"mode": 10,
 		"image": "kan.jpg",
 		"module": "tv",
-		"resKey": "",
 		"tvgID": "11",
 		"type": "tv",
 		"linkDetails": {
@@ -33,7 +31,6 @@
 		"mode": 10,
 		"image": "kan.jpg",
 		"module": "kan",
-		"resKey": "ch_11c_res",
 		"tvgID": "11",
 		"type": "tv",
 		"linkDetails": {
@@ -46,7 +43,6 @@
 		"mode": 10,
 		"image": "keshet.jpg",
 		"module": "keshet",
-		"resKey": "ch_12_res",
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
@@ -59,7 +55,6 @@
 		"mode": 10,
 		"image": "keshet.jpg",
 		"module": "keshet",
-		"resKey": "ch_12b_res",
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
@@ -72,7 +67,6 @@
 		"mode": 10,
 		"image": "keshet.jpg",
 		"module": "keshet",
-		"resKey": "ch_12b2_res",
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
@@ -85,7 +79,6 @@
 		"mode": 10,
 		"image": "keshet.jpg",
 		"module": "keshet",
-		"resKey": "ch_12b3_res",
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
@@ -98,7 +91,6 @@
 		"mode": 10,
 		"image": "keshet.jpg",
 		"module": "keshet",
-		"resKey": "ch_12c_res",
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
@@ -111,7 +103,6 @@
 		"mode": 4,
 		"image": "13.jpg",
 		"module": "reshet",
-		"resKey": "ch_13_res",
 		"tvgID": "13",
 		"type": "tv",
 		"linkDetails": {
@@ -125,7 +116,6 @@
 		"mode": 4,
 		"image": "13.jpg",
 		"module": "reshet",
-		"resKey": "ch_13b_res",
 		"tvgID": "13",
 		"type": "tv",
 		"linkDetails": {
@@ -139,7 +129,6 @@
 		"mode": 4,
 		"image": "13.jpg",
 		"module": "reshet",
-		"resKey": "ch_13b2_res",
 		"tvgID": "13",
 		"type": "tv",
 		"linkDetails": {
@@ -153,7 +142,6 @@
 		"mode": 4,
 		"image": "13.jpg",
 		"module": "reshet",
-		"resKey": "ch_13c_res",
 		"tvgID": "13",
 		"type": "tv",
 		"linkDetails": {
@@ -167,7 +155,6 @@
 		"mode": 10,
 		"image": "14tv.png",
 		"module": "14tv",
-		"resKey": "ch_14_res",
 		"tvgID": "14",
 		"type": "tv",
 		"linkDetails": {
@@ -181,7 +168,6 @@
 		"mode": 10,
 		"image": "14tv.png",
 		"module": "tv",
-		"resKey": "ch_14b_res",
 		"tvgID": "14",
 		"type": "tv",
 		"linkDetails": {
@@ -194,7 +180,6 @@
 		"mode": 10,
 		"image": "14tv.png",
 		"module": "tv",
-		"resKey": "ch_14b2_res",
 		"tvgID": "14",
 		"type": "tv",
 		"linkDetails": {
@@ -207,7 +192,6 @@
 		"mode": 10,
 		"image": "10tv.png",
 		"module": "tv",
-		"resKey": "ch_10_res",
 		"tvgID": "10",
 		"type": "tv",
 		"linkDetails": {
@@ -220,7 +204,6 @@
 		"mode": 10,
 		"image": "23tv.jpg",
 		"module": "kan",
-		"resKey": "ch_23_res",
 		"tvgID": "23",
 		"type": "tv",
 		"linkDetails": {
@@ -233,7 +216,6 @@
 		"mode": 10,
 		"image": "23tv.jpg",
 		"module": "tv",
-		"resKey": "",
 		"tvgID": "23",
 		"type": "tv",
 		"linkDetails": {
@@ -248,7 +230,6 @@
 		"mode": 10,
 		"image": "24telad.png",
 		"module": "keshet",
-		"resKey": "ch_24_res",
 		"tvgID": "24",
 		"type": "tv",
 		"linkDetails": {
@@ -261,7 +242,6 @@
 		"mode": 4,
 		"image": "bb.jpg",
 		"module": "reshet",
-		"resKey": "ch_bb_res",
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
@@ -275,7 +255,6 @@
 		"mode": 10,
 		"image": "bb.jpg",
 		"module": "tv",
-		"resKey": "",
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
@@ -290,7 +269,6 @@
 		"mode": 10,
 		"image": "makan.png",
 		"module": "kan",
-		"resKey": "ch_33_res",
 		"tvgID": "33",
 		"type": "tv",
 		"linkDetails": {
@@ -303,7 +281,6 @@
 		"mode": 10,
 		"image": "makan.png",
 		"module": "tv",
-		"resKey": "",
 		"tvgID": "33",
 		"type": "tv",
 		"linkDetails": {
@@ -318,7 +295,6 @@
 		"mode": 10,
 		"image": "kabbalah.jpg",
 		"module": "tv",
-		"resKey": "ch_66_res",
 		"tvgID": "66",
 		"type": "tv",
 		"linkDetails": {
@@ -331,7 +307,6 @@
 		"mode": 10,
 		"image": "hidabroot.jpg",
 		"module": "hidabroot",
-		"resKey": "ch_97_res",
 		"tvgID": "97",
 		"type": "tv",
 		"linkDetails": {
@@ -344,7 +319,6 @@
 		"mode": 10,
 		"image": "knesset.png",
 		"module": "tv",
-		"resKey": "ch_99_res",
 		"tvgID": "99",
 		"type": "tv",
 		"linkDetails": {
@@ -357,7 +331,6 @@
 		"mode": 10,
 		"image": "knesset.png",
 		"module": "tv",
-		"resKey": "ch_99c_res",
 		"tvgID": "99",
 		"type": "tv",
 		"linkDetails": {
@@ -370,7 +343,6 @@
 		"mode": 10,
 		"image": "ynet.jpg",
 		"module": "tv",
-		"resKey": "ch_ynet_res",
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
@@ -384,7 +356,6 @@
 		"mode": 10,
 		"image": "Sport5.png",
 		"module": "sport5",
-		"resKey": "",
 		"tvgID": "5radio",
 		"type": "tv",
 		"linkDetails": {
@@ -398,7 +369,6 @@
 		"mode": 10,
 		"image": "100fm.jpg",
 		"module": "tv",
-		"resKey": "",
 		"tvgID": "100fm",
 		"type": "tv",
 		"linkDetails": {
@@ -411,7 +381,6 @@
 		"mode": 10,
 		"image": "9tv.png",
 		"module": "tv",
-		"resKey": "",
 		"tvgID": "9tv",
 		"type": "tv",
 		"linkDetails": {
@@ -424,7 +393,6 @@
 		"mode": 10,
 		"image": "891fm.png",
 		"module": "tv",
-		"resKey": "",
 		"tvgID": "891fm",
 		"type": "tv",
 		"linkDetails": {
@@ -438,7 +406,6 @@
 		"mode": 10,
 		"image": "kabbalah.jpg",
 		"module": "tv",
-		"resKey": "ch_kabru_res",
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
@@ -451,7 +418,6 @@
 		"mode": 10,
 		"image": "musayof.jpg",
 		"module": "tv",
-		"resKey": "ch_musayof_res",
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
@@ -465,7 +431,6 @@
 		"mode": 10,
 		"image": "i24news.png",
 		"module": "i24news",
-		"resKey": "ch_i24news_res",
 		"tvgID": "i24news",
 		"type": "tv",
 		"linkDetails": {
@@ -480,7 +445,6 @@
 		"mode": 10,
 		"image": "i24news.png",
 		"module": "i24news",
-		"resKey": "ch_i24newsen_res",
 		"tvgID": "i24news",
 		"type": "tv",
 		"linkDetails": {
@@ -495,7 +459,6 @@
 		"mode": 10,
 		"image": "i24news.png",
 		"module": "i24news",
-		"resKey": "ch_i24newsfr_res",
 		"tvgID": "i24news",
 		"type": "tv",
 		"linkDetails": {
@@ -510,7 +473,6 @@
 		"mode": 10,
 		"image": "i24news.png",
 		"module": "i24news",
-		"resKey": "ch_i24newsar_res",
 		"tvgID": "i24news",
 		"type": "tv",
 		"linkDetails": {
@@ -525,7 +487,6 @@
 		"mode": 4,
 		"image": "13comedy.jpg",
 		"module": "reshet",
-		"resKey": "ch_13comedy_res",
 		"tvgID": "13comedy",
 		"type": "tv",
 		"linkDetails": {
@@ -539,7 +500,6 @@
 		"mode": 4,
 		"image": "13nofesh.jpg",
 		"module": "reshet",
-		"resKey": "ch_13nofesh_res",
 		"tvgID": "13nofesh",
 		"type": "tv",
 		"linkDetails": {
@@ -553,7 +513,6 @@
 		"mode": 4,
 		"image": "13reality.jpg",
 		"module": "reshet",
-		"resKey": "ch_13reality_res",
 		"tvgID": "13reality",
 		"type": "tv",
 		"linkDetails": {
@@ -567,7 +526,6 @@
 		"mode": 10,
 		"image": "erets.jpg",
 		"module": "keshet",
-		"resKey": "ch_erets_res",
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
@@ -580,7 +538,6 @@
 		"mode": 10,
 		"image": "savri.jpg",
 		"module": "keshet",
-		"resKey": "ch_savri_res",
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
@@ -593,7 +550,6 @@
 		"mode": 10,
 		"image": "hatuna.jpg",
 		"module": "keshet",
-		"resKey": "ch_hatuna_res",
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
@@ -606,7 +562,6 @@
 		"mode": 10,
 		"image": "kohav.jpg",
 		"module": "keshet",
-		"resKey": "ch_kohav_res",
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
@@ -619,7 +574,6 @@
 		"mode": 10,
 		"image": "ninja.jpg",
 		"module": "keshet",
-		"resKey": "ch_ninja_res",
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
