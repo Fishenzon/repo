@@ -1,3 +1,6 @@
+v3.9.6 -  12/03/2026
+- Added option in addon-settings to reset user-channels-list.
+
 v3.9.5 -  12/03/2026
 - Added 9tv live channel.
 - Remove channel arrange list option from addon-settings to addon.
