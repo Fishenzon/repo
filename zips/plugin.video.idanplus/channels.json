@@ -382,7 +382,7 @@
 		"mode": 10,
 		"image": "9tv.png",
 		"module": "tv",
-		"tvgID": "9tv",
+		"tvgID": "9",
 		"type": "tv",
 		"linkDetails": {
 			"link": "https://contact.gostreaming.tv/Con-11/index.m3u8"
