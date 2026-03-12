@@ -1,3 +1,8 @@
+v3.9.5 -  12/03/2026
+- Added 9tv live channel.
+- Remove channel arrange list option from addon-settings to addon.
+- Remove option to autoplay channel on Kodi start from addon-settings to addon.
+
 v3.9.4 -  05/02/2026
 - Fix Kan radio stations.
 
