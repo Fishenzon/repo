@@ -183,7 +183,8 @@
 		"tvgID": "14",
 		"type": "tv",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+			"link": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8?bitrate=5692000&audioId=1&videoId=0",
+			"final": true
 		}
 	},
 	"ch_10": {
@@ -245,8 +246,8 @@
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
-			"referer": "https://13tv.co.il/home/bb-livestream/",
-			"link": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/master.m3u8"
+			"referer": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/master.m3u8",
+			"link": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/playlist_3.m3u8?_uid=15dbab29-17f5-45e0-9e4c-97b0087ce0a0&rK=a2&_did=61062219-7358-b0e7-8948-e5fcf3971a43"
 		}
 	},
 	"ch_bbb": {
