@@ -35,11 +35,11 @@
 		</extension>
 	</addon>
 	
-	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.9.4" provider-name="Fishenzon">
+	<addon id="plugin.video.idanplus" name="עידן+ פלוס" version="3.9.5" provider-name="Fishenzon">
 		<requires>
 			<import addon="script.module.requests"/>
 			<import addon="script.module.xmltodict"/>
-			<import addon="inputstream.adaptive"/>
+			<import addon="inputstream.adaptive" optional="true"/>
 		</requires>
 		<extension point="xbmc.python.pluginsource" library="default.py">
 			<provides>video</provides>
@@ -62,4 +62,3 @@
 		</extension>
 	</addon>
 </addons>
-
