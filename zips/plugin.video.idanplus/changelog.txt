@@ -1,3 +1,6 @@
+v3.9.7 -  14/03/2026
+- Fix keshet-12 vod.
+
 v3.9.6 -  12/03/2026
 - Added option in addon-settings to reset user-channels-list.
 
