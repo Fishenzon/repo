@@ -246,8 +246,7 @@
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
-			"referer": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/master.m3u8",
-			"link": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/playlist_3.m3u8?_uid=15dbab29-17f5-45e0-9e4c-97b0087ce0a0&rK=a2&_did=61062219-7358-b0e7-8948-e5fcf3971a43"
+			"link": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/playlist_3.m3u8?_uid=2dfa21af-47dd-4772-9917-934f3ce7feea&rK=a8&_did=a4f82cc9-f24e-0789-2ffd-66f900f0b94b"
 		}
 	},
 	"ch_bbb": {
@@ -260,7 +259,6 @@
 		"type": "tv",
 		"linkDetails": {
 			"link": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/master.m3u8",
-			"referer": "https://13tv.co.il/home/bb-livestream/",
 			"final": true
 		}
 	},
