@@ -1,3 +1,6 @@
+v3.9.8 -  23/03/2026
+- Added an option to change channels name and logo.
+
 v3.9.7 -  14/03/2026
 - Fix keshet-12 vod.
 
