@@ -550,42 +550,6 @@
 			"link": "/free/hls/live/2111419/savri/index.m3u8?b-in-range=0-1800"
 		}
 	},
-	"ch_hatuna": {
-		"index": 29,
-		"name": "ערוץ חתונמי",
-		"mode": 10,
-		"image": "hatuna.jpg",
-		"module": "keshet",
-		"tvgID": "",
-		"type": "tv",
-		"linkDetails": {
-			"link": "/free/hls/live/2111419/hatuna/index.m3u8?b-in-range=0-1800"
-		}
-	},
-	"ch_kohav": {
-		"index": 30,
-		"name": "ערוץ הכוכב הבא",
-		"mode": 10,
-		"image": "kohav.jpg",
-		"module": "keshet",
-		"tvgID": "",
-		"type": "tv",
-		"linkDetails": {
-			"link": "/free/hls/live/2111419/kohav/index.m3u8?b-in-range=0-1800"
-		}
-	},
-	"ch_ninja": {
-		"index": 31,
-		"name": "ערוץ נינג'ה ישראל",
-		"mode": 10,
-		"image": "ninja.jpg",
-		"module": "keshet",
-		"tvgID": "",
-		"type": "tv",
-		"linkDetails": {
-			"link": "/free/hls/live/2111419/ninja/index.m3u8?b-in-range=0-1800"
-		}
-	},
 	"rd_glglz": {
 		"index": 1,
 		"name": "גלגל\"צ",
