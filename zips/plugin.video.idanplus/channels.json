@@ -22,7 +22,8 @@
 		"linkDetails": {
 			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan11/live.livx",
 			"final": true,
-			"manifest_type": "mpd"
+			"manifest_type": "mpd",
+			"adaptive": true
 		}
 	},
 	"ch_11c": {
@@ -222,7 +223,8 @@
 		"linkDetails": {
 			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan_edu/live.livx",
 			"final": true,
-			"manifest_type": "mpd"
+			"manifest_type": "mpd",
+			"adaptive": true
 		}
 	},
 	"ch_24": {
@@ -285,7 +287,8 @@
 		"linkDetails": {
 			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/makan/live.livx",
 			"final": true,
-			"manifest_type": "mpd"
+			"manifest_type": "mpd",
+			"adaptive": true
 		}
 	},
 	"ch_66": {
@@ -435,7 +438,8 @@
 		"linkDetails": {
 			"ch": "he",
 			"link": "https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8",
-			"manifest_type": "hls"
+			"manifest_type": "hls",
+			"adaptive": true
 		}
 	},
 	"ch_i24newsen": {
@@ -449,7 +453,8 @@
 		"linkDetails": {
 			"ch": "en",
 			"link": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/playlist-hls.m3u8",
-			"manifest_type": "hls"
+			"manifest_type": "hls",
+			"adaptive": true
 		}
 	},
 	"ch_i24newsfr": {
@@ -463,7 +468,8 @@
 		"linkDetails": {
 			"ch": "fr",
 			"link": "https://fastly.live.brightcove.com/6386790513112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA1MTMxMTIifQ.Szahkl5VVsEWGdM4mgrmlDPVkWPTRgBMwwGg4D5hGFU/playlist-hls.m3u8",
-			"manifest_type": "hls"
+			"manifest_type": "hls",
+			"adaptive": true
 		}
 	},
 	"ch_i24newsar": {
@@ -477,7 +483,8 @@
 		"linkDetails": {
 			"ch": "ar",
 			"link": "https://fastly.live.brightcove.com/6386792572112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTI1NzIxMTIifQ.vsA8IfCHFqoqo2BHxx4w0PqBgTESPMYgFGL771vzKoA/playlist-hls.m3u8",
-			"manifest_type": "hls"
+			"manifest_type": "hls",
+			"adaptive": true
 		}
 	},
 	"ch_13comedy": {
@@ -602,7 +609,8 @@
 		"type": "radio",
 		"linkDetails": {
 			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_88/live.livx",
-			"manifest_type": "mpd"
+			"manifest_type": "mpd",
+			"adaptive": true
 		}
 	},
 	"rd_90": {
@@ -783,7 +791,8 @@
 		"type": "radio",
 		"linkDetails": {
 			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx",
-			"manifest_type": "mpd"
+			"manifest_type": "mpd",
+			"adaptive": true
 		}
 	},
 	"rd_gimel": {
@@ -796,7 +805,8 @@
 		"type": "radio",
 		"linkDetails": {
 			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_gimel/live.livx",
-			"manifest_type": "mpd"
+			"manifest_type": "mpd",
+			"adaptive": true
 		}
 	},
 	"rd_culture": {
@@ -809,7 +819,8 @@
 		"type": "radio",
 		"linkDetails": {
 			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_tarbut/live.livx",
-			"manifest_type": "mpd"
+			"manifest_type": "mpd",
+			"adaptive": true
 		}
 	},
 	"rd_music": {
@@ -822,7 +833,8 @@
 		"type": "radio",
 		"linkDetails": {
 			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx",
-			"manifest_type": "mpd"
+			"manifest_type": "mpd",
+			"adaptive": true
 		}
 	},
 	"rd_moreshet": {
@@ -835,7 +847,8 @@
 		"type": "radio",
 		"linkDetails": {
 			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_moreshet/live.livx",
-			"manifest_type": "mpd"
+			"manifest_type": "mpd",
+			"adaptive": true
 		}
 	},
 	"rd_kankids": {
@@ -873,7 +886,8 @@
 		"type": "radio",
 		"linkDetails": {
 			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reka/live.livx",
-			"manifest_type": "mpd"
+			"manifest_type": "mpd",
+			"adaptive": true
 		}
 	},
 	"rd_891": {
@@ -912,7 +926,8 @@
 		"type": "radio",
 		"linkDetails": {
 			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_makan/live.livx",
-			"manifest_type": "mpd"
+			"manifest_type": "mpd",
+			"adaptive": true
 		}
 	},
 	"rd_mizrahit": {
