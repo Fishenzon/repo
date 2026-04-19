@@ -183,7 +183,7 @@
 		"tvgID": "14",
 		"type": "tv",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8?bitrate=5692000&audioId=1&videoId=0",
+			"link": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8?indexMode&futc&dvr=7200000&bitrate=5692000&audioId=1&videoId=0",
 			"final": true
 		}
 	},
