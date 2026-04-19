@@ -8,7 +8,7 @@
 		"tvgID": "11",
 		"type": "tv",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?indexMode&futc&dvr=7200000"
+			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?dvr=21600000"
 		}
 	},
 	"ch_11b": {
@@ -20,7 +20,7 @@
 		"tvgID": "11",
 		"type": "tv",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan11/live.livx?indexMode&futc&dvr=7200000",
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan11/live.livx?dvr=21600000",
 			"final": true,
 			"adaptive": true
 		}
@@ -34,7 +34,7 @@
 		"tvgID": "11",
 		"type": "tv",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?indexMode&futc&dvr=7200000"
+			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000"
 		}
 	},
 	"ch_12": {
@@ -183,7 +183,7 @@
 		"tvgID": "14",
 		"type": "tv",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8?indexMode&futc&dvr=7200000&bitrate=5692000&audioId=1&videoId=0",
+			"link": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8?dvr=21600000&bitrate=5692000&audioId=1&videoId=0",
 			"final": true
 		}
 	},
@@ -196,7 +196,7 @@
 		"tvgID": "10",
 		"type": "tv",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?indexMode&futc&dvr=7200000"
+			"link": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000"
 		}
 	},
 	"ch_23": {
@@ -208,7 +208,7 @@
 		"tvgID": "23",
 		"type": "tv",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?indexMode&futc&dvr=7200000"
+			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?dvr=21600000"
 		}
 	},
 	"ch_23b": {
@@ -220,7 +220,7 @@
 		"tvgID": "23",
 		"type": "tv",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan_edu/live.livx?indexMode&futc&dvr=7200000",
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan_edu/live.livx?dvr=21600000",
 			"final": true,
 			"adaptive": true
 		}
@@ -271,7 +271,7 @@
 		"tvgID": "33",
 		"type": "tv",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?indexMode&futc&dvr=7200000"
+			"link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?dvr=21600000"
 		}
 	},
 	"ch_33b": {
@@ -283,7 +283,7 @@
 		"tvgID": "33",
 		"type": "tv",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/makan/live.livx?indexMode&futc&dvr=7200000",
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/makan/live.livx?dvr=21600000",
 			"final": true,
 			"adaptive": true
 		}
@@ -565,7 +565,7 @@
 		"tvgID": "88",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_88/live.livx?indexMode&futc&dvr=7200000",
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_88/live.livx?dvr=21600000",
 			"adaptive": true
 		}
 	},
@@ -746,7 +746,7 @@
 		"tvgID": "bet",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx?indexMode&futc&dvr=7200000",
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx?dvr=21600000",
 			"adaptive": true
 		}
 	},
@@ -759,7 +759,7 @@
 		"tvgID": "gimel",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_gimel/live.livx?indexMode&futc&dvr=7200000",
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_gimel/live.livx?dvr=21600000",
 			"adaptive": true
 		}
 	},
@@ -772,7 +772,7 @@
 		"tvgID": "culture",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_tarbut/live.livx?indexMode&futc&dvr=7200000",
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_tarbut/live.livx?dvr=21600000",
 			"adaptive": true
 		}
 	},
@@ -785,7 +785,7 @@
 		"tvgID": "music",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx?indexMode&futc&dvr=7200000",
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx?dvr=21600000",
 			"adaptive": true
 		}
 	},
@@ -798,7 +798,7 @@
 		"tvgID": "moreshet",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_moreshet/live.livx?indexMode&futc&dvr=7200000",
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_moreshet/live.livx?dvr=21600000",
 			"adaptive": true
 		}
 	},
@@ -836,7 +836,7 @@
 		"tvgID": "reka",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reka/live.livx?indexMode&futc&dvr=7200000",
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reka/live.livx?dvr=21600000",
 			"adaptive": true
 		}
 	},
@@ -875,7 +875,7 @@
 		"tvgID": "makan",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_makan/live.livx?indexMode&futc&dvr=7200000",
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_makan/live.livx?dvr=21600000",
 			"adaptive": true
 		}
 	},
