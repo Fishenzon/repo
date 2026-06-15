@@ -429,13 +429,11 @@
 		"name": "i24news",
 		"mode": 10,
 		"image": "i24news.png",
-		"module": "i24news",
+		"module": "tv",
 		"tvgID": "i24news",
 		"type": "tv",
 		"linkDetails": {
-			"ch": "he",
-			"link": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8",
-			"adaptive": true
+			"link": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
 		}
 	},
 	"ch_i24newsen": {
@@ -443,13 +441,11 @@
 		"name": "i24news en",
 		"mode": 10,
 		"image": "i24news.png",
-		"module": "i24news",
+		"module": "tv",
 		"tvgID": "i24news",
 		"type": "tv",
 		"linkDetails": {
-			"ch": "en",
-			"link": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
-			"adaptive": true
+			"link": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8"
 		}
 	},
 	"ch_i24newsfr": {
@@ -457,13 +453,11 @@
 		"name": "i24news fr",
 		"mode": 10,
 		"image": "i24news.png",
-		"module": "i24news",
+		"module": "tv",
 		"tvgID": "i24news",
 		"type": "tv",
 		"linkDetails": {
-			"ch": "fr",
-			"link": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
-			"adaptive": true
+			"link": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8"
 		}
 	},
 	"ch_i24newsar": {
@@ -471,13 +465,11 @@
 		"name": "i24news ar",
 		"mode": 10,
 		"image": "i24news.png",
-		"module": "i24news",
+		"module": "tv",
 		"tvgID": "i24news",
 		"type": "tv",
 		"linkDetails": {
-			"ch": "ar",
-			"link": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
-			"adaptive": true
+			"link": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8"
 		}
 	},
 	"ch_13comedy": {
