@@ -472,8 +472,20 @@
 			"link": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8"
 		}
 	},
-	"ch_13comedy": {
+	"ch_16tv": {
 		"index": 24,
+		"name": "ערוץ 16",
+		"mode": 10,
+		"image": "16tv.jpg",
+		"module": "tv",
+		"tvgID": "16tv",
+		"type": "tv",
+		"linkDetails": {
+			"link": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
+		}
+	},
+	"ch_13comedy": {
+		"index": 25,
 		"name": "13 ערוץ הקומדיות",
 		"mode": 4,
 		"image": "13comedy.jpg",
@@ -486,7 +498,7 @@
 		}
 	},
 	"ch_13nofesh": {
-		"index": 25,
+		"index": 26,
 		"name": "ערוץ הנופש",
 		"mode": 4,
 		"image": "13nofesh.jpg",
@@ -499,7 +511,7 @@
 		}
 	},
 	"ch_13reality": {
-		"index": 26,
+		"index": 27,
 		"name": "ערוץ הריאליטי",
 		"mode": 4,
 		"image": "13reality.jpg",
@@ -512,7 +524,7 @@
 		}
 	},
 	"ch_erets": {
-		"index": 27,
+		"index": 28,
 		"name": "ערוץ ארץ נהדרת",
 		"mode": 10,
 		"image": "erets.jpg",
@@ -524,7 +536,7 @@
 		}
 	},
 	"ch_savri": {
-		"index": 28,
+		"index": 29,
 		"name": "ערוץ סברי מרנן",
 		"mode": 10,
 		"image": "savri.jpg",
