@@ -1,3 +1,10 @@
+v4.0.0 -  16/07/2026
+- Fix missing Reshet 13 series (e.g. The Voice / דה וויס, אסנהיים) by merging homepage shows into all-programs.
+- Fix Reshet 13 "sort like website" order for newly merged series (insert by update date, not at the end).
+- Improve Reshet 13 series/episode image quality (request high-res Kaltura images instead of 120x90 defaults).
+- Use vertical posters as main Reshet 13 series art and set tvshows content for the series list.
+- Add missing series/category images for Sport1 and Sport5 VOD lists.
+
 v3.9.9 -  30/03/2026
 - Add an option to change channels tvgID.
 - Add an option to change channels playing using inputstream.adaptive.
