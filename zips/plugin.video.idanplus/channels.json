@@ -94,7 +94,9 @@
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/direct/hls/live/2035325/k12cc/index.m3u8?as=1"
+			"link": "/k12cc/index.m3u8?b-in-range=0-800",
+			"host": "https://d2249b6f08tjt0.cloudfront.net",
+			"cdn": "AWS"
 		}
 	},
 	"ch_13": {
