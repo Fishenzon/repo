@@ -46,7 +46,7 @@
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/stream/hls/live/2033791/k12/index.m3u8?as=1"
+			"link": "/stream/hls/live/2033791/k12/index.m3u8"
 		}
 	},
 	"ch_12b": {
@@ -58,7 +58,7 @@
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/stream/hls/live/2033791/k12n12wad/index.m3u8?b-in-range=0-700"
+			"link": "/stream/hls/live/2033791/k12n12wad/index.m3u8"
 		}
 	},
 	"ch_12b2": {
@@ -70,7 +70,7 @@
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-2700"
+			"link": "/stream/hls/live/2033791/k12dvr/index.m3u8"
 		}
 	},
 	"ch_12b3": {
@@ -82,7 +82,7 @@
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/n12/hls/live/20000821/k12rh/index.m3u8?b-in-range=0-1100"
+			"link": "/n12/hls/live/20000821/k12rh/index.m3u8"
 		}
 	},
 	"ch_12c": {
@@ -94,7 +94,9 @@
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/direct/hls/live/2035325/k12cc/index.m3u8?as=1"
+			"link": "/k12cc/index.m3u8?b-in-range=0-1800",
+			"host": "https://d2249b6f08tjt0.cloudfront.net",
+			"cdn": "AWS"
 		}
 	},
 	"ch_13": {
