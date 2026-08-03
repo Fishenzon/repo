@@ -46,7 +46,7 @@
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/direct/hls/live/2033791/k12/index.m3u8?as=1"
+			"link": "/stream/hls/live/2033791/k12n12wad/index.m3u8?b-in-range=0-700"
 		}
 	},
 	"ch_12b": {
