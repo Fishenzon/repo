@@ -1,3 +1,7 @@
+v4.0.1 -  03/08/2026
+- Fix Keshet-12 Live.
+- Fix for 9TV VOD.
+
 v4.0.0 -  16/07/2026
 - Fix missing Reshet 13 series (e.g. The Voice / דה וויס, אסנהיים) by merging homepage shows into all-programs.
 - Fix Reshet 13 "sort like website" order for newly merged series (insert by update date, not at the end).
