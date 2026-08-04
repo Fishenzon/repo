@@ -674,7 +674,7 @@
 		"tvgID": "102fm",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://cdn88.mediacast.co.il/102fm-tlv/102fm_aac/icecast.audio",
+			"link": "https://102.livecdn.biz/102fm_aac",
 			"final": true
 		}
 	},
@@ -817,7 +817,8 @@
 		"tvgID": "",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://kankids.media.kan.org.il/hls/live/2024820/2024820/playlist.m3u8"
+			"link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_kan_hinuchit/live.livx",
+			"adaptive": true
 		}
 	},
 	"rd_sport5": {
@@ -894,7 +895,7 @@
 		"tvgID": "",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://mzr.mediacast.co.il/mzradio",
+			"link": "https://rs.mizrahit.fm:7777",
 			"final": true
 		}
 	},
@@ -998,7 +999,7 @@
 		"tvgID": "",
 		"type": "radio",
 		"linkDetails": {
-			"link": "https://diki.mediacast.co.il/diki",
+			"link": "https://radio.diki-mizrahit.co.il",
 			"final": true
 		}
 	}
