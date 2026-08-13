@@ -561,6 +561,54 @@
 			"link": "/evrideo/hls/live/20001278/savri/index.m3u8"
 		}
 	},
+	"ch_free_comedy": {
+		"index": 30,
+		"name": "ערוץ הקומדיה",
+		"mode": 10,
+		"image": "",
+		"module": "keshet",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/evrideo/hls/live/20001278/free_comedy/index.m3u8"
+		}
+	},
+	"ch_free_drama": {
+		"index": 31,
+		"name": "ערוץ הדרמה",
+		"mode": 10,
+		"image": "",
+		"module": "keshet",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/evrideo/hls/live/20001278/free_drama/index.m3u8"
+		}
+	},
+	"ch_free_music": {
+		"index": 32,
+		"name": "ערוץ המוזיקה",
+		"mode": 10,
+		"image": "",
+		"module": "keshet",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/evrideo/hls/live/20001278/free_music/index.m3u8"
+		}
+	},
+	"ch_free_food": {
+		"index": 33,
+		"name": "ערוץ האוכל",
+		"mode": 10,
+		"image": "",
+		"module": "keshet",
+		"tvgID": "",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/evrideo/hls/live/20001278/free_food/index.m3u8"
+		}
+	},
 	"rd_glglz": {
 		"index": 1,
 		"name": "גלגל\"צ",
