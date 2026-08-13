@@ -229,7 +229,7 @@
 	},
 	"ch_24": {
 		"index": 7,
-		"name": "ערוץ 24 החדש",
+		"name": "ערוץ 24",
 		"mode": 10,
 		"image": "24telad.png",
 		"module": "keshet",
@@ -237,6 +237,18 @@
 		"type": "tv",
 		"linkDetails": {
 			"link": "/direct/hls/live/2035340/ch24live/index.m3u8?as=1"
+		}
+	},
+	"ch_24": {
+		"index": 7,
+		"name": "ערוץ 24 - גיבוי",
+		"mode": 10,
+		"image": "24telad.png",
+		"module": "keshet",
+		"tvgID": "24",
+		"type": "tv",
+		"linkDetails": {
+			"link": "/evrideo/hls/live/20001278/ch24live/index.m3u8"
 		}
 	},
 	"ch_bb": {
@@ -534,7 +546,7 @@
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/free/hls/live/2111419/erets/index.m3u8?b-in-range=0-1800"
+			"link": "/evrideo/hls/live/20001278/erets/index.m3u8"
 		}
 	},
 	"ch_savri": {
@@ -546,7 +558,7 @@
 		"tvgID": "",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/free/hls/live/2111419/savri/index.m3u8?b-in-range=0-1800"
+			"link": "/evrideo/hls/live/20001278/savri/index.m3u8"
 		}
 	},
 	"rd_glglz": {
