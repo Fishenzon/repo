@@ -1,3 +1,7 @@
+v4.0.2 -  17/08/2026
+- Add an option to change channel name, logo tvgID and playing using inputstream.adaptive directly from channel's context menu.
+- Images removed from images folder to github.
+
 v4.0.1 -  03/08/2026
 - Fix Keshet-12 Live.
 - Fix for 9TV VOD.
