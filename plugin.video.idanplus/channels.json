@@ -703,7 +703,7 @@
 		"index": 8,
 		"name": "101FM רדיו ירושלים",
 		"mode": 11,
-		"image": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/1015fm.jpg",
+		"image": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/101fm.png",
 		"module": "radio",
 		"tvgID": "101fm",
 		"type": "radio",
