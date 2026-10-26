@@ -1,3 +1,8 @@
+v4.0.3 -  26/10/2026
+- Add continue watching (and next episode) section. (there is section in addon settings to configure it).
+- Fix Kan11-VODs.
+- Fix icons not shown on IPTV.
+
 v4.0.2 -  17/08/2026
 - Add an option to change channel name, logo tvgID and playing using inputstream.adaptive directly from channel's context menu.
 - Images removed from images folder to github.
