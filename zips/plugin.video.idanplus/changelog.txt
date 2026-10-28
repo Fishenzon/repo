@@ -1,3 +1,7 @@
+v4.0.4 -  28/10/2026
+- Fix Keshet 12 Live.
+- Add an option to remove items from continue watching.
+
 v4.0.3 -  26/10/2026
 - Add continue watching (and next episode) section. (there is section in addon settings to configure it).
 - Fix Kan11-VODs.
