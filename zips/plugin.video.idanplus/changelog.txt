@@ -1,3 +1,6 @@
+v4.0.5 -  03/11/2026
+- Fix continue watch section.
+
 v4.0.4 -  28/10/2026
 - Fix Keshet 12 Live.
 - Add an option to remove items from continue watching.
