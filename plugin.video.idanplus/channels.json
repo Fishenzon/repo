@@ -46,7 +46,8 @@
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/stream/hls/live/20000821/k12rh-dvr/index.m3u8"
+			"link": "/stream/hls/live/20000821/k12rh-dvr/index.m3u8",
+			"adaptive": true
 		}
 	},
 	"ch_12b": {
@@ -58,24 +59,15 @@
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/stream/hls/live/2033791/k12n12wad/index.m3u8"
+			"link": "/k12dvr/index.m3u8?b-in-range=0-5600",
+			"host": "https://d2249b6f08tjt0.cloudfront.net",
+			"cdn": "AWS",
+			"adaptive": true
 		}
 	},
 	"ch_12b2": {
 		"index": 2,
 		"name": "קשת 12 - גיבוי 2",
-		"mode": 10,
-		"image": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12tv.jpg",
-		"module": "keshet",
-		"tvgID": "12",
-		"type": "tv",
-		"linkDetails": {
-			"link": "/stream/hls/live/2033791/k12dvr/index.m3u8"
-		}
-	},
-	"ch_12b3": {
-		"index": 2,
-		"name": "קשת 12 - גיבוי 3",
 		"mode": 10,
 		"image": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12tv.jpg",
 		"module": "keshet",
@@ -94,7 +86,7 @@
 		"tvgID": "12",
 		"type": "tv",
 		"linkDetails": {
-			"link": "/k12cc/index.m3u8?b-in-range=0-1800",
+			"link": "/k12cc/index.m3u8?b-in-range=0-5600",
 			"host": "https://d2249b6f08tjt0.cloudfront.net",
 			"cdn": "AWS"
 		}
